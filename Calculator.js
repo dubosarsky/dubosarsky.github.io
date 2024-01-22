@@ -6646,12 +6646,12 @@ if (reversed == null) { reversed = false; }
 		/*
 		Clicking on the specified symbol instance executes a function.
 		*/
-		_this.home.on('click', function(){
-		/*
+		_this.home.on('click', function () {
+			/*
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(1);
+			_this.gotoAndStop(1);
 		});
 		
 		
@@ -6659,12 +6659,56 @@ if (reversed == null) { reversed = false; }
 		/*
 		Clicking on the specified symbol instance executes a function.
 		*/
-		_this.back.on('click', function(){
+		_this.back.on('click', function () {
+			/*
+		Moves the playhead to the specified frame number in the timeline and stops the movie.
+		Can be used on the main timeline or on movie clip timelines.
+		*/
+			_this.gotoAndStop(2);
+		});
+		
+		
+		var _this = this;
+		_this.superdown.on('click', function(){
 		/*
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(2);
+		_this.gotoAndStop(40);
+		});
+		
+		var _this = this;
+		_this.down.on('click', function(){
+		/*
+		Moves the playhead to the specified frame number in the timeline and stops the movie.
+		Can be used on the main timeline or on movie clip timelines.
+		*/
+		_this.gotoAndStop(36);
+		});
+		
+		
+		var _this = this;
+		/*
+		Clicking on the specified symbol instance executes a function.
+		*/
+		_this.OK.on('click', function(){
+		/*
+		Moves the playhead to the specified frame number in the timeline and stops the movie.
+		Can be used on the main timeline or on movie clip timelines.
+		*/
+		_this.gotoAndStop(41);
+		});
+		
+		var _this = this;
+		/*
+		Clicking on the specified symbol instance executes a function.
+		*/
+		_this.EXE.on('click', function(){
+		/*
+		Moves the playhead to the specified frame number in the timeline and stops the movie.
+		Can be used on the main timeline or on movie clip timelines.
+		*/
+		_this.gotoAndStop(41);
 		});
 	}
 	this.frame_36 = function() {
@@ -6686,7 +6730,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(4);
+		_this.gotoAndStop(2);
 		});
 		
 		
@@ -6696,7 +6740,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(36);
+		_this.gotoAndStop(35);
 		});
 		
 		var _this = this;
@@ -6705,7 +6749,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(41);
+		_this.gotoAndStop(40);
 		});
 		
 		var _this = this;
@@ -6727,7 +6771,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(42);
+		_this.gotoAndStop(53);
 		});
 		
 		var _this = this;
@@ -6739,7 +6783,19 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(42);
+		_this.gotoAndStop(53);
+		});
+		
+		var _this = this;
+		/*
+		Clicking on the specified symbol instance executes a function.
+		*/
+		_this.up.on('click', function(){
+		/*
+		Moves the playhead to the specified frame number in the timeline and stops the movie.
+		Can be used on the main timeline or on movie clip timelines.
+		*/
+		_this.gotoAndStop(35);
 		});
 	}
 	this.frame_37 = function() {
@@ -6761,7 +6817,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(4);
+		_this.gotoAndStop(2);
 		});
 		
 		
@@ -6771,7 +6827,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(36);
+		_this.gotoAndStop(35);
 		});
 		
 		var _this = this;
@@ -6780,7 +6836,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(41);
+		_this.gotoAndStop(40);
 		});
 		
 		var _this = this;
@@ -6810,7 +6866,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(53);
+		_this.gotoAndStop(68);
 		});
 		
 		var _this = this;
@@ -6822,7 +6878,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(53);
+		_this.gotoAndStop(68);
 		});
 	}
 	this.frame_38 = function() {
@@ -6844,7 +6900,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(4);
+		_this.gotoAndStop(2);
 		});
 		
 		
@@ -6854,7 +6910,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(36);
+		_this.gotoAndStop(35);
 		});
 		
 		var _this = this;
@@ -6863,7 +6919,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(41);
+		_this.gotoAndStop(40);
 		});
 		
 		var _this = this;
@@ -6893,7 +6949,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(68);
+		_this.gotoAndStop(89);
 		});
 		
 		var _this = this;
@@ -6905,7 +6961,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(68);
+		_this.gotoAndStop(89);
 		});
 	}
 	this.frame_39 = function() {
@@ -6927,7 +6983,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(4);
+		_this.gotoAndStop(2);
 		});
 		
 		
@@ -6937,7 +6993,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(36);
+		_this.gotoAndStop(35);
 		});
 		
 		var _this = this;
@@ -6946,7 +7002,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(41);
+		_this.gotoAndStop(40);
 		});
 		
 		var _this = this;
@@ -6976,7 +7032,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(89);
+		_this.gotoAndStop(105);
 		});
 		
 		var _this = this;
@@ -6988,7 +7044,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(89);
+		_this.gotoAndStop(105);
 		});
 	}
 	this.frame_40 = function() {
@@ -7010,7 +7066,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(4);
+		_this.gotoAndStop(2);
 		});
 		
 		
@@ -7020,7 +7076,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(36);
+		_this.gotoAndStop(35);
 		});
 		
 		var _this = this;
@@ -7029,17 +7085,9 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(41);
+		_this.gotoAndStop(40);
 		});
 		
-		var _this = this;
-		_this.down.on('click', function(){
-		/*
-		Moves the playhead to the specified frame number in the timeline and stops the movie.
-		Can be used on the main timeline or on movie clip timelines.
-		*/
-		_this.gotoAndStop(41);
-		});
 		
 		var _this = this;
 		_this.up.on('click', function(){
@@ -7059,7 +7107,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(105);
+		_this.gotoAndStop(110);
 		});
 		
 		var _this = this;
@@ -7071,7 +7119,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(105);
+		_this.gotoAndStop(110);
 		});
 	}
 	this.frame_41 = function() {
@@ -7093,7 +7141,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(4);
+		_this.gotoAndStop(35);
 		});
 		
 		
@@ -7112,7 +7160,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(41);
+		_this.gotoAndStop(46);
 		});
 		
 		
@@ -7122,7 +7170,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(40);
+		_this.gotoAndStop(42);
 		});
 		
 		var _this = this;
@@ -7134,7 +7182,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(110);
+		_this.gotoAndStop(47);
 		});
 		
 		var _this = this;
@@ -7146,7 +7194,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(110);
+		_this.gotoAndStop(47);
 		});
 	}
 	this.frame_42 = function() {
@@ -7168,7 +7216,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(36);
+		_this.gotoAndStop(35);
 		});
 		
 		
@@ -7251,7 +7299,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(36);
+		_this.gotoAndStop(35);
 		});
 		
 		
@@ -7334,7 +7382,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(36);
+		_this.gotoAndStop(35);
 		});
 		
 		
@@ -7417,7 +7465,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(36);
+		_this.gotoAndStop(35);
 		});
 		
 		
@@ -7500,7 +7548,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(36);
+		_this.gotoAndStop(35);
 		});
 		
 		
@@ -8459,7 +8507,7 @@ if (reversed == null) { reversed = false; }
 		/*
 		Clicking on the specified symbol instance executes a function.
 		*/
-		_this.example1.on('click', function(){
+		_this.go.on('click', function(){
 		/*
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
@@ -8471,7 +8519,7 @@ if (reversed == null) { reversed = false; }
 		/*
 		Clicking on the specified symbol instance executes a function.
 		*/
-		_this.example2.on('click', function(){
+		_this.goo.on('click', function(){
 		/*
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
@@ -10562,7 +10610,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(36);
+		_this.gotoAndStop(35);
 		});
 	}
 	this.frame_111 = function() {
@@ -17394,15 +17442,15 @@ if (reversed == null) { reversed = false; }
 	this.instance_79 = new lib.image20240111_092911();
 	this.instance_79.setTransform(75,67);
 
-	this.example2_1 = new lib.example2();
-	this.example2_1.name = "example2_1";
-	this.example2_1.setTransform(795.5,580.4,1,1,0,0,0,320.4,23.1);
-	new cjs.ButtonHelper(this.example2_1, 0, 1, 1);
+	this.goo = new lib.example2();
+	this.goo.name = "goo";
+	this.goo.setTransform(796.75,611.65,1,1,0,0,0,320.4,23.1);
+	new cjs.ButtonHelper(this.goo, 0, 1, 1);
 
-	this.example1_1 = new lib.example1();
-	this.example1_1.name = "example1_1";
-	this.example1_1.setTransform(786.45,510.4,1,1,0,0,0,310.1,27.6);
-	new cjs.ButtonHelper(this.example1_1, 0, 1, 1);
+	this.go = new lib.example1();
+	this.go.name = "go";
+	this.go.setTransform(786.45,530.75,1,1,0,0,0,310.1,27.6);
+	new cjs.ButtonHelper(this.go, 0, 1, 1);
 
 	this.instance_80 = new lib.image20240111_092914();
 	this.instance_80.setTransform(75,67);
@@ -17560,35 +17608,38 @@ if (reversed == null) { reversed = false; }
 	this.instance_127 = new lib.image20240111_093420();
 	this.instance_127.setTransform(77,67);
 
-	this.instance_128 = new lib.firstpiece();
-	this.instance_128.setTransform(467,537);
+	this.instance_128 = new lib.Bitmap514();
+	this.instance_128.setTransform(432,329,0.7399,0.7289);
 
-	this.instance_129 = new lib.image20240111_093422();
-	this.instance_129.setTransform(76,69);
+	this.instance_129 = new lib.firstpiece();
+	this.instance_129.setTransform(467,537);
 
-	this.instance_130 = new lib.image20240111_093424();
-	this.instance_130.setTransform(79,71);
+	this.instance_130 = new lib.image20240111_093422();
+	this.instance_130.setTransform(76,69);
 
-	this.instance_131 = new lib.image20240111_093438();
-	this.instance_131.setTransform(75,68);
+	this.instance_131 = new lib.image20240111_093424();
+	this.instance_131.setTransform(79,71);
 
-	this.instance_132 = new lib.image20240111_093440();
-	this.instance_132.setTransform(77,67);
+	this.instance_132 = new lib.image20240111_093438();
+	this.instance_132.setTransform(75,68);
 
-	this.instance_133 = new lib.image20240111_093442();
-	this.instance_133.setTransform(76,69);
+	this.instance_133 = new lib.image20240111_093440();
+	this.instance_133.setTransform(77,67);
 
-	this.instance_134 = new lib.AVeri("synched",0);
-	this.instance_134.setTransform(764.9,558.85,0.7407,0.7406,0,0,0,325.6,325.1);
+	this.instance_134 = new lib.image20240111_093442();
+	this.instance_134.setTransform(76,69);
 
-	this.instance_135 = new lib.image20240111_093445();
-	this.instance_135.setTransform(71,67);
+	this.instance_135 = new lib.AVeri("synched",0);
+	this.instance_135.setTransform(764.9,558.85,0.7407,0.7406,0,0,0,325.6,325.1);
 
-	this.instance_136 = new lib.fifthpiece();
-	this.instance_136.setTransform(599,84);
+	this.instance_136 = new lib.image20240111_093445();
+	this.instance_136.setTransform(71,67);
 
-	this.instance_137 = new lib.image20240111_093447();
-	this.instance_137.setTransform(76,70);
+	this.instance_137 = new lib.fifthpiece();
+	this.instance_137.setTransform(599,84);
+
+	this.instance_138 = new lib.image20240111_093447();
+	this.instance_138.setTransform(76,70);
 
 	this.example5 = new lib.example1_1();
 	this.example5.name = "example5";
@@ -17605,640 +17656,640 @@ if (reversed == null) { reversed = false; }
 	this.example3_1.setTransform(427.1,327.4);
 	new cjs.ButtonHelper(this.example3_1, 0, 1, 1);
 
-	this.example2_2 = new lib.example1_1();
-	this.example2_2.name = "example2_2";
-	this.example2_2.setTransform(427.1,227.25);
-	new cjs.ButtonHelper(this.example2_2, 0, 1, 1);
+	this.example2_1 = new lib.example1_1();
+	this.example2_1.name = "example2_1";
+	this.example2_1.setTransform(427.1,227.25);
+	new cjs.ButtonHelper(this.example2_1, 0, 1, 1);
 
-	this.instance_138 = new lib.image20240111_093450();
-	this.instance_138.setTransform(78,71);
+	this.instance_139 = new lib.image20240111_093450();
+	this.instance_139.setTransform(78,71);
 
-	this.instance_139 = new lib.image20240111_093452();
-	this.instance_139.setTransform(77,69);
+	this.instance_140 = new lib.image20240111_093452();
+	this.instance_140.setTransform(77,69);
 
-	this.instance_140 = new lib.image20240111_093454();
-	this.instance_140.setTransform(75,67);
+	this.instance_141 = new lib.image20240111_093454();
+	this.instance_141.setTransform(75,67);
 
-	this.instance_141 = new lib.image20240111_093456();
-	this.instance_141.setTransform(80,67);
+	this.instance_142 = new lib.image20240111_093456();
+	this.instance_142.setTransform(80,67);
 
-	this.instance_142 = new lib.image20240111_093458();
-	this.instance_142.setTransform(76,66);
+	this.instance_143 = new lib.image20240111_093458();
+	this.instance_143.setTransform(76,66);
 
-	this.instance_143 = new lib.image20240111_093459();
-	this.instance_143.setTransform(74,66);
+	this.instance_144 = new lib.image20240111_093459();
+	this.instance_144.setTransform(74,66);
 
-	this.instance_144 = new lib.image20240111_093502();
-	this.instance_144.setTransform(75,68);
+	this.instance_145 = new lib.image20240111_093502();
+	this.instance_145.setTransform(75,68);
 
-	this.instance_145 = new lib.image20240111_093503();
-	this.instance_145.setTransform(73,67);
+	this.instance_146 = new lib.image20240111_093503();
+	this.instance_146.setTransform(73,67);
 
-	this.instance_146 = new lib.Bitmap404();
-	this.instance_146.setTransform(441,77,0.6312,0.6312);
+	this.instance_147 = new lib.Bitmap404();
+	this.instance_147.setTransform(441,77,0.6312,0.6312);
 
-	this.instance_147 = new lib.image20240111_093506();
-	this.instance_147.setTransform(76,68);
+	this.instance_148 = new lib.image20240111_093506();
+	this.instance_148.setTransform(76,68);
 
-	this.instance_148 = new lib.Bitmap405();
-	this.instance_148.setTransform(479,152,0.62,0.62);
+	this.instance_149 = new lib.Bitmap405();
+	this.instance_149.setTransform(479,152,0.62,0.62);
 
-	this.instance_149 = new lib.image20240111_093507();
-	this.instance_149.setTransform(78,70);
+	this.instance_150 = new lib.image20240111_093507();
+	this.instance_150.setTransform(78,70);
 
-	this.instance_150 = new lib.AbbyMellow("synched",0);
-	this.instance_150.setTransform(1157.55,468.55,1,1,0,0,0,150,175);
+	this.instance_151 = new lib.AbbyMellow("synched",0);
+	this.instance_151.setTransform(1157.55,468.55,1,1,0,0,0,150,175);
 
-	this.instance_151 = new lib.image20240111_093509();
-	this.instance_151.setTransform(76,69);
+	this.instance_152 = new lib.image20240111_093509();
+	this.instance_152.setTransform(76,69);
 
-	this.instance_152 = new lib.Bitmap407();
-	this.instance_152.setTransform(457,136,0.6341,0.6341);
+	this.instance_153 = new lib.Bitmap407();
+	this.instance_153.setTransform(457,136,0.6341,0.6341);
 
-	this.instance_153 = new lib.image20240111_093512();
-	this.instance_153.setTransform(74,68);
+	this.instance_154 = new lib.image20240111_093512();
+	this.instance_154.setTransform(74,68);
 
-	this.instance_154 = new lib.Abbystraight("synched",0);
-	this.instance_154.setTransform(1072,490.35,1,1,0,0,0,150,150);
+	this.instance_155 = new lib.Abbystraight("synched",0);
+	this.instance_155.setTransform(1072,490.35,1,1,0,0,0,150,150);
 
-	this.instance_155 = new lib.image20240111_093533();
-	this.instance_155.setTransform(79,68);
+	this.instance_156 = new lib.image20240111_093533();
+	this.instance_156.setTransform(79,68);
 
-	this.instance_156 = new lib.image20240111_093609();
-	this.instance_156.setTransform(75,67);
+	this.instance_157 = new lib.image20240111_093609();
+	this.instance_157.setTransform(75,67);
 
-	this.instance_157 = new lib.Bitmap410();
-	this.instance_157.setTransform(454,56,0.6504,0.6504);
+	this.instance_158 = new lib.Bitmap410();
+	this.instance_158.setTransform(454,56,0.6504,0.6504);
 
-	this.instance_158 = new lib.image20240111_093612();
-	this.instance_158.setTransform(74,68);
+	this.instance_159 = new lib.image20240111_093612();
+	this.instance_159.setTransform(74,68);
 
-	this.instance_159 = new lib.image20240111_093615();
-	this.instance_159.setTransform(79,70);
+	this.instance_160 = new lib.image20240111_093615();
+	this.instance_160.setTransform(79,70);
 
-	this.instance_160 = new lib.image20240111_093617();
-	this.instance_160.setTransform(77,67);
+	this.instance_161 = new lib.image20240111_093617();
+	this.instance_161.setTransform(77,67);
 
-	this.instance_161 = new lib.image20240111_093629();
-	this.instance_161.setTransform(74,67);
+	this.instance_162 = new lib.image20240111_093629();
+	this.instance_162.setTransform(74,67);
 
-	this.instance_162 = new lib.Abbysmile("synched",0);
-	this.instance_162.setTransform(993.05,421.4,1,1,0,0,0,900,1050);
+	this.instance_163 = new lib.Abbysmile("synched",0);
+	this.instance_163.setTransform(993.05,421.4,1,1,0,0,0,900,1050);
 
-	this.instance_163 = new lib.image20240111_093631();
-	this.instance_163.setTransform(77,70);
+	this.instance_164 = new lib.image20240111_093631();
+	this.instance_164.setTransform(77,70);
 
-	this.instance_164 = new lib.Bitmap415();
-	this.instance_164.setTransform(443,60,0.6502,0.6502);
+	this.instance_165 = new lib.Bitmap415();
+	this.instance_165.setTransform(443,60,0.6502,0.6502);
 
-	this.instance_165 = new lib.image20240111_093633();
-	this.instance_165.setTransform(78,69);
+	this.instance_166 = new lib.image20240111_093633();
+	this.instance_166.setTransform(78,69);
 
-	this.instance_166 = new lib.image20240111_093635();
-	this.instance_166.setTransform(75,68);
+	this.instance_167 = new lib.image20240111_093635();
+	this.instance_167.setTransform(75,68);
 
-	this.instance_167 = new lib.image20240111_093639();
-	this.instance_167.setTransform(72,69);
+	this.instance_168 = new lib.image20240111_093639();
+	this.instance_168.setTransform(72,69);
 
 	this.prime = new lib.prime();
 	this.prime.name = "prime";
 	this.prime.setTransform(806.5,551.75,1,1,0,0,0,337.7,61.6);
 	new cjs.ButtonHelper(this.prime, 0, 1, 1);
 
-	this.instance_168 = new lib.image20240111_093640();
-	this.instance_168.setTransform(74,67);
+	this.instance_169 = new lib.image20240111_093640();
+	this.instance_169.setTransform(74,67);
 
-	this.instance_169 = new lib.image20240111_093642();
-	this.instance_169.setTransform(77,68);
+	this.instance_170 = new lib.image20240111_093642();
+	this.instance_170.setTransform(77,68);
 
-	this.instance_170 = new lib.image20240111_093645();
-	this.instance_170.setTransform(76,68);
+	this.instance_171 = new lib.image20240111_093645();
+	this.instance_171.setTransform(76,68);
 
-	this.instance_171 = new lib.image20240111_093647();
-	this.instance_171.setTransform(76,70);
+	this.instance_172 = new lib.image20240111_093647();
+	this.instance_172.setTransform(76,70);
 
-	this.instance_172 = new lib.image20240111_093649();
-	this.instance_172.setTransform(75,66);
+	this.instance_173 = new lib.image20240111_093649();
+	this.instance_173.setTransform(75,66);
 
-	this.instance_173 = new lib.image20240111_093651();
-	this.instance_173.setTransform(76,68);
+	this.instance_174 = new lib.image20240111_093651();
+	this.instance_174.setTransform(76,68);
 
-	this.instance_174 = new lib.image20240111_093653();
-	this.instance_174.setTransform(78,67);
+	this.instance_175 = new lib.image20240111_093653();
+	this.instance_175.setTransform(78,67);
 
-	this.instance_175 = new lib.image20240111_093656();
-	this.instance_175.setTransform(74,67);
+	this.instance_176 = new lib.image20240111_093656();
+	this.instance_176.setTransform(74,67);
 
-	this.instance_176 = new lib.image20240111_093659();
-	this.instance_176.setTransform(78,69);
+	this.instance_177 = new lib.image20240111_093659();
+	this.instance_177.setTransform(78,69);
 
-	this.instance_177 = new lib.image20240111_093701();
-	this.instance_177.setTransform(78,68);
+	this.instance_178 = new lib.image20240111_093701();
+	this.instance_178.setTransform(78,68);
 
-	this.instance_178 = new lib.image20240111_093703();
-	this.instance_178.setTransform(73,66);
+	this.instance_179 = new lib.image20240111_093703();
+	this.instance_179.setTransform(73,66);
 
-	this.instance_179 = new lib.image20240111_093705();
-	this.instance_179.setTransform(78,70);
+	this.instance_180 = new lib.image20240111_093705();
+	this.instance_180.setTransform(78,70);
 
-	this.instance_180 = new lib.Bitmap426();
-	this.instance_180.setTransform(515,238);
+	this.instance_181 = new lib.Bitmap426();
+	this.instance_181.setTransform(515,238);
 
 	this.right = new lib.Right();
 	this.right.name = "right";
 	this.right.setTransform(318.2,296.35,1,1,0,0,0,17.7,17.7);
 	new cjs.ButtonHelper(this.right, 0, 1, 1);
 
-	this.instance_181 = new lib.image20240111_093707();
-	this.instance_181.setTransform(78,69);
+	this.instance_182 = new lib.image20240111_093707();
+	this.instance_182.setTransform(78,69);
 
-	this.instance_182 = new lib.Bitmap427();
-	this.instance_182.setTransform(683,217);
+	this.instance_183 = new lib.Bitmap427();
+	this.instance_183.setTransform(683,217);
 
 	this.left = new lib.Left();
 	this.left.name = "left";
 	this.left.setTransform(225.2,295.25,1,1,0,0,0,15.4,15.4);
 	new cjs.ButtonHelper(this.left, 0, 1, 1);
 
-	this.instance_183 = new lib.image20240111_093710();
-	this.instance_183.setTransform(76,67);
+	this.instance_184 = new lib.image20240111_093710();
+	this.instance_184.setTransform(76,67);
 
-	this.instance_184 = new lib.Bitmap428();
-	this.instance_184.setTransform(700,184);
+	this.instance_185 = new lib.Bitmap428();
+	this.instance_185.setTransform(700,184);
 
-	this.instance_185 = new lib.image20240111_093712();
-	this.instance_185.setTransform(74,68);
+	this.instance_186 = new lib.image20240111_093712();
+	this.instance_186.setTransform(74,68);
 
-	this.instance_186 = new lib.Bitmap429();
-	this.instance_186.setTransform(562,235);
+	this.instance_187 = new lib.Bitmap429();
+	this.instance_187.setTransform(562,235);
 
-	this.instance_187 = new lib.image20240111_093715();
-	this.instance_187.setTransform(76,68);
+	this.instance_188 = new lib.image20240111_093715();
+	this.instance_188.setTransform(76,68);
 
-	this.instance_188 = new lib.image20240111_093716();
-	this.instance_188.setTransform(77,67);
+	this.instance_189 = new lib.image20240111_093716();
+	this.instance_189.setTransform(77,67);
 
-	this.instance_189 = new lib.image20240111_093718();
-	this.instance_189.setTransform(76,69);
-
-	this.instance_190 = new lib.image20240111_093720();
+	this.instance_190 = new lib.image20240111_093718();
 	this.instance_190.setTransform(76,69);
+
+	this.instance_191 = new lib.image20240111_093720();
+	this.instance_191.setTransform(76,69);
 
 	this.LEFT = new lib.GoHome();
 	this.LEFT.name = "LEFT";
 	this.LEFT.setTransform(222.15,292.55);
 	new cjs.ButtonHelper(this.LEFT, 0, 1, 1);
 
-	this.instance_191 = new lib.image20240111_133344();
-	this.instance_191.setTransform(75,69);
+	this.instance_192 = new lib.image20240111_133344();
+	this.instance_192.setTransform(75,69);
 
-	this.instance_192 = new lib.image20240111_133318();
-	this.instance_192.setTransform(75,70);
+	this.instance_193 = new lib.image20240111_133318();
+	this.instance_193.setTransform(75,70);
 
-	this.instance_193 = new lib.Bitmap440();
-	this.instance_193.setTransform(451,311,0.6621,0.6336);
+	this.instance_194 = new lib.Bitmap440();
+	this.instance_194.setTransform(451,311,0.6621,0.6336);
 
-	this.instance_194 = new lib.image20240111_133347();
-	this.instance_194.setTransform(75,68);
+	this.instance_195 = new lib.image20240111_133347();
+	this.instance_195.setTransform(75,68);
 
-	this.instance_195 = new lib.Bitmap441();
-	this.instance_195.setTransform(452,309,0.6622,0.6622);
+	this.instance_196 = new lib.Bitmap441();
+	this.instance_196.setTransform(452,309,0.6622,0.6622);
 
-	this.instance_196 = new lib.image20240111_133348();
-	this.instance_196.setTransform(74,69);
+	this.instance_197 = new lib.image20240111_133348();
+	this.instance_197.setTransform(74,69);
 
-	this.instance_197 = new lib.Bitmap442();
-	this.instance_197.setTransform(474,347,0.6418,0.6418);
+	this.instance_198 = new lib.Bitmap442();
+	this.instance_198.setTransform(474,347,0.6418,0.6418);
 
-	this.instance_198 = new lib.image20240111_133350();
-	this.instance_198.setTransform(76,69);
+	this.instance_199 = new lib.image20240111_133350();
+	this.instance_199.setTransform(76,69);
 
-	this.instance_199 = new lib.Bitmap443();
-	this.instance_199.setTransform(461,323,0.6331,0.5984);
+	this.instance_200 = new lib.Bitmap443();
+	this.instance_200.setTransform(461,323,0.6331,0.5984);
 
-	this.instance_200 = new lib.image20240111_133352();
-	this.instance_200.setTransform(74,68);
+	this.instance_201 = new lib.image20240111_133352();
+	this.instance_201.setTransform(74,68);
 
-	this.instance_201 = new lib.APennwhistling("synched",0);
-	this.instance_201.setTransform(1156.8,333.35,1,1,0,0,0,227.5,342.5);
+	this.instance_202 = new lib.APennwhistling("synched",0);
+	this.instance_202.setTransform(1156.8,333.35,1,1,0,0,0,227.5,342.5);
 
-	this.instance_202 = new lib.Bitmap444();
-	this.instance_202.setTransform(429,136,0.6443,0.6443);
+	this.instance_203 = new lib.Bitmap444();
+	this.instance_203.setTransform(429,136,0.6443,0.6443);
 
-	this.instance_203 = new lib.image20240111_133354();
-	this.instance_203.setTransform(74,68);
-
-	this.instance_204 = new lib.image20240111_133356();
+	this.instance_204 = new lib.image20240111_133354();
 	this.instance_204.setTransform(74,68);
 
-	this.instance_205 = new lib.image20240111_133403();
+	this.instance_205 = new lib.image20240111_133356();
 	this.instance_205.setTransform(74,68);
 
-	this.instance_206 = new lib.image20240111_133406();
+	this.instance_206 = new lib.image20240111_133403();
 	this.instance_206.setTransform(74,68);
 
-	this.instance_207 = new lib.image20240111_133410();
-	this.instance_207.setTransform(74,67);
+	this.instance_207 = new lib.image20240111_133406();
+	this.instance_207.setTransform(74,68);
 
-	this.instance_208 = new lib.image20240111_133411();
-	this.instance_208.setTransform(74,68);
+	this.instance_208 = new lib.image20240111_133410();
+	this.instance_208.setTransform(74,67);
 
-	this.instance_209 = new lib.image20240111_133414();
-	this.instance_209.setTransform(77,70);
+	this.instance_209 = new lib.image20240111_133411();
+	this.instance_209.setTransform(74,68);
 
-	this.instance_210 = new lib.image20240111_133415();
-	this.instance_210.setTransform(76,69);
+	this.instance_210 = new lib.image20240111_133414();
+	this.instance_210.setTransform(77,70);
 
-	this.instance_211 = new lib.image20240111_133417();
-	this.instance_211.setTransform(76,68);
+	this.instance_211 = new lib.image20240111_133415();
+	this.instance_211.setTransform(76,69);
 
-	this.instance_212 = new lib.image20240111_133420();
-	this.instance_212.setTransform(75,68);
+	this.instance_212 = new lib.image20240111_133417();
+	this.instance_212.setTransform(76,68);
 
-	this.instance_213 = new lib.image20240111_133421();
-	this.instance_213.setTransform(75,69);
+	this.instance_213 = new lib.image20240111_133420();
+	this.instance_213.setTransform(75,68);
 
-	this.instance_214 = new lib.image20240111_133424();
-	this.instance_214.setTransform(76,69);
+	this.instance_214 = new lib.image20240111_133421();
+	this.instance_214.setTransform(75,69);
 
-	this.instance_215 = new lib.image20240111_133426();
-	this.instance_215.setTransform(76,68);
+	this.instance_215 = new lib.image20240111_133424();
+	this.instance_215.setTransform(76,69);
 
-	this.instance_216 = new lib.image20240111_133428();
+	this.instance_216 = new lib.image20240111_133426();
 	this.instance_216.setTransform(76,68);
 
-	this.instance_217 = new lib.image20240111_133430();
-	this.instance_217.setTransform(75,67);
+	this.instance_217 = new lib.image20240111_133428();
+	this.instance_217.setTransform(76,68);
 
-	this.instance_218 = new lib.image20240111_133432();
-	this.instance_218.setTransform(74,68);
+	this.instance_218 = new lib.image20240111_133430();
+	this.instance_218.setTransform(75,67);
 
-	this.instance_219 = new lib.image20240111_133434();
-	this.instance_219.setTransform(74,66);
+	this.instance_219 = new lib.image20240111_133432();
+	this.instance_219.setTransform(74,68);
 
-	this.instance_220 = new lib.image20240111_133437();
-	this.instance_220.setTransform(74,68);
+	this.instance_220 = new lib.image20240111_133434();
+	this.instance_220.setTransform(74,66);
 
-	this.instance_221 = new lib.image20240111_133439();
-	this.instance_221.setTransform(75,68);
+	this.instance_221 = new lib.image20240111_133437();
+	this.instance_221.setTransform(74,68);
 
-	this.instance_222 = new lib.image20240111_133442();
-	this.instance_222.setTransform(74,69);
+	this.instance_222 = new lib.image20240111_133439();
+	this.instance_222.setTransform(75,68);
 
-	this.instance_223 = new lib.image20240111_133443();
-	this.instance_223.setTransform(75,64);
+	this.instance_223 = new lib.image20240111_133442();
+	this.instance_223.setTransform(74,69);
 
-	this.instance_224 = new lib.image20240111_133446();
-	this.instance_224.setTransform(74,67);
+	this.instance_224 = new lib.image20240111_133443();
+	this.instance_224.setTransform(75,64);
 
-	this.instance_225 = new lib.image20240111_133448();
-	this.instance_225.setTransform(75,68);
+	this.instance_225 = new lib.image20240111_133446();
+	this.instance_225.setTransform(74,67);
 
-	this.instance_226 = new lib.image20240111_133450();
-	this.instance_226.setTransform(74,68);
+	this.instance_226 = new lib.image20240111_133448();
+	this.instance_226.setTransform(75,68);
 
-	this.instance_227 = new lib.image20240111_133452();
-	this.instance_227.setTransform(76,69);
+	this.instance_227 = new lib.image20240111_133450();
+	this.instance_227.setTransform(74,68);
 
-	this.instance_228 = new lib.image20240111_133454();
-	this.instance_228.setTransform(74,68);
+	this.instance_228 = new lib.image20240111_133452();
+	this.instance_228.setTransform(76,69);
 
-	this.instance_229 = new lib.image20240111_133456();
-	this.instance_229.setTransform(74,67);
+	this.instance_229 = new lib.image20240111_133454();
+	this.instance_229.setTransform(74,68);
 
-	this.instance_230 = new lib.image20240111_133458();
-	this.instance_230.setTransform(74,66);
+	this.instance_230 = new lib.image20240111_133456();
+	this.instance_230.setTransform(74,67);
 
-	this.instance_231 = new lib.image20240111_133500();
-	this.instance_231.setTransform(74,69);
+	this.instance_231 = new lib.image20240111_133458();
+	this.instance_231.setTransform(74,66);
 
-	this.instance_232 = new lib.image20240111_133502();
+	this.instance_232 = new lib.image20240111_133500();
 	this.instance_232.setTransform(74,69);
 
-	this.instance_233 = new lib.image20240111_133503();
-	this.instance_233.setTransform(74,67);
+	this.instance_233 = new lib.image20240111_133502();
+	this.instance_233.setTransform(74,69);
 
-	this.instance_234 = new lib.image20240111_133505();
-	this.instance_234.setTransform(74,68);
+	this.instance_234 = new lib.image20240111_133503();
+	this.instance_234.setTransform(74,67);
 
-	this.instance_235 = new lib.image20240111_133507();
-	this.instance_235.setTransform(75,68);
+	this.instance_235 = new lib.image20240111_133505();
+	this.instance_235.setTransform(74,68);
 
-	this.instance_236 = new lib.image20240111_133508();
-	this.instance_236.setTransform(75,67);
+	this.instance_236 = new lib.image20240111_133507();
+	this.instance_236.setTransform(75,68);
 
-	this.instance_237 = new lib.image20240111_133510();
-	this.instance_237.setTransform(74,69);
+	this.instance_237 = new lib.image20240111_133508();
+	this.instance_237.setTransform(75,67);
 
-	this.instance_238 = new lib.image20240111_133511();
-	this.instance_238.setTransform(74,68);
+	this.instance_238 = new lib.image20240111_133510();
+	this.instance_238.setTransform(74,69);
 
-	this.instance_239 = new lib.image20240111_133513();
+	this.instance_239 = new lib.image20240111_133511();
 	this.instance_239.setTransform(74,68);
 
-	this.instance_240 = new lib.image20240111_133515();
+	this.instance_240 = new lib.image20240111_133513();
 	this.instance_240.setTransform(74,68);
 
-	this.instance_241 = new lib.image20240111_133517();
-	this.instance_241.setTransform(76,68);
+	this.instance_241 = new lib.image20240111_133515();
+	this.instance_241.setTransform(74,68);
 
-	this.instance_242 = new lib.Bitmap486();
-	this.instance_242.setTransform(727,77,0.5444,0.5631);
+	this.instance_242 = new lib.image20240111_133517();
+	this.instance_242.setTransform(76,68);
 
-	this.instance_243 = new lib.image20240111_133519();
-	this.instance_243.setTransform(74,68);
+	this.instance_243 = new lib.Bitmap486();
+	this.instance_243.setTransform(727,77,0.5444,0.5631);
 
-	this.instance_244 = new lib.Bitmap487();
-	this.instance_244.setTransform(696,59,0.6191,0.6052);
+	this.instance_244 = new lib.image20240111_133519();
+	this.instance_244.setTransform(74,68);
 
-	this.instance_245 = new lib.image20240111_133521();
-	this.instance_245.setTransform(76,67);
+	this.instance_245 = new lib.Bitmap487();
+	this.instance_245.setTransform(696,59,0.6191,0.6052);
 
-	this.instance_246 = new lib.Bitmap488();
-	this.instance_246.setTransform(613,57,0.59,0.59);
+	this.instance_246 = new lib.image20240111_133521();
+	this.instance_246.setTransform(76,67);
 
-	this.instance_247 = new lib.image20240111_133523();
-	this.instance_247.setTransform(75,70);
+	this.instance_247 = new lib.Bitmap488();
+	this.instance_247.setTransform(613,57,0.59,0.59);
 
-	this.instance_248 = new lib.Bitmap489();
-	this.instance_248.setTransform(783,122,0.6201,0.6201);
+	this.instance_248 = new lib.image20240111_133523();
+	this.instance_248.setTransform(75,70);
 
-	this.instance_249 = new lib.image20240111_153432();
-	this.instance_249.setTransform(75,70);
+	this.instance_249 = new lib.Bitmap489();
+	this.instance_249.setTransform(783,122,0.6201,0.6201);
 
-	this.instance_250 = new lib.Bitmap491();
-	this.instance_250.setTransform(723,180,0.6622,0.6622);
+	this.instance_250 = new lib.image20240111_153432();
+	this.instance_250.setTransform(75,70);
 
-	this.instance_251 = new lib.image20240111_133526();
-	this.instance_251.setTransform(74,69);
+	this.instance_251 = new lib.Bitmap491();
+	this.instance_251.setTransform(723,180,0.6622,0.6622);
 
-	this.instance_252 = new lib.Bitmap492();
-	this.instance_252.setTransform(740,162,0.6622,0.6623);
+	this.instance_252 = new lib.image20240111_133526();
+	this.instance_252.setTransform(74,69);
 
-	this.instance_253 = new lib.image20240111_133528();
-	this.instance_253.setTransform(75,67);
+	this.instance_253 = new lib.Bitmap492();
+	this.instance_253.setTransform(740,162,0.6622,0.6623);
 
-	this.instance_254 = new lib.Bitmap497();
-	this.instance_254.setTransform(718,112,0.6622,0.6623);
+	this.instance_254 = new lib.image20240111_133528();
+	this.instance_254.setTransform(75,67);
 
-	this.instance_255 = new lib.image20240111_133529();
-	this.instance_255.setTransform(74,68);
+	this.instance_255 = new lib.Bitmap497();
+	this.instance_255.setTransform(718,112,0.6622,0.6623);
 
-	this.instance_256 = new lib.Bitmap493();
-	this.instance_256.setTransform(720,125,0.6622,0.6623);
+	this.instance_256 = new lib.image20240111_133529();
+	this.instance_256.setTransform(74,68);
 
-	this.instance_257 = new lib.image20240111_133532();
-	this.instance_257.setTransform(74,67);
+	this.instance_257 = new lib.Bitmap493();
+	this.instance_257.setTransform(720,125,0.6622,0.6623);
 
-	this.instance_258 = new lib.Bitmap494();
-	this.instance_258.setTransform(712,55,0.7752,0.7752);
+	this.instance_258 = new lib.image20240111_133532();
+	this.instance_258.setTransform(74,67);
 
-	this.instance_259 = new lib.image20240111_133534();
-	this.instance_259.setTransform(76,69);
+	this.instance_259 = new lib.Bitmap494();
+	this.instance_259.setTransform(712,55,0.7752,0.7752);
 
-	this.instance_260 = new lib.Bitmap495();
-	this.instance_260.setTransform(712,51,0.7752,0.7752);
+	this.instance_260 = new lib.image20240111_133534();
+	this.instance_260.setTransform(76,69);
 
-	this.instance_261 = new lib.image20240111_133536();
-	this.instance_261.setTransform(74,67);
+	this.instance_261 = new lib.Bitmap495();
+	this.instance_261.setTransform(712,51,0.7752,0.7752);
 
-	this.instance_262 = new lib.Bitmap496();
-	this.instance_262.setTransform(718,149,0.6622,0.6623);
+	this.instance_262 = new lib.image20240111_133536();
+	this.instance_262.setTransform(74,67);
 
-	this.instance_263 = new lib.image20240111_133537();
-	this.instance_263.setTransform(73,67);
+	this.instance_263 = new lib.Bitmap496();
+	this.instance_263.setTransform(718,149,0.6622,0.6623);
 
-	this.instance_264 = new lib.Bitmap498();
-	this.instance_264.setTransform(717,142,0.6622,0.6623);
+	this.instance_264 = new lib.image20240111_133537();
+	this.instance_264.setTransform(73,67);
 
-	this.instance_265 = new lib.image20240111_133539();
-	this.instance_265.setTransform(75,68);
+	this.instance_265 = new lib.Bitmap498();
+	this.instance_265.setTransform(717,142,0.6622,0.6623);
 
-	this.instance_266 = new lib.Bitmap499();
-	this.instance_266.setTransform(710,114,0.6622,0.6622);
+	this.instance_266 = new lib.image20240111_133539();
+	this.instance_266.setTransform(75,68);
 
-	this.instance_267 = new lib.image20240111_133542();
-	this.instance_267.setTransform(74,68);
+	this.instance_267 = new lib.Bitmap499();
+	this.instance_267.setTransform(710,114,0.6622,0.6622);
 
-	this.instance_268 = new lib.Bitmap500();
-	this.instance_268.setTransform(735,90,0.6676,0.6675);
+	this.instance_268 = new lib.image20240111_133542();
+	this.instance_268.setTransform(74,68);
 
-	this.instance_269 = new lib.image20240111_133544();
-	this.instance_269.setTransform(74,67);
+	this.instance_269 = new lib.Bitmap500();
+	this.instance_269.setTransform(735,90,0.6676,0.6675);
 
-	this.instance_270 = new lib.Bitmap501();
-	this.instance_270.setTransform(727,92,0.6676,0.6675);
+	this.instance_270 = new lib.image20240111_133544();
+	this.instance_270.setTransform(74,67);
 
-	this.instance_271 = new lib.image20240111_133545();
-	this.instance_271.setTransform(75,67);
+	this.instance_271 = new lib.Bitmap501();
+	this.instance_271.setTransform(727,92,0.6676,0.6675);
 
-	this.instance_272 = new lib.Bitmap502();
-	this.instance_272.setTransform(733,80,0.6676,0.6675);
+	this.instance_272 = new lib.image20240111_133545();
+	this.instance_272.setTransform(75,67);
 
-	this.instance_273 = new lib.image20240111_133547();
-	this.instance_273.setTransform(74,68);
+	this.instance_273 = new lib.Bitmap502();
+	this.instance_273.setTransform(733,80,0.6676,0.6675);
 
-	this.instance_274 = new lib.Bitmap503();
-	this.instance_274.setTransform(725,94,0.6676,0.6675);
+	this.instance_274 = new lib.image20240111_133547();
+	this.instance_274.setTransform(74,68);
 
-	this.instance_275 = new lib.image20240111_133549();
-	this.instance_275.setTransform(75,67);
+	this.instance_275 = new lib.Bitmap503();
+	this.instance_275.setTransform(725,94,0.6676,0.6675);
 
-	this.instance_276 = new lib.Bitmap504();
-	this.instance_276.setTransform(711,68,0.6758,0.6694);
+	this.instance_276 = new lib.image20240111_133549();
+	this.instance_276.setTransform(75,67);
 
-	this.instance_277 = new lib.image20240111_133551();
-	this.instance_277.setTransform(74,68);
+	this.instance_277 = new lib.Bitmap504();
+	this.instance_277.setTransform(711,68,0.6758,0.6694);
 
-	this.instance_278 = new lib.Bitmap506();
-	this.instance_278.setTransform(628,84,0.6431,0.6431);
+	this.instance_278 = new lib.image20240111_133551();
+	this.instance_278.setTransform(74,68);
 
-	this.instance_279 = new lib.image20240111_153325();
-	this.instance_279.setTransform(76,69);
+	this.instance_279 = new lib.Bitmap506();
+	this.instance_279.setTransform(628,84,0.6431,0.6431);
 
-	this.instance_280 = new lib.Bitmap507();
-	this.instance_280.setTransform(621,67,0.5935,0.5935);
+	this.instance_280 = new lib.image20240111_153325();
+	this.instance_280.setTransform(76,69);
 
-	this.instance_281 = new lib.image20240111_133554();
-	this.instance_281.setTransform(74,67);
+	this.instance_281 = new lib.Bitmap507();
+	this.instance_281.setTransform(621,67,0.5935,0.5935);
 
-	this.instance_282 = new lib.Bitmap508();
-	this.instance_282.setTransform(620,69,0.6936,0.6936);
+	this.instance_282 = new lib.image20240111_133554();
+	this.instance_282.setTransform(74,67);
 
-	this.instance_283 = new lib.image20240111_133556();
-	this.instance_283.setTransform(75,69);
+	this.instance_283 = new lib.Bitmap508();
+	this.instance_283.setTransform(620,69,0.6936,0.6936);
 
-	this.instance_284 = new lib.Bitmap509();
-	this.instance_284.setTransform(626,97,0.5613,0.5612);
+	this.instance_284 = new lib.image20240111_133556();
+	this.instance_284.setTransform(75,69);
 
-	this.instance_285 = new lib.image20240111_133557();
-	this.instance_285.setTransform(74,66);
+	this.instance_285 = new lib.Bitmap509();
+	this.instance_285.setTransform(626,97,0.5613,0.5612);
 
-	this.instance_286 = new lib.image20240111_133600();
+	this.instance_286 = new lib.image20240111_133557();
 	this.instance_286.setTransform(74,66);
 
-	this.instance_287 = new lib.image20240111_133601();
-	this.instance_287.setTransform(74,67);
+	this.instance_287 = new lib.image20240111_133600();
+	this.instance_287.setTransform(74,66);
 
-	this.instance_288 = new lib.image20240111_133603();
-	this.instance_288.setTransform(75,69);
+	this.instance_288 = new lib.image20240111_133601();
+	this.instance_288.setTransform(74,67);
 
-	this.instance_289 = new lib.image20240111_133605();
-	this.instance_289.setTransform(75,68);
+	this.instance_289 = new lib.image20240111_133603();
+	this.instance_289.setTransform(75,69);
 
-	this.instance_290 = new lib.image20240111_133606();
-	this.instance_290.setTransform(74,66);
+	this.instance_290 = new lib.image20240111_133605();
+	this.instance_290.setTransform(75,68);
 
-	this.instance_291 = new lib.Bitmap515();
-	this.instance_291.setTransform(622,66,0.5613,0.5612);
+	this.instance_291 = new lib.image20240111_133606();
+	this.instance_291.setTransform(74,66);
+
+	this.instance_292 = new lib.Bitmap515();
+	this.instance_292.setTransform(622,66,0.5613,0.5612);
 
 	this.COMPLEX = new lib.GoHome();
 	this.COMPLEX.name = "COMPLEX";
 	this.COMPLEX.setTransform(306.45,622.65);
 	new cjs.ButtonHelper(this.COMPLEX, 0, 1, 1);
 
-	this.instance_292 = new lib.image20240111_133609();
-	this.instance_292.setTransform(74,66);
+	this.instance_293 = new lib.image20240111_133609();
+	this.instance_293.setTransform(74,66);
 
-	this.instance_293 = new lib.Bitmap516();
-	this.instance_293.setTransform(613,62,0.5611,0.5252);
+	this.instance_294 = new lib.Bitmap516();
+	this.instance_294.setTransform(613,62,0.5611,0.5252);
 
 	this.NEXT1 = new lib.GoHome();
 	this.NEXT1.name = "NEXT1";
 	this.NEXT1.setTransform(272.1,292.05);
 	new cjs.ButtonHelper(this.NEXT1, 0, 1, 1);
 
-	this.instance_294 = new lib.image20240111_133611();
-	this.instance_294.setTransform(78,69);
+	this.instance_295 = new lib.image20240111_133611();
+	this.instance_295.setTransform(78,69);
 
-	this.instance_295 = new lib.Bitmap517();
-	this.instance_295.setTransform(637,95,0.532,0.5136);
+	this.instance_296 = new lib.Bitmap517();
+	this.instance_296.setTransform(637,95,0.532,0.5136);
 
-	this.instance_296 = new lib.image20240111_133613();
-	this.instance_296.setTransform(76,70);
+	this.instance_297 = new lib.image20240111_133613();
+	this.instance_297.setTransform(76,70);
 
-	this.instance_297 = new lib.Bitmap518();
-	this.instance_297.setTransform(628,68,0.5436,0.5254);
+	this.instance_298 = new lib.Bitmap518();
+	this.instance_298.setTransform(628,68,0.5436,0.5254);
 
-	this.instance_298 = new lib.image20240111_133615();
-	this.instance_298.setTransform(74,68);
+	this.instance_299 = new lib.image20240111_133615();
+	this.instance_299.setTransform(74,68);
 
-	this.instance_299 = new lib.Bitmap519();
-	this.instance_299.setTransform(651,68,0.5233,0.5137);
+	this.instance_300 = new lib.Bitmap519();
+	this.instance_300.setTransform(651,68,0.5233,0.5137);
 
-	this.instance_300 = new lib.image20240111_133618();
-	this.instance_300.setTransform(74,68);
+	this.instance_301 = new lib.image20240111_133618();
+	this.instance_301.setTransform(74,68);
 
-	this.instance_301 = new lib.Bitmap520();
-	this.instance_301.setTransform(639,91,0.532,0.5253);
+	this.instance_302 = new lib.Bitmap520();
+	this.instance_302.setTransform(639,91,0.532,0.5253);
 
-	this.instance_302 = new lib.image20240111_133621();
-	this.instance_302.setTransform(74,69);
+	this.instance_303 = new lib.image20240111_133621();
+	this.instance_303.setTransform(74,69);
 
-	this.instance_303 = new lib.Bitmap521();
-	this.instance_303.setTransform(636,98,0.5027,0.4782);
+	this.instance_304 = new lib.Bitmap521();
+	this.instance_304.setTransform(636,98,0.5027,0.4782);
 
-	this.instance_304 = new lib.image20240111_133622();
-	this.instance_304.setTransform(74,70);
+	this.instance_305 = new lib.image20240111_133622();
+	this.instance_305.setTransform(74,70);
 
-	this.instance_305 = new lib.Bitmap522();
-	this.instance_305.setTransform(665,83,0.4939,0.4545);
+	this.instance_306 = new lib.Bitmap522();
+	this.instance_306.setTransform(665,83,0.4939,0.4545);
 
-	this.instance_306 = new lib.image20240111_133623();
-	this.instance_306.setTransform(75,67);
+	this.instance_307 = new lib.image20240111_133623();
+	this.instance_307.setTransform(75,67);
 
-	this.instance_307 = new lib.Bitmap5188();
-	this.instance_307.setTransform(807,127,0.5305,0.5305);
+	this.instance_308 = new lib.Bitmap5188();
+	this.instance_308.setTransform(807,127,0.5305,0.5305);
 
-	this.instance_308 = new lib.Bitmap5177();
-	this.instance_308.setTransform(490,315,0.5499,0.5499);
+	this.instance_309 = new lib.Bitmap5177();
+	this.instance_309.setTransform(490,315,0.5499,0.5499);
 
-	this.instance_309 = new lib.image20240111_133625();
-	this.instance_309.setTransform(76,69);
+	this.instance_310 = new lib.image20240111_133625();
+	this.instance_310.setTransform(76,69);
 
-	this.instance_310 = new lib.Bitmap520copy();
-	this.instance_310.setTransform(785,89,0.5518,0.5183);
+	this.instance_311 = new lib.Bitmap520copy();
+	this.instance_311.setTransform(785,89,0.5518,0.5183);
 
-	this.instance_311 = new lib.Bitmap5199();
-	this.instance_311.setTransform(484,342,0.5755,0.5755);
+	this.instance_312 = new lib.Bitmap5199();
+	this.instance_312.setTransform(484,342,0.5755,0.5755);
 
-	this.instance_312 = new lib.image20240111_133628();
-	this.instance_312.setTransform(74,68);
+	this.instance_313 = new lib.image20240111_133628();
+	this.instance_313.setTransform(74,68);
 
-	this.instance_313 = new lib.Bitmap526();
-	this.instance_313.setTransform(665,335,0.6414,0.6143);
+	this.instance_314 = new lib.Bitmap526();
+	this.instance_314.setTransform(665,335,0.6414,0.6143);
 
-	this.instance_314 = new lib.image20240111_133631();
-	this.instance_314.setTransform(74,67);
+	this.instance_315 = new lib.image20240111_133631();
+	this.instance_315.setTransform(74,67);
 
-	this.instance_315 = new lib.Bitmap527();
-	this.instance_315.setTransform(735,379,0.5739,0.5504);
+	this.instance_316 = new lib.Bitmap527();
+	this.instance_316.setTransform(735,379,0.5739,0.5504);
 
-	this.instance_316 = new lib.image20240111_133632();
-	this.instance_316.setTransform(74,68);
+	this.instance_317 = new lib.image20240111_133632();
+	this.instance_317.setTransform(74,68);
 
-	this.instance_317 = new lib.Bitmap528();
-	this.instance_317.setTransform(755,183,0.5514,0.519);
+	this.instance_318 = new lib.Bitmap528();
+	this.instance_318.setTransform(755,183,0.5514,0.519);
 
-	this.instance_318 = new lib.image20240111_133634();
-	this.instance_318.setTransform(74,68);
+	this.instance_319 = new lib.image20240111_133634();
+	this.instance_319.setTransform(74,68);
 
-	this.instance_319 = new lib.image20240111_133636();
-	this.instance_319.setTransform(73,67);
+	this.instance_320 = new lib.image20240111_133636();
+	this.instance_320.setTransform(73,67);
 
-	this.instance_320 = new lib.Bitmap530();
-	this.instance_320.setTransform(745,324,0.5251,0.5503);
+	this.instance_321 = new lib.Bitmap530();
+	this.instance_321.setTransform(745,324,0.5251,0.5503);
 
-	this.instance_321 = new lib.image20240111_133638();
-	this.instance_321.setTransform(74,69);
+	this.instance_322 = new lib.image20240111_133638();
+	this.instance_322.setTransform(74,69);
 
-	this.instance_322 = new lib.Bitmap531();
-	this.instance_322.setTransform(740,331,0.5626,0.5567);
+	this.instance_323 = new lib.Bitmap531();
+	this.instance_323.setTransform(740,331,0.5626,0.5567);
 
-	this.instance_323 = new lib.image20240111_133640();
-	this.instance_323.setTransform(75,66);
+	this.instance_324 = new lib.image20240111_133640();
+	this.instance_324.setTransform(75,66);
 
-	this.instance_324 = new lib.Bitmap532();
-	this.instance_324.setTransform(710,324,0.5664,0.5944);
+	this.instance_325 = new lib.Bitmap532();
+	this.instance_325.setTransform(710,324,0.5664,0.5944);
 
-	this.instance_325 = new lib.image20240111_133642();
-	this.instance_325.setTransform(73,65);
+	this.instance_326 = new lib.image20240111_133642();
+	this.instance_326.setTransform(73,65);
 
-	this.instance_326 = new lib.Bitmap533();
-	this.instance_326.setTransform(699,349,0.6039,0.5568);
+	this.instance_327 = new lib.Bitmap533();
+	this.instance_327.setTransform(699,349,0.6039,0.5568);
 
-	this.instance_327 = new lib.image20240111_133643();
-	this.instance_327.setTransform(74,68);
+	this.instance_328 = new lib.image20240111_133643();
+	this.instance_328.setTransform(74,68);
 
-	this.instance_328 = new lib.Bitmap534();
-	this.instance_328.setTransform(793,137,0.5673,0.5722);
+	this.instance_329 = new lib.Bitmap534();
+	this.instance_329.setTransform(793,137,0.5673,0.5722);
 
-	this.instance_329 = new lib.image20240111_133645();
-	this.instance_329.setTransform(74,67);
+	this.instance_330 = new lib.image20240111_133645();
+	this.instance_330.setTransform(74,67);
 
-	this.instance_330 = new lib.Bitmap535();
-	this.instance_330.setTransform(716,297,0.5736,0.5138);
+	this.instance_331 = new lib.Bitmap535();
+	this.instance_331.setTransform(716,297,0.5736,0.5138);
 
-	this.instance_331 = new lib.image20240111_133647();
-	this.instance_331.setTransform(74,68);
+	this.instance_332 = new lib.image20240111_133647();
+	this.instance_332.setTransform(74,68);
 
-	this.instance_332 = new lib.Bitmap536();
-	this.instance_332.setTransform(462,237,0.6178,0.6178);
+	this.instance_333 = new lib.Bitmap536();
+	this.instance_333.setTransform(462,237,0.6178,0.6178);
 
-	this.instance_333 = new lib.image20240111_133650();
-	this.instance_333.setTransform(74,65);
+	this.instance_334 = new lib.image20240111_133650();
+	this.instance_334.setTransform(74,65);
 
-	this.instance_334 = new lib.Bitmap537();
-	this.instance_334.setTransform(659,209,0.502,0.502);
+	this.instance_335 = new lib.Bitmap537();
+	this.instance_335.setTransform(659,209,0.502,0.502);
 
-	this.instance_335 = new lib.smileyabby();
-	this.instance_335.setTransform(899,58,0.1452,0.1452);
+	this.instance_336 = new lib.smileyabby();
+	this.instance_336.setTransform(899,58,0.1452,0.1452);
 
-	this.instance_336 = new lib.image20240111_133652();
-	this.instance_336.setTransform(74,68);
-
-	this.instance_337 = new lib.image20240111_133653();
+	this.instance_337 = new lib.image20240111_133652();
 	this.instance_337.setTransform(74,68);
+
+	this.instance_338 = new lib.image20240111_133653();
+	this.instance_338.setTransform(74,68);
 
 	this.home_1 = new lib.GoHome();
 	this.home_1.name = "home_1";
@@ -18250,538 +18301,545 @@ if (reversed == null) { reversed = false; }
 	this.back_1.setTransform(172.8,292.05);
 	new cjs.ButtonHelper(this.back_1, 0, 1, 1);
 
-	this.instance_338 = new lib.image20240111_133655();
-	this.instance_338.setTransform(74,69);
-
-	this.instance_339 = new lib.image20240111_133657();
+	this.instance_339 = new lib.image20240111_133655();
 	this.instance_339.setTransform(74,69);
 
-	this.instance_340 = new lib.image20240111_133659();
-	this.instance_340.setTransform(74,68);
+	this.instance_340 = new lib.image20240111_133657();
+	this.instance_340.setTransform(74,69);
 
-	this.instance_341 = new lib.image20240111_133701();
+	this.instance_341 = new lib.image20240111_133659();
 	this.instance_341.setTransform(74,68);
 
-	this.instance_342 = new lib.image20240111_133703();
-	this.instance_342.setTransform(75,69);
+	this.instance_342 = new lib.image20240111_133701();
+	this.instance_342.setTransform(74,68);
 
-	this.instance_343 = new lib.image20240111_133705();
-	this.instance_343.setTransform(75,68);
+	this.instance_343 = new lib.image20240111_133703();
+	this.instance_343.setTransform(75,69);
 
-	this.instance_344 = new lib.image20240111_133707();
-	this.instance_344.setTransform(75,69);
+	this.instance_344 = new lib.image20240111_133705();
+	this.instance_344.setTransform(75,68);
 
-	this.instance_345 = new lib.image20240111_133709();
-	this.instance_345.setTransform(74,67);
+	this.instance_345 = new lib.image20240111_133707();
+	this.instance_345.setTransform(75,69);
 
-	this.instance_346 = new lib.image20240111_133711();
-	this.instance_346.setTransform(75,68);
+	this.instance_346 = new lib.image20240111_133709();
+	this.instance_346.setTransform(74,67);
 
-	this.instance_347 = new lib.image20240111_133745();
+	this.instance_347 = new lib.image20240111_133711();
 	this.instance_347.setTransform(75,68);
 
-	this.instance_348 = new lib.image20240111_133748();
-	this.instance_348.setTransform(74,67);
+	this.instance_348 = new lib.image20240111_133745();
+	this.instance_348.setTransform(75,68);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.home,p:{regX:15.4,regY:15.4,x:194.55,y:301.8}}]}).to({state:[{t:this.instance},{t:this.okay,p:{x:270.9,y:292.6}},{t:this.RIGHT,p:{x:320.4,y:292.6}},{t:this.DOWN,p:{x:270.9,y:336.05}},{t:this.okay2,p:{x:371.15,y:623.9}}]},1).to({state:[{t:this.instance_1},{t:this.home,p:{regX:0,regY:0,x:169.8,y:254.15}},{t:this.Shift3},{t:this.settings},{t:this.Variable},{t:this.FUN},{t:this.cat},{t:this.trig,p:{regX:0,regY:0,x:152.4,y:406.1}},{t:this.xbutton},{t:this.FRACTION},{t:this.SURD},{t:this.INDEX,p:{x:270.65,y:382.55}},{t:this.INDEX2},{t:this.LOG},{t:this.ANS,p:{x:121.05,y:424.25}},{t:this.BRACKET},{t:this.TOOLS},{t:this.TIMESTEN},{t:this.FORMAT},{t:this.MINUS,p:{x:346.8,y:552.55}},{t:this.DIVIDE},{t:this.SUM},{t:this.MULTIPLY},{t:this.back,p:{x:171.1,y:291.45,regX:0,regY:0}}]},1).to({state:[{t:this.shape_1},{t:this.shape},{t:this.instance_2},{t:this.shift4},{t:this.home,p:{regX:0,regY:0,x:175.45,y:253.3}},{t:this.intrig},{t:this.ROOT2},{t:this.INDEX,p:{x:273.55,y:379.75}},{t:this.LOG_1},{t:this.MIXED},{t:this.ANS,p:{x:125.35,y:421.55}},{t:this.EQUALS},{t:this.COMMA},{t:this.MINUS_1},{t:this.NATURAL},{t:this.IMAGINARY},{t:this.PI},{t:this.DEGREE},{t:this.APPROX},{t:this.MINUS,p:{x:349.45,y:549.7}},{t:this.VARIABLE}]},1).to({state:[{t:this.instance_3},{t:this.down,p:{x:269.55,y:334}},{t:this.okay1},{t:this.back,p:{x:167.45,y:292.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:167.45,y:249.3}},{t:this.superup,p:{x:368.4,y:245.4}},{t:this.superdown,p:{x:368.4,y:291.65}},{t:this.okay,p:{x:368.4,y:619.7}}]},1).to({state:[{t:this.instance_4},{t:this.superup,p:{x:374.35,y:250.45}},{t:this.superdown,p:{x:374.35,y:294.15}},{t:this.up,p:{x:274.2,y:250.45}},{t:this.down,p:{x:274.2,y:333.95}},{t:this.home,p:{regX:0,regY:0,x:172.45,y:250.45}},{t:this.back,p:{x:172.45,y:294.15,regX:0,regY:0}}]},1).to({state:[{t:this.instance_5},{t:this.back,p:{x:168.2,y:292.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.2,y:248.75}},{t:this.superup,p:{x:370.6,y:244.85}},{t:this.superdown,p:{x:370.6,y:291.1}},{t:this.up,p:{x:272.75,y:248.75}},{t:this.down,p:{x:272.75,y:332.25}}]},1).to({state:[{t:this.instance_6},{t:this.back,p:{x:175.5,y:296.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.5,y:252.6}},{t:this.superup,p:{x:370.65,y:248.7}},{t:this.superdown,p:{x:370.65,y:294.95}},{t:this.up,p:{x:274.05,y:248.7}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_7},{t:this.back,p:{x:176.8,y:296.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:176.8,y:252.65}},{t:this.superup,p:{x:371.95,y:248.75}},{t:this.superdown,p:{x:371.95,y:295}},{t:this.down,p:{x:275.35,y:332.25}},{t:this.OK,p:{x:275.35,y:295}},{t:this.EXE,p:{x:371.95,y:626.85}}]},1).to({state:[{t:this.instance_10},{t:this.back,p:{x:173.85,y:294.85,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.85,y:251.2}},{t:this.superup,p:{x:369,y:247.3}},{t:this.superdown,p:{x:369,y:293.55}},{t:this.up,p:{x:272.4,y:247.3}},{t:this.down,p:{x:272.4,y:330.8}},{t:this.OK,p:{x:272.4,y:294.85}},{t:this.EXE,p:{x:369,y:623.45}},{t:this.instance_9,p:{x:1153.2,y:546.6,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_8}]},1).to({state:[{t:this.instance_13},{t:this.back,p:{x:172.7,y:293.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.7,y:250}},{t:this.superup,p:{x:367.85,y:246.1}},{t:this.superdown,p:{x:367.85,y:292.35}},{t:this.up,p:{x:271.25,y:246.1}},{t:this.DOWN,p:{x:271.25,y:329.6}},{t:this.OK,p:{x:271.25,y:292.35}},{t:this.EXE,p:{x:367.85,y:617.15}},{t:this.instance_12},{t:this.instance_9,p:{x:1141,y:538.5,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_11}]},1).to({state:[{t:this.instance_15},{t:this.back,p:{x:172.7,y:291.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.7,y:247.5}},{t:this.superup,p:{x:373.05,y:247.5}},{t:this.superdown,p:{x:367.85,y:289.85}},{t:this.UP,p:{x:271.25,y:243.6}},{t:this.DOWN,p:{x:271.25,y:327.1}},{t:this.OK,p:{x:271.25,y:289.85}},{t:this.EXE,p:{x:367.85,y:615.9}},{t:this.instance_9,p:{x:1135,y:530.25,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_14}]},1).to({state:[{t:this.instance_17},{t:this.back,p:{x:166.8,y:289.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:166.8,y:246.15}},{t:this.superup,p:{x:367.75,y:249.5}},{t:this.superdown,p:{x:367.75,y:295.75}},{t:this.up,p:{x:271.15,y:249.5}},{t:this.down,p:{x:271.15,y:333}},{t:this.OK,p:{x:271.15,y:295.75}},{t:this.EXE,p:{x:367.75,y:628.15}},{t:this.instance_9,p:{x:1147.6,y:518,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_16}]},1).to({state:[{t:this.instance_19},{t:this.back,p:{x:172.65,y:296.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.65,y:252.7}},{t:this.superup,p:{x:367.8,y:248.8}},{t:this.superdown,p:{x:367.8,y:295.05}},{t:this.up,p:{x:271.2,y:248.8}},{t:this.down,p:{x:271.2,y:332.3}},{t:this.instance_9,p:{x:1152.55,y:566,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_18}]},1).to({state:[{t:this.instance_21},{t:this.back,p:{x:172.65,y:296.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.65,y:252.6}},{t:this.superup,p:{x:367.8,y:248.7}},{t:this.superdown,p:{x:367.8,y:294.95}},{t:this.up,p:{x:271.2,y:248.7}},{t:this.down,p:{x:271.2,y:332.2}},{t:this.instance_9,p:{x:1143,y:534.05,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_20}]},1).to({state:[{t:this.instance_23},{t:this.back,p:{x:165.4,y:292.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:165.4,y:248.65}},{t:this.instance_9,p:{x:1079.75,y:600.45,scaleX:0.7442,scaleY:0.7441,regX:200,regY:200}},{t:this.instance_22}]},1).to({state:[{t:this.instance_25},{t:this.back,p:{x:170,y:292.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:248.85}},{t:this.instance_9,p:{x:1103.7,y:610.9,scaleX:0.5581,scaleY:0.5581,regX:200.1,regY:200}},{t:this.instance_24}]},1).to({state:[{t:this.instance_27},{t:this.back,p:{x:170.1,y:294.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.1,y:251.25}},{t:this.instance_9,p:{x:1158,y:599.1,scaleX:0.5581,scaleY:0.5581,regX:200.1,regY:200.1}},{t:this.instance_26}]},1).to({state:[{t:this.instance_29},{t:this.back,p:{x:171.2,y:294.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.2,y:250.9}},{t:this.instance_9,p:{x:1182.85,y:570.65,scaleX:0.7442,scaleY:0.7441,regX:200,regY:200}},{t:this.instance_28}]},1).to({state:[{t:this.instance_31},{t:this.back,p:{x:169.9,y:294.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.9,y:251.25}},{t:this.instance_9,p:{x:1155.3,y:559.65,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_30}]},1).to({state:[{t:this.instance_33},{t:this.back,p:{x:168.95,y:294.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.95,y:250.7}},{t:this.OK,p:{x:267.5,y:293.05}},{t:this.EXE,p:{x:364.1,y:625.45}},{t:this.instance_32}]},1).to({state:[{t:this.instance_34},{t:this.back,p:{x:168.25,y:294.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.25,y:250.7}}]},1).to({state:[{t:this.instance_35},{t:this.back,p:{x:167.05,y:295.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:167.05,y:252}},{t:this.NEXT,p:{x:265.6,y:334.15,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_36},{t:this.back,p:{x:170.9,y:296.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.9,y:253.25}},{t:this.NEXT,p:{x:269.45,y:335.4,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_37},{t:this.back,p:{x:172.3,y:295.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.3,y:251.45}},{t:this.NEXT,p:{x:270.85,y:295.1,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.25,y:619.9,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_38},{t:this.back,p:{x:167.85,y:293,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:167.85,y:249.35}},{t:this.NEXT,p:{x:118.75,y:382.9,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_39},{t:this.back,p:{x:173,y:291.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173,y:248.05}},{t:this.NEXT,p:{x:271.55,y:291.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:364.75,y:604.95,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_40},{t:this.home,p:{regX:0,regY:0,x:169.85,y:252.6}},{t:this.NEXT,p:{x:222.5,y:342.5,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_41},{t:this.back,p:{x:169.95,y:291.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.95,y:248.05}},{t:this.NEXT,p:{x:268.5,y:291.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:361.7,y:604.95,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_42},{t:this.back,p:{x:169.35,y:293.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.35,y:250}},{t:this.NEXT,p:{x:219.1,y:338.6,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_43},{t:this.back,p:{x:168.7,y:287.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.7,y:244.15}},{t:this.NEXT,p:{x:267.25,y:287.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:360.45,y:601.05,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_44},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:248.15}},{t:this.NEXT,p:{x:185.05,y:565.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_45},{t:this.back,p:{x:173.8,y:294.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.05,y:255.9}},{t:this.NEXT,p:{x:364.9,y:419,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_46},{t:this.back,p:{x:170.55,y:293.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.55,y:249.85}},{t:this.NEXT,p:{x:270.05,y:293.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.EXE,p:{x:368.75,y:622.4}}]},1).to({state:[{t:this.instance_48},{t:this.back,p:{x:171,y:289.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171,y:246.05}},{t:this.NEXT,p:{x:268.25,y:289.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:366.7,y:623.6,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_47}]},1).to({state:[{t:this.instance_49},{t:this.back,p:{x:170,y:292.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:249.3}}]},1).to({state:[{t:this.instance_50},{t:this.back,p:{x:172.3,y:298.6,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.3,y:254.95}},{t:this.superup,p:{x:367.45,y:251.05}},{t:this.superdown,p:{x:367.45,y:297.3}},{t:this.down,p:{x:270.85,y:334.55}},{t:this.OK,p:{x:270.85,y:297.3}},{t:this.EXE,p:{x:366.15,y:620.6}}]},1).to({state:[{t:this.instance_51},{t:this.back,p:{x:170.5,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.5,y:248.8}},{t:this.superup,p:{x:365.65,y:244.9}},{t:this.superdown,p:{x:365.65,y:291.15}},{t:this.up,p:{x:269.05,y:244.9}},{t:this.down,p:{x:269.05,y:328.4}},{t:this.OK,p:{x:269.05,y:291.15}},{t:this.EXE,p:{x:366.95,y:622.3}}]},1).to({state:[{t:this.instance_52},{t:this.back,p:{x:170.85,y:292.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.85,y:248.85}},{t:this.superup,p:{x:366,y:244.95}},{t:this.superdown,p:{x:366,y:291.2}},{t:this.up,p:{x:269.4,y:244.95}},{t:this.down,p:{x:269.4,y:328.45}},{t:this.OK,p:{x:269.4,y:291.2}},{t:this.EXE,p:{x:369.5,y:620.9}}]},1).to({state:[{t:this.instance_53},{t:this.back,p:{x:169.6,y:291.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.6,y:247.5}},{t:this.superup,p:{x:364.75,y:243.6}},{t:this.superdown,p:{x:364.75,y:289.85}},{t:this.up,p:{x:268.15,y:243.6}},{t:this.down,p:{x:268.15,y:327.1}},{t:this.OK,p:{x:268.15,y:289.85}},{t:this.EXE,p:{x:366.2,y:623.9}}]},1).to({state:[{t:this.instance_54},{t:this.back,p:{x:173.6,y:291.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.6,y:247.55}},{t:this.superup,p:{x:368.75,y:243.65}},{t:this.superdown,p:{x:368.75,y:289.9}},{t:this.up,p:{x:272.15,y:243.65}},{t:this.down,p:{x:272.15,y:327.15}},{t:this.OK,p:{x:272.15,y:289.9}},{t:this.EXE,p:{x:371.35,y:621.7}}]},1).to({state:[{t:this.instance_55},{t:this.back,p:{x:169.55,y:293.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.55,y:250.15}},{t:this.superup,p:{x:364.7,y:246.25}},{t:this.superdown,p:{x:364.7,y:292.5}},{t:this.up,p:{x:268.1,y:246.25}},{t:this.OK,p:{x:268.1,y:292.5}},{t:this.EXE,p:{x:364.7,y:622.9}}]},1).to({state:[{t:this.instance_56},{t:this.back,p:{x:172.15,y:291.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:247.55}},{t:this.superup,p:{x:367.3,y:243.65}},{t:this.superdown,p:{x:367.3,y:289.9}},{t:this.up,p:{x:270.7,y:243.65}},{t:this.down,p:{x:270.7,y:327.15}},{t:this.OK,p:{x:270.7,y:289.9}},{t:this.EXE,p:{x:367,y:623.15}}]},1).to({state:[{t:this.back,p:{x:172.6,y:293.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.6,y:249.5}},{t:this.superup,p:{x:367.75,y:245.6}},{t:this.superdown,p:{x:367.75,y:291.85}},{t:this.up,p:{x:271.15,y:245.6}},{t:this.down,p:{x:271.15,y:329.1}},{t:this.OK,p:{x:271.15,y:291.85}},{t:this.EXE,p:{x:365.25,y:622.9}},{t:this.instance_57}]},1).to({state:[{t:this.instance_58},{t:this.back,p:{x:172.45,y:292.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.45,y:249.1}},{t:this.superup,p:{x:367.6,y:245.2}},{t:this.superdown,p:{x:367.6,y:291.45}},{t:this.up,p:{x:271,y:245.2}},{t:this.down,p:{x:271,y:328.7}},{t:this.OK,p:{x:271,y:291.45}},{t:this.EXE,p:{x:367.3,y:623.25}}]},1).to({state:[{t:this.instance_59},{t:this.back,p:{x:172.4,y:294.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.4,y:250.55}},{t:this.superup,p:{x:367.55,y:246.65}},{t:this.superdown,p:{x:367.55,y:292.9}},{t:this.up,p:{x:270.95,y:246.65}},{t:this.down,p:{x:270.95,y:330.15}},{t:this.OK,p:{x:270.95,y:292.9}},{t:this.EXE,p:{x:365.8,y:620.35}}]},1).to({state:[{t:this.instance_60},{t:this.back,p:{x:172.8,y:298.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:254.5}},{t:this.superup,p:{x:367.95,y:250.6}},{t:this.superdown,p:{x:367.95,y:296.85}},{t:this.up,p:{x:271.35,y:250.6}},{t:this.OK,p:{x:271.35,y:296.85}},{t:this.EXE,p:{x:368.05,y:620.95}}]},1).to({state:[{t:this.instance_61},{t:this.back,p:{x:172.75,y:295.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.75,y:251.7}},{t:this.OK,p:{x:271.3,y:294.05}},{t:this.EXE,p:{x:368,y:622.05}}]},1).to({state:[{t:this.instance_62},{t:this.back,p:{x:171.05,y:292.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.05,y:248.85}}]},1).to({state:[{t:this.instance_63},{t:this.back,p:{x:169.5,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.5,y:248.8}},{t:this.OK,p:{x:268.05,y:291.15}},{t:this.EXE,p:{x:367.95,y:620.9}}]},1).to({state:[{t:this.instance_64},{t:this.back,p:{x:169.75,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.75,y:248.8}}]},1).to({state:[{t:this.instance_65},{t:this.back,p:{x:172.3,y:296.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.3,y:252.85}},{t:this.OK,p:{x:270.85,y:295.2}},{t:this.EXE,p:{x:366.7,y:622.9}}]},1).to({state:[{t:this.instance_66},{t:this.back,p:{x:169.55,y:291.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.55,y:247.5}}]},1).to({state:[{t:this.instance_67},{t:this.back,p:{x:172.6,y:292.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.6,y:248.85}},{t:this.superup,p:{x:367.75,y:244.95}},{t:this.superdown,p:{x:367.75,y:291.2}},{t:this.up,p:{x:271.15,y:244.95}},{t:this.down,p:{x:271.15,y:328.45}},{t:this.OK,p:{x:271.15,y:291.2}},{t:this.EXE,p:{x:365.25,y:622.55}}]},1).to({state:[{t:this.instance_68},{t:this.back,p:{x:171,y:295.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171,y:251.7}},{t:this.superup,p:{x:366.15,y:247.8}},{t:this.superdown,p:{x:366.15,y:294.05}},{t:this.up,p:{x:269.55,y:247.8}},{t:this.down,p:{x:269.55,y:331.3}},{t:this.OK,p:{x:269.55,y:294.05}},{t:this.EXE,p:{x:366.55,y:622.35}}]},1).to({state:[{t:this.instance_69},{t:this.back,p:{x:172,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172,y:250.1}},{t:this.superup,p:{x:367.15,y:246.2}},{t:this.superdown,p:{x:367.15,y:292.45}},{t:this.up,p:{x:270.55,y:246.2}},{t:this.down,p:{x:270.55,y:329.7}},{t:this.OK,p:{x:270.55,y:292.45}},{t:this.EXE,p:{x:366.1,y:621.55}}]},1).to({state:[{t:this.instance_70},{t:this.back,p:{x:172.05,y:292.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.05,y:248.9}},{t:this.superup,p:{x:367.2,y:245}},{t:this.superdown,p:{x:367.2,y:291.25}},{t:this.up,p:{x:270.6,y:245}},{t:this.down,p:{x:270.6,y:328.5}},{t:this.OK,p:{x:270.6,y:291.25}},{t:this.EXE,p:{x:364.8,y:620.3}}]},1).to({state:[{t:this.instance_71},{t:this.back,p:{x:174.85,y:292.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:248.75}},{t:this.superup,p:{x:370,y:244.85}},{t:this.superdown,p:{x:370,y:291.1}},{t:this.up,p:{x:273.4,y:244.85}},{t:this.down,p:{x:273.4,y:328.35}},{t:this.OK,p:{x:273.4,y:291.1}},{t:this.EXE,p:{x:366.25,y:621.55}}]},1).to({state:[{t:this.instance_72},{t:this.back,p:{x:172.05,y:295,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.05,y:251.35}},{t:this.superup,p:{x:367.2,y:247.45}},{t:this.superdown,p:{x:367.2,y:293.7}},{t:this.up,p:{x:270.6,y:247.45}},{t:this.down,p:{x:270.6,y:330.95}},{t:this.OK,p:{x:270.6,y:293.7}},{t:this.EXE,p:{x:367.65,y:621.6}}]},1).to({state:[{t:this.instance_73},{t:this.back,p:{x:173.45,y:297.85,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.45,y:254.2}},{t:this.OK,p:{x:272,y:296.55}},{t:this.EXE,p:{x:364.9,y:621.55}}]},1).to({state:[{t:this.instance_74},{t:this.back,p:{x:172.15,y:293.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:250.15}}]},1).to({state:[{t:this.instance_75},{t:this.back,p:{x:170.75,y:288.6,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.05,y:252.75}},{t:this.example1,p:{regX:351.2,regY:55.2,x:823.45,y:359.55}},{t:this.example2,p:{regX:346.7,regY:55.2,x:818.95,y:469.95}},{t:this.example3}]},1).to({state:[{t:this.instance_77},{t:this.back,p:{x:169.4,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.4,y:250.1}},{t:this.instance_76}]},1).to({state:[{t:this.instance_78},{t:this.back,p:{x:170.85,y:296.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.85,y:252.65}}]},1).to({state:[{t:this.instance_79},{t:this.back,p:{x:170.7,y:296.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.7,y:252.75}}]},1).to({state:[{t:this.instance_80},{t:this.back,p:{x:174.85,y:295.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:251.4}},{t:this.example1_1},{t:this.example2_1}]},1).to({state:[{t:this.instance_81},{t:this.back,p:{x:170.75,y:295.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.75,y:251.45}}]},1).to({state:[{t:this.instance_82},{t:this.back,p:{x:169.35,y:293.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.35,y:250.15}}]},1).to({state:[{t:this.instance_83},{t:this.back,p:{x:174.9,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.9,y:250.1}},{t:this.superup,p:{x:370.05,y:246.2}},{t:this.superdown,p:{x:370.05,y:292.45}},{t:this.up,p:{x:273.45,y:246.2}},{t:this.down,p:{x:273.45,y:329.7}},{t:this.OK,p:{x:273.45,y:292.45}},{t:this.EXE,p:{x:366.45,y:620.35}}]},1).to({state:[{t:this.instance_84},{t:this.back,p:{x:174.85,y:292.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:248.85}},{t:this.superup,p:{x:370,y:244.95}},{t:this.superdown,p:{x:370,y:291.2}},{t:this.up,p:{x:273.4,y:244.95}},{t:this.down,p:{x:273.4,y:328.45}},{t:this.OK,p:{x:273.4,y:291.2}},{t:this.EXE,p:{x:365.05,y:621.8}}]},1).to({state:[{t:this.instance_85},{t:this.back,p:{x:173.55,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.55,y:250.1}},{t:this.superup,p:{x:368.7,y:246.2}},{t:this.superdown,p:{x:368.7,y:292.45}},{t:this.up,p:{x:272.1,y:246.2}},{t:this.down,p:{x:272.1,y:329.7}},{t:this.OK,p:{x:272.1,y:292.45}},{t:this.EXE,p:{x:366.45,y:621.7}}]},1).to({state:[{t:this.instance_86},{t:this.back,p:{x:173.6,y:297.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.6,y:254}},{t:this.superup,p:{x:368.75,y:250.1}},{t:this.superdown,p:{x:368.75,y:296.35}},{t:this.up,p:{x:272.15,y:250.1}},{t:this.down,p:{x:272.15,y:333.6}},{t:this.OK,p:{x:272.15,y:296.35}},{t:this.EXE,p:{x:366.5,y:620.2}}]},1).to({state:[{t:this.instance_87},{t:this.back,p:{x:172.1,y:295.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.1,y:251.45}},{t:this.superup,p:{x:367.25,y:247.55}},{t:this.superdown,p:{x:367.25,y:293.8}},{t:this.up,p:{x:270.65,y:247.55}},{t:this.down,p:{x:270.65,y:331.05}},{t:this.OK,p:{x:270.65,y:293.8}},{t:this.EXE,p:{x:367.7,y:621.7}}]},1).to({state:[{t:this.instance_88},{t:this.back,p:{x:177.15,y:289.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:177.15,y:246.25}},{t:this.EXE,p:{x:368.7,y:621.9}},{t:this.OK,p:{x:274.7,y:289.9}}]},1).to({state:[{t:this.instance_89},{t:this.back,p:{x:174.85,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:250.1}}]},1).to({state:[{t:this.instance_90},{t:this.back,p:{x:175.85,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.85,y:248.8}},{t:this.OK,p:{x:274.4,y:291.15}},{t:this.EXE,p:{x:368.75,y:621.75}}]},1).to({state:[{t:this.instance_91},{t:this.back,p:{x:174.85,y:295.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:251.4}}]},1).to({state:[{t:this.instance_92},{t:this.back,p:{x:176.15,y:291.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:176.15,y:247.5}},{t:this.OK,p:{x:274.7,y:289.85}},{t:this.EXE,p:{x:366.35,y:620.45}}]},1).to({state:[{t:this.instance_93},{t:this.back,p:{x:174.9,y:295.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.9,y:251.4}}]},1).to({state:[{t:this.instance_94},{t:this.back,p:{x:169.4,y:293.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.4,y:250.15}},{t:this.NEXT,p:{x:220.7,y:295.6,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_95},{t:this.back,p:{x:174.85,y:301.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:257.5}},{t:this.NEXT,p:{x:128.6,y:476.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_96},{t:this.back,p:{x:174.9,y:295.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.9,y:252.3}},{t:this.NEXT,p:{x:192.8,y:613.6,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_97},{t:this.back,p:{x:171.85,y:293.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.85,y:249.55}},{t:this.NEXT,p:{x:314.3,y:293.2,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.back,p:{x:170.8,y:294.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.8,y:251.05}},{t:this.NEXT,p:{x:250.35,y:514.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_98},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_99},{t:this.back,p:{x:172,y:294.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172,y:251.1}},{t:this.NEXT,p:{x:127,y:617.55,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_100},{t:this.back,p:{x:170.8,y:297.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.8,y:253.7}},{t:this.NEXT,p:{x:245.2,y:522.6,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_101},{t:this.back,p:{x:169.3,y:294.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.3,y:251.05}},{t:this.NEXT,p:{x:269.7,y:294.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:367.9,y:622.4,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_102},{t:this.back,p:{x:168.85,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.85,y:251.9}}]},1).to({state:[{t:this.instance_103},{t:this.back,p:{x:172.15,y:290.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:246.7}}]},1).to({state:[{t:this.instance_104},{t:this.back,p:{x:169.35,y:293.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.7,y:254.1}},{t:this.superup,p:{x:371.25,y:247.5}},{t:this.superdown,p:{x:371.25,y:293.75}},{t:this.up,p:{x:274.65,y:247.5}},{t:this.down,p:{x:274.65,y:331}},{t:this.OK,p:{x:274.65,y:293.75}},{t:this.EXE,p:{x:366.3,y:620.3}}]},1).to({state:[{t:this.instance_105},{t:this.back,p:{x:169.45,y:296.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.45,y:252.7}},{t:this.superup,p:{x:368.65,y:247.45}},{t:this.superdown,p:{x:368.65,y:293.7}},{t:this.up,p:{x:268,y:248.8}},{t:this.down,p:{x:268,y:332.3}},{t:this.OK,p:{x:268,y:295.05}},{t:this.EXE,p:{x:374.5,y:618.9}}]},1).to({state:[{t:this.instance_106},{t:this.back,p:{x:173.5,y:296.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.5,y:252.55}},{t:this.superup,p:{x:368.65,y:248.65}},{t:this.superdown,p:{x:368.65,y:294.9}},{t:this.up,p:{x:272.05,y:248.65}},{t:this.down,p:{x:272.05,y:332.15}},{t:this.OK,p:{x:272.05,y:294.9}},{t:this.EXE,p:{x:369.1,y:620.1}}]},1).to({state:[{t:this.instance_107},{t:this.back,p:{x:173.55,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.55,y:248.8}},{t:this.superup,p:{x:368.7,y:244.9}},{t:this.superdown,p:{x:368.7,y:291.15}},{t:this.up,p:{x:272.1,y:244.9}},{t:this.down,p:{x:272.1,y:328.4}},{t:this.OK,p:{x:272.1,y:291.15}},{t:this.EXE,p:{x:369.15,y:620.4}}]},1).to({state:[{t:this.instance_108},{t:this.back,p:{x:174.9,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.9,y:250.1}},{t:this.superup,p:{x:370.05,y:246.2}},{t:this.superdown,p:{x:370.05,y:292.45}},{t:this.up,p:{x:273.45,y:246.2}},{t:this.down,p:{x:273.45,y:329.7}},{t:this.OK,p:{x:273.45,y:292.45}},{t:this.EXE,p:{x:367.8,y:619}}]},1).to({state:[{t:this.instance_109},{t:this.back,p:{x:174.85,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:248.8}},{t:this.superup,p:{x:370,y:244.9}},{t:this.superdown,p:{x:370,y:291.15}},{t:this.up,p:{x:273.4,y:244.9}},{t:this.down,p:{x:273.4,y:328.4}},{t:this.OK,p:{x:273.4,y:291.15}},{t:this.EXE,p:{x:366.4,y:619.05}}]},1).to({state:[{t:this.instance_111},{t:this.back,p:{x:171.95,y:295.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.95,y:251.85}},{t:this.instance_110}]},1).to({state:[{t:this.instance_113},{t:this.back,p:{x:170.65,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.65,y:250.65}},{t:this.instance_112}]},1).to({state:[{t:this.instance_114},{t:this.back,p:{x:173.35,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.35,y:251.9}}]},1).to({state:[{t:this.instance_115},{t:this.back,p:{x:170.85,y:298.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.85,y:254.45}}]},1).to({state:[{t:this.instance_116},{t:this.back,p:{x:170.9,y:299.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.9,y:255.75}}]},1).to({state:[{t:this.instance_117},{t:this.back,p:{x:172.15,y:296.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:253.05}},{t:this.example1,p:{regX:0,regY:0,x:453.55,y:409.15}},{t:this.example2,p:{regX:0,regY:0,x:468,y:519.55}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_118},{t:this.back,p:{x:173.55,y:299.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.55,y:255.75}},{t:this.NEXT,p:{x:305.8,y:620.95,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_119},{t:this.back,p:{x:170.35,y:297.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.35,y:253.85}},{t:this.NEXT,p:{x:267.95,y:297.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.2,y:619.65,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_120},{t:this.back,p:{x:172.15,y:299.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:255.75}}]},1).to({state:[{t:this.instance_121},{t:this.back,p:{x:173.6,y:300.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.6,y:257}}]},1).to({state:[{t:this.instance_122},{t:this.trig,p:{regX:70,regY:18.6,x:220.25,y:426.1}},{t:this.back,p:{x:174.2,y:294.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.2,y:250.75}},{t:this.OK,p:{x:272.75,y:293.1}},{t:this.EXE,p:{x:364.4,y:619.65}}]},1).to({state:[{t:this.shape_2},{t:this.back,p:{x:174.2,y:294.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.2,y:250.75}},{t:this.MOVE}]},1).to({state:[{t:this.instance_125},{t:this.back,p:{x:170,y:295.5,regX:-0.6,regY:0.4}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:254.55}},{t:this.instance_124},{t:this.instance_123}]},1).to({state:[{t:this.instance_126},{t:this.back,p:{x:174.2,y:294.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.2,y:250.7}},{t:this.NEXT,p:{x:736.55,y:531.95,scaleX:16.2342,scaleY:7.6624,regX:0,regY:0}}]},1).to({state:[{t:this.instance_127},{t:this.back,p:{x:172.9,y:298.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.9,y:254.65}}]},1).to({state:[{t:this.instance_129},{t:this.back,p:{x:175.5,y:293.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.5,y:249.45}},{t:this.instance_128},{t:this.instance_9,p:{x:1099.2,y:393.3,scaleX:1,scaleY:1,regX:134.3,regY:135.3}}]},1).to({state:[{t:this.instance_130},{t:this.back,p:{x:171.8,y:295.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.8,y:252}},{t:this.down,p:{x:268.65,y:334.05}}]},1).to({state:[{t:this.instance_131},{t:this.back,p:{x:172.85,y:295.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.85,y:252}},{t:this.OK,p:{x:271.4,y:294.35}},{t:this.EXE,p:{x:368.45,y:620.9}},{t:this.up,p:{x:271.4,y:252}}]},1).to({state:[{t:this.instance_132},{t:this.back,p:{x:173.2,y:295.6,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.2,y:251.95}},{t:this.OK,p:{x:271.75,y:294.3}},{t:this.EXE,p:{x:367.45,y:620.85}}]},1).to({state:[{t:this.instance_133},{t:this.back,p:{x:171.65,y:296.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.65,y:253.3}}]},1).to({state:[{t:this.instance_135},{t:this.back,p:{x:172.8,y:294.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:250.4}},{t:this.instance_134,p:{scaleX:0.7407,scaleY:0.7406,x:764.9,y:558.85}}]},1).to({state:[{t:this.instance_137},{t:this.back,p:{x:171.55,y:294.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:250.55}},{t:this.instance_136}]},1).to({state:[{t:this.instance_138},{t:this.back,p:{x:171.8,y:296.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.8,y:253.25}},{t:this.example1,p:{regX:0,regY:0,x:427.1,y:124.65}},{t:this.example2_2},{t:this.example3_1},{t:this.example4},{t:this.example5}]},1).to({state:[{t:this.instance_139},{t:this.back,p:{x:171.35,y:296.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.35,y:253.3}}]},1).to({state:[{t:this.instance_140},{t:this.back,p:{x:172.65,y:296.85,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.65,y:253.2}}]},1).to({state:[{t:this.instance_141},{t:this.back,p:{x:171.8,y:299.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.8,y:255.7}}]},1).to({state:[{t:this.instance_142},{t:this.back,p:{x:171.5,y:294.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.5,y:250.45}}]},1).to({state:[{t:this.instance_143},{t:this.back,p:{x:172.7,y:299.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.7,y:255.85}}]},1).to({state:[{t:this.instance_144},{t:this.back,p:{x:170.2,y:296.85,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.2,y:253.2}},{t:this.OK,p:{x:268.75,y:295.55}},{t:this.EXE,p:{x:365.8,y:620.75}}]},1).to({state:[{t:this.instance_145},{t:this.back,p:{x:172.9,y:296.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.9,y:253.15}}]},1).to({state:[{t:this.instance_147},{t:this.back,p:{x:173,y:298.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173,y:254.6}},{t:this.OK,p:{x:271.55,y:296.95}},{t:this.EXE,p:{x:368.6,y:622.15}},{t:this.instance_146}]},1).to({state:[{t:this.instance_149},{t:this.back,p:{x:173,y:295.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173,y:251.8}},{t:this.instance_148}]},1).to({state:[{t:this.instance_151},{t:this.back,p:{x:175.5,y:295.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.5,y:252.05}},{t:this.instance_150,p:{x:1157.55,y:468.55}}]},1).to({state:[{t:this.instance_153},{t:this.back,p:{x:171.5,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.5,y:251.9}},{t:this.instance_152},{t:this.ERROR,p:{regX:0.2,scaleX:7.1012,x:724.15,y:418.55}}]},1).to({state:[{t:this.instance_155},{t:this.back,p:{x:173.2,y:298.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.2,y:254.5}},{t:this.instance_154,p:{x:1072,y:490.35}}]},1).to({state:[{t:this.instance_156},{t:this.back,p:{x:170.2,y:298.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.2,y:254.5}},{t:this.instance_150,p:{x:1155.9,y:481.25}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_158},{t:this.back,p:{x:173.05,y:295.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.05,y:251.8}},{t:this.NEXT,p:{x:307.45,y:622.65,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_157}]},1).to({state:[{t:this.instance_159},{t:this.back,p:{x:170.65,y:292.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.65,y:249.3}},{t:this.instance_154,p:{x:1123.55,y:510.55}}]},1).to({state:[{t:this.instance_160},{t:this.back,p:{x:171.65,y:298.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.65,y:254.55}}]},1).to({state:[{t:this.instance_161},{t:this.back,p:{x:170.15,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.15,y:249.4}},{t:this.instance_154,p:{x:1105.85,y:459}}]},1).to({state:[{t:this.instance_163},{t:this.back,p:{x:170.2,y:296.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.2,y:253.15}},{t:this.instance_162,p:{regX:900,regY:1050,x:993.05,y:421.4}}]},1).to({state:[{t:this.instance_165},{t:this.back,p:{x:170.25,y:295.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.25,y:252}},{t:this.instance_164}]},1).to({state:[{t:this.instance_166},{t:this.back,p:{x:171.55,y:294.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:250.4}},{t:this.instance_162,p:{regX:1002,regY:1140,x:1060.95,y:478}}]},1).to({state:[{t:this.instance_167},{t:this.back,p:{x:171.55,y:298.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:254.45}},{t:this.instance_162,p:{regX:1002,regY:1140,x:1139.35,y:473.7}}]},1).to({state:[{t:this.instance_168},{t:this.back,p:{x:172.4,y:293.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.4,y:249.75}},{t:this.superup,p:{x:367.55,y:245.85}},{t:this.superdown,p:{x:367.55,y:292.1}},{t:this.up,p:{x:270.95,y:245.85}},{t:this.down,p:{x:270.95,y:329.35}},{t:this.OK,p:{x:270.95,y:292.1}},{t:this.EXE,p:{x:366.65,y:621.35}},{t:this.prime}]},1).to({state:[{t:this.instance_169},{t:this.back,p:{x:172.55,y:294.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.55,y:251.25}},{t:this.superup,p:{x:367.7,y:247.35}},{t:this.superdown,p:{x:367.7,y:293.6}},{t:this.up,p:{x:271.1,y:247.35}},{t:this.down,p:{x:271.1,y:330.85}},{t:this.OK,p:{x:271.1,y:293.6}},{t:this.EXE,p:{x:368.15,y:620.15}},{t:this.prime}]},1).to({state:[{t:this.instance_170},{t:this.back,p:{x:171.2,y:294.85,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.2,y:251.2}},{t:this.superup,p:{x:366.35,y:247.3}},{t:this.superdown,p:{x:366.35,y:293.55}},{t:this.up,p:{x:269.75,y:247.3}},{t:this.down,p:{x:269.75,y:330.8}},{t:this.OK,p:{x:269.75,y:293.55}},{t:this.EXE,p:{x:361.4,y:620.1}},{t:this.prime}]},1).to({state:[{t:this.instance_171},{t:this.back,p:{x:175.15,y:296.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.15,y:252.5}},{t:this.superup,p:{x:370.3,y:248.6}},{t:this.superdown,p:{x:370.3,y:294.85}},{t:this.up,p:{x:273.7,y:248.6}},{t:this.down,p:{x:273.7,y:332.1}},{t:this.OK,p:{x:273.7,y:294.85}},{t:this.EXE,p:{x:366.7,y:620.05}},{t:this.prime}]},1).to({state:[{t:this.instance_172},{t:this.back,p:{x:173.7,y:296.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.7,y:252.55}},{t:this.superup,p:{x:368.85,y:248.65}},{t:this.superdown,p:{x:368.85,y:294.9}},{t:this.up,p:{x:272.25,y:248.65}},{t:this.down,p:{x:272.25,y:332.15}},{t:this.OK,p:{x:272.25,y:294.9}},{t:this.EXE,p:{x:363.9,y:620.1}},{t:this.prime}]},1).to({state:[{t:this.instance_173},{t:this.back,p:{x:175.3,y:296.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.3,y:252.65}},{t:this.superup,p:{x:370.45,y:248.75}},{t:this.superdown,p:{x:370.45,y:295}},{t:this.up,p:{x:273.85,y:248.75}},{t:this.down,p:{x:273.85,y:332.25}},{t:this.OK,p:{x:273.85,y:295}},{t:this.EXE,p:{x:362.8,y:620.2}},{t:this.prime}]},1).to({state:[{t:this.instance_174},{t:this.back,p:{x:176.65,y:297.6,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:176.65,y:253.95}},{t:this.superup,p:{x:371.8,y:250.05}},{t:this.superdown,p:{x:371.8,y:296.3}},{t:this.up,p:{x:275.2,y:250.05}},{t:this.down,p:{x:275.2,y:333.55}},{t:this.OK,p:{x:275.2,y:296.3}},{t:this.EXE,p:{x:366.85,y:620.15}},{t:this.prime}]},1).to({state:[{t:this.instance_175},{t:this.back,p:{x:174.55,y:296.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.55,y:253.1}}]},1).to({state:[{t:this.instance_176},{t:this.back,p:{x:172.25,y:299.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.25,y:255.75}},{t:this.instance_162,p:{regX:1002,regY:1140,x:1090.35,y:510.85}}]},1).to({state:[{t:this.instance_177},{t:this.back,p:{x:172.1,y:295.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.1,y:251.55}}]},1).to({state:[{t:this.instance_178},{t:this.back,p:{x:172.65,y:299.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.65,y:255.75}}]},1).to({state:[{t:this.instance_179},{t:this.back,p:{x:172.15,y:292.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:249.1}},{t:this.instance_134,p:{scaleX:0.5305,scaleY:0.5304,x:1115.8,y:642.3}}]},1).to({state:[{t:this.instance_181},{t:this.back,p:{x:174.85,y:291.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:248}},{t:this.right,p:{x:318.2,y:296.35}},{t:this.instance_180}]},1).to({state:[{t:this.instance_183},{t:this.back,p:{x:173.1,y:297.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.1,y:254.3}},{t:this.left,p:{x:225.2,y:295.25}},{t:this.right,p:{x:313.5,y:295}},{t:this.instance_182}]},1).to({state:[{t:this.instance_185},{t:this.back,p:{x:173.5,y:296.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.5,y:253.1}},{t:this.left,p:{x:224.4,y:297.2}},{t:this.right,p:{x:312.7,y:296.95}},{t:this.instance_184}]},1).to({state:[{t:this.instance_187},{t:this.back,p:{x:170.9,y:294.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.9,y:250.4}},{t:this.left,p:{x:221.7,y:294.5}},{t:this.instance_186}]},1).to({state:[{t:this.instance_188},{t:this.back,p:{x:172.15,y:296.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:252.9}},{t:this.instance_150,p:{x:1123.8,y:523.3}}]},1).to({state:[{t:this.instance_189},{t:this.back,p:{x:172.05,y:294.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.05,y:250.6}}]},1).to({state:[{t:this.instance_190},{t:this.back,p:{x:172.45,y:294.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.45,y:250.55}}]},1).to({state:[{t:this.instance_191},{t:this.NEXT,p:{x:271.6,y:292.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.RIGHT,p:{x:321.1,y:292.55}},{t:this.DOWN,p:{x:271.6,y:336}},{t:this.LEFT,p:{x:222.15,y:292.55}},{t:this.NEXT2,p:{x:367.15,y:624.15,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_192},{t:this.back,p:{x:171.2,y:293.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.2,y:253.45}},{t:this.NEXT,p:{x:270.95,y:293.35,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.DOWN,p:{x:270.95,y:336.8}},{t:this.NEXT2,p:{x:366.5,y:624.95,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_194},{t:this.back,p:{x:172.3,y:295,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.3,y:255.1}},{t:this.NEXT,p:{x:372,y:338.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_193}]},1).to({state:[{t:this.instance_196},{t:this.back,p:{x:171.3,y:293.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.3,y:253.55}},{t:this.NEXT,p:{x:271.05,y:336.9,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_195}]},1).to({state:[{t:this.instance_198},{t:this.back,p:{x:169.05,y:293.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.05,y:253.55}},{t:this.NEXT,p:{x:275.05,y:293.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:368.9,y:620.15,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_197}]},1).to({state:[{t:this.instance_200},{t:this.back,p:{x:168.75,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.75,y:254.4}},{t:this.NEXT,p:{x:274.75,y:294.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:368.6,y:621,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_199}]},1).to({state:[{t:this.instance_203},{t:this.back,p:{x:171.25,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:253.15}},{t:this.NEXT,p:{x:247.25,y:575.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_202},{t:this.instance_201}]},1).to({state:[{t:this.instance_204},{t:this.back,p:{x:171.25,y:296.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:256.9}},{t:this.NEXT,p:{x:271,y:249.3,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_205},{t:this.back,p:{x:172.5,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:254.4}},{t:this.NEXT,p:{x:321,y:294.3,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_206},{t:this.back,p:{x:170,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:255.65}},{t:this.NEXT,p:{x:188.5,y:524.25,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_207},{t:this.back,p:{x:168.75,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.75,y:254.4}},{t:this.NEXT,p:{x:271,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:368.6,y:621,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_208},{t:this.back,p:{x:171.25,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:255.65}},{t:this.NEXT,p:{x:273.5,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:272.25,y:335.2}}]},1).to({state:[{t:this.instance_209},{t:this.back,p:{x:170,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:255.65}},{t:this.NEXT,p:{x:272.25,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.85,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.UP,p:{x:271,y:250.65}}]},1).to({state:[{t:this.instance_210},{t:this.back,p:{x:170.05,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.05,y:254.4}},{t:this.NEXT,p:{x:271.05,y:336.75,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_211},{t:this.back,p:{x:170,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:255.65}}]},1).to({state:[{t:this.instance_212},{t:this.back,p:{x:171.25,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:254.4}},{t:this.NEXT,p:{x:321,y:336.75,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_213},{t:this.back,p:{x:171.25,y:299.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:259.35}}]},1).to({state:[{t:this.instance_214},{t:this.back,p:{x:272.25,y:248.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:255.65}},{t:this.NEXT,p:{x:272.25,y:291.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_215},{t:this.back,p:{x:172.5,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:251.9}},{t:this.NEXT,p:{x:273.5,y:291.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:618.5,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_216},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}},{t:this.NEXT,p:{x:268.5,y:291.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:618.5,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_217},{t:this.back,p:{x:173.75,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.75,y:253.15}},{t:this.NEXT,p:{x:274.75,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:373.6,y:619.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:273.5,y:335.2}}]},1).to({state:[{t:this.instance_218},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}}]},1).to({state:[{t:this.instance_219},{t:this.back,p:{x:170.05,y:294.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.05,y:254.35}},{t:this.NEXT,p:{x:271.05,y:294.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.9,y:620.95,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.UP,p:{x:266.25,y:251.85}}]},1).to({state:[{t:this.instance_220},{t:this.back,p:{x:175,y:290.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175,y:250.65}},{t:this.NEXT,p:{x:276,y:290.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.15,y:622.95,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_221},{t:this.back,p:{x:172.5,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:255.65}}]},1).to({state:[{t:this.instance_222},{t:this.okay,p:{x:271.55,y:292.55}},{t:this.DOWN,p:{x:271.55,y:336}},{t:this.LEFT,p:{x:222.1,y:292.55}},{t:this.okay2,p:{x:369.1,y:623.65}}]},1).to({state:[{t:this.instance_223},{t:this.back,p:{x:172.5,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:253.15}},{t:this.NEXT,p:{x:273.5,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:619.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:273.5,y:336.45}}]},1).to({state:[{t:this.instance_224},{t:this.back,p:{x:171.3,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.3,y:251.9}},{t:this.NEXT,p:{x:272.3,y:291.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.15,y:618.5,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_225},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}},{t:this.NEXT,p:{x:122.25,y:570.45,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_226},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}},{t:this.NEXT,p:{x:184.75,y:525.5,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_227},{t:this.back,p:{x:172.5,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:254.4}},{t:this.NEXT,p:{x:273.5,y:294.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:621,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_228},{t:this.back,p:{x:171.25,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:255.65}},{t:this.NEXT,p:{x:272.25,y:295.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_229},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}},{t:this.NEXT,p:{x:272.25,y:291.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:618.5,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_230},{t:this.back,p:{x:171.25,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:253.15}}]},1).to({state:[{t:this.instance_231},{t:this.back,p:{x:168.75,y:288.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.75,y:248.15}},{t:this.NEXT,p:{x:269.75,y:288.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:368.6,y:621,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:269.75,y:331.45}},{t:this.UP,p:{x:269.75,y:248.15}}]},1).to({state:[{t:this.instance_232},{t:this.back,p:{x:171.25,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:255.65}},{t:this.NEXT,p:{x:272.25,y:295.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_233},{t:this.back,p:{x:171.25,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:254.4}},{t:this.NEXT,p:{x:272.25,y:294.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:621,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_234},{t:this.back,p:{x:171.25,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:255.65}}]},1).to({state:[{t:this.instance_235},{t:this.back,p:{x:172.5,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:254.4}},{t:this.UP,p:{x:271,y:250.65}},{t:this.DOWN,p:{x:271,y:337.7}}]},1).to({state:[{t:this.instance_236},{t:this.back,p:{x:170.05,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.05,y:252.55}},{t:this.NEXT,p:{x:271.05,y:292.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.9,y:619.15,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.UP,p:{x:268.55,y:248.8}},{t:this.DOWN,p:{x:268.55,y:335.85}}]},1).to({state:[{t:this.instance_237},{t:this.back,p:{x:171.25,y:291.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.3}},{t:this.NEXT,p:{x:272.25,y:291.2,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.85,y:621.65,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_238},{t:this.back,p:{x:172.5,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:251.9}},{t:this.NEXT,p:{x:273.5,y:291.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:618.5,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_239},{t:this.back,p:{x:172.5,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:253.15}},{t:this.NEXT,p:{x:273.5,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:619.75,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_240},{t:this.back,p:{x:171.25,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:255.65}}]},1).to({state:[{t:this.instance_241},{t:this.back,p:{x:172.5,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:254.4}},{t:this.NEXT,p:{x:273.5,y:294.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:621,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.UP,p:{x:273.5,y:254.4}}]},1).to({state:[{t:this.instance_243},{t:this.back,p:{x:172.5,y:298.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:258.15}},{t:this.NEXT,p:{x:273.5,y:298.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:624.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_242}]},1).to({state:[{t:this.instance_245},{t:this.back,p:{x:172.5,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:255.65}},{t:this.NEXT,p:{x:273.5,y:295.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_244}]},1).to({state:[{t:this.instance_247},{t:this.back,p:{x:172.5,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:253.15}},{t:this.instance_246}]},1).to({state:[{t:this.instance_249},{t:this.okay,p:{x:270.35,y:292.6}},{t:this.RIGHT,p:{x:319.85,y:292.6}},{t:this.UP,p:{x:270.35,y:251.3}},{t:this.okay2,p:{x:369.9,y:622.65}},{t:this.instance_9,p:{x:641.3,y:467.1,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_248}]},1).to({state:[{t:this.instance_251},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}},{t:this.NEXT,p:{x:219.75,y:340.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_250}]},1).to({state:[{t:this.instance_253},{t:this.back,p:{x:170,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:254.4}},{t:this.NEXT,p:{x:271,y:339.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_252}]},1).to({state:[{t:this.instance_255},{t:this.back,p:{x:170.7,y:292.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.7,y:252.8}},{t:this.NEXT,p:{x:271.7,y:337.65,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_254}]},1).to({state:[{t:this.instance_257},{t:this.back,p:{x:171.95,y:292.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.95,y:252.8}},{t:this.NEXT,p:{x:272.95,y:292.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:364.9,y:626.4,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_256}]},1).to({state:[{t:this.instance_259},{t:this.back,p:{x:172.2,y:289.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.2,y:249.65}},{t:this.NEXT,p:{x:123.2,y:383.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_258}]},1).to({state:[{t:this.instance_261},{t:this.back,p:{x:170.95,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:252.15}},{t:this.NEXT,p:{x:271.95,y:292.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:363.9,y:625.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_260}]},1).to({state:[{t:this.instance_263},{t:this.back,p:{x:169.7,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:252.15}},{t:this.NEXT,p:{x:186.95,y:570.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_262}]},1).to({state:[{t:this.instance_265},{t:this.back,p:{x:173.45,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.45,y:253.4}},{t:this.NEXT,p:{x:370.15,y:337,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_264}]},1).to({state:[{t:this.instance_267},{t:this.back,p:{x:173.45,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.45,y:253.4}},{t:this.NEXT,p:{x:274.45,y:293.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:366.4,y:627,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_266}]},1).to({state:[{t:this.instance_269},{t:this.back,p:{x:169.7,y:289.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:249.65}},{t:this.NEXT,p:{x:270.7,y:289.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:362.65,y:623.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_268}]},1).to({state:[{t:this.instance_271},{t:this.back,p:{x:169.7,y:295.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:255.9}},{t:this.NEXT,p:{x:270.7,y:295.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:370.15,y:624.5,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_270}]},1).to({state:[{t:this.instance_273},{t:this.back,p:{x:170.95,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:253.4}},{t:this.NEXT,p:{x:271.95,y:293.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.4,y:622,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_272}]},1).to({state:[{t:this.instance_275},{t:this.back,p:{x:169.7,y:294.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:254.65}},{t:this.NEXT,p:{x:270.7,y:294.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:370.15,y:623.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_274}]},1).to({state:[{t:this.instance_277},{t:this.back,p:{x:172.2,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.2,y:253.4}},{t:this.instance_276}]},1).to({state:[{t:this.instance_279},{t:this.okay,p:{x:271.55,y:292.6}},{t:this.RIGHT,p:{x:321.05,y:292.6}},{t:this.UP,p:{x:271.55,y:251.3}},{t:this.LEFT,p:{x:222.1,y:292.6}},{t:this.okay2,p:{x:368.65,y:628.9}},{t:this.instance_278}]},1).to({state:[{t:this.instance_281},{t:this.back,p:{x:172.2,y:290.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.2,y:250.9}},{t:this.NEXT,p:{x:323.2,y:339.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_280}]},1).to({state:[{t:this.instance_283},{t:this.back,p:{x:172.2,y:294.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.2,y:254.65}},{t:this.NEXT,p:{x:273.2,y:294.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.65,y:623.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_282}]},1).to({state:[{t:this.instance_285},{t:this.back,p:{x:170.95,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:252.15}},{t:this.NEXT,p:{x:271.95,y:292.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.4,y:620.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:271.95,y:331.45}},{t:this.instance_284,p:{x:626,y:97}}]},1).to({state:[{t:this.instance_286},{t:this.back,p:{x:172.2,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.2,y:252.15}},{t:this.NEXT,p:{x:273.2,y:292.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.65,y:620.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:273.2,y:331.45}},{t:this.UP,p:{x:270.7,y:250.9}},{t:this.instance_284,p:{x:619,y:97}}]},1).to({state:[{t:this.instance_287},{t:this.back,p:{x:170.95,y:293.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:254.05}},{t:this.NEXT,p:{x:271.95,y:293.95,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.4,y:622.65,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:271.95,y:333.35}},{t:this.UP,p:{x:269.45,y:252.8}},{t:this.instance_284,p:{x:626,y:114}}]},1).to({state:[{t:this.instance_288},{t:this.back,p:{x:169.7,y:293.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:254.05}},{t:this.NEXT,p:{x:270.7,y:293.95,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:370.15,y:622.65,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:270.7,y:333.35}},{t:this.UP,p:{x:268.2,y:252.8}},{t:this.instance_284,p:{x:622,y:97}}]},1).to({state:[{t:this.instance_289},{t:this.back,p:{x:170.95,y:293.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:254.05}},{t:this.NEXT,p:{x:271.95,y:293.95,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.4,y:622.65,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:271.95,y:333.35}},{t:this.UP,p:{x:269.45,y:252.8}},{t:this.instance_284,p:{x:624,y:97}}]},1).to({state:[{t:this.instance_290},{t:this.back,p:{x:170.95,y:292.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:252.8}},{t:this.NEXT,p:{x:271.95,y:292.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.4,y:621.4,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:271.95,y:332.1}},{t:this.UP,p:{x:269.45,y:251.55}},{t:this.instance_284,p:{x:621,y:97}}]},1).to({state:[{t:this.instance_292},{t:this.back,p:{x:169.7,y:291.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:251.55}},{t:this.COMPLEX},{t:this.instance_291}]},1).to({state:[{t:this.instance_294},{t:this.back,p:{x:174.1,y:289.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.1,y:249.65}},{t:this.NEXT1},{t:this.NEXT2,p:{x:368.65,y:622.65,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_293}]},1).to({state:[{t:this.instance_296},{t:this.back,p:{x:172.85,y:295.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.85,y:255.9}},{t:this.NEXT,p:{x:309.6,y:627,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_295}]},1).to({state:[{t:this.instance_298},{t:this.back,p:{x:172.85,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.85,y:252.15}},{t:this.NEXT,p:{x:309.6,y:623.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_297}]},1).to({state:[{t:this.instance_300},{t:this.back,p:{x:174.1,y:290.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.1,y:250.9}},{t:this.NEXT,p:{x:310.85,y:622,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_299}]},1).to({state:[{t:this.instance_302},{t:this.back,p:{x:172.85,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.85,y:253.4}},{t:this.NEXT,p:{x:309.6,y:624.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_301}]},1).to({state:[{t:this.instance_304},{t:this.back,p:{x:171.6,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.6,y:253.4}},{t:this.NEXT,p:{x:308.35,y:624.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_303}]},1).to({state:[{t:this.instance_306},{t:this.back,p:{x:171.6,y:294.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.6,y:254.65}},{t:this.NEXT,p:{x:308.35,y:625.75,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_305}]},1).to({state:[{t:this.instance_309},{t:this.okay,p:{x:272.8,y:292.65}},{t:this.UP,p:{x:272.8,y:251.35}},{t:this.LEFT,p:{x:223.35,y:292.65}},{t:this.okay2,p:{x:369.9,y:622.65}},{t:this.instance_308},{t:this.instance_307}]},1).to({state:[{t:this.instance_312},{t:this.back,p:{x:171.6,y:295.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.6,y:255.9}},{t:this.NEXT,p:{x:370.8,y:339.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_311},{t:this.instance_310}]},1).to({state:[{t:this.instance_314},{t:this.back,p:{x:172.85,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.85,y:253.4}},{t:this.NEXT2,p:{x:369.55,y:624.5,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:272.45,y:293.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_313}]},1).to({state:[{t:this.instance_316},{t:this.back,p:{x:171.55,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:253.4}},{t:this.NEXT2,p:{x:368.25,y:624.5,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:271.15,y:293.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_315}]},1).to({state:[{t:this.instance_318},{t:this.back,p:{x:172.8,y:290.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:250.9}},{t:this.NEXT,p:{x:186.15,y:571.95,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_317}]},1).to({state:[{t:this.instance_319},{t:this.back,p:{x:172.8,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:253.4}},{t:this.NEXT,p:{x:186.15,y:525.75,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_317}]},1).to({state:[{t:this.instance_321},{t:this.back,p:{x:172.8,y:290.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:250.9}},{t:this.NEXT2,p:{x:369.5,y:622,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:272.4,y:290.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_320}]},1).to({state:[{t:this.instance_323},{t:this.back,p:{x:171.55,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:252.15}},{t:this.NEXT,p:{x:370.75,y:338.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_322}]},1).to({state:[{t:this.instance_325},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT2,p:{x:369.5,y:623.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:272.4,y:292.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_324}]},1).to({state:[{t:this.instance_327},{t:this.back,p:{x:174.05,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.05,y:252.15}},{t:this.NEXT2,p:{x:370.75,y:623.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:273.65,y:292.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_326}]},1).to({state:[{t:this.instance_329},{t:this.back,p:{x:171.55,y:294.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:254.65}},{t:this.NEXT2,p:{x:368.25,y:625.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:271.15,y:294.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_328}]},1).to({state:[{t:this.instance_331},{t:this.back,p:{x:171.55,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:252.15}},{t:this.instance_330}]},1).to({state:[{t:this.instance_333},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.instance_332},{t:this.instance_150,p:{x:1104.7,y:248.85}}]},1).to({state:[{t:this.instance_336},{t:this.instance_335},{t:this.instance_334},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:172.8,y:426.3,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_337},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:182.4,y:575.35,scaleX:1.6623,scaleY:1.5948,regX:-0.6,regY:0.5}}]},1).to({state:[{t:this.instance_338},{t:this.back_1},{t:this.home_1},{t:this.NEXT,p:{x:371.15,y:424.5,scaleX:1.6623,scaleY:1.2235,regX:-0.5,regY:0.6}},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}}]},1).to({state:[{t:this.instance_339},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:304.2,y:577.25,scaleX:1.6623,scaleY:1.5948,regX:-0.6,regY:0.5}}]},1).to({state:[{t:this.instance_340},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:121.9,y:337.05,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}}]},1).to({state:[{t:this.instance_341},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:219.85,y:424.85,scaleX:1.1559,scaleY:1.1661,regX:0,regY:0}}]},1).to({state:[{t:this.instance_342},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:121.9,y:337.05,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}}]},1).to({state:[{t:this.instance_343},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:123.1,y:476.7,scaleX:1.4489,scaleY:1.4601,regX:-0.4,regY:0.7}}]},1).to({state:[{t:this.instance_344},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:367.75,y:526.2,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}}]},1).to({state:[{t:this.instance_345},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:121.95,y:475.25,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}}]},1).to({state:[{t:this.instance_346},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:371.15,y:426.55,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}}]},1).to({state:[{t:this.instance_347},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:272.6,y:292.65,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}},{t:this.NEXT2,p:{x:367.8,y:623.65,regX:-0.5,regY:0.5,scaleX:1.1462,scaleY:1.0058}}]},1).to({state:[{t:this.instance_348},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}}]},1).wait(1));
+	this.instance_349 = new lib.image20240111_133748();
+	this.instance_349.setTransform(74,67);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.home,p:{regX:15.4,regY:15.4,x:194.55,y:301.8}}]}).to({state:[{t:this.instance},{t:this.okay,p:{x:270.9,y:292.6}},{t:this.RIGHT,p:{x:320.4,y:292.6}},{t:this.DOWN,p:{x:270.9,y:336.05}},{t:this.okay2,p:{x:371.15,y:623.9}}]},1).to({state:[{t:this.instance_1},{t:this.home,p:{regX:0,regY:0,x:169.8,y:254.15}},{t:this.Shift3},{t:this.settings},{t:this.Variable},{t:this.FUN},{t:this.cat},{t:this.trig,p:{regX:0,regY:0,x:152.4,y:406.1}},{t:this.xbutton},{t:this.FRACTION},{t:this.SURD},{t:this.INDEX,p:{x:270.65,y:382.55}},{t:this.INDEX2},{t:this.LOG},{t:this.ANS,p:{x:121.05,y:424.25}},{t:this.BRACKET},{t:this.TOOLS},{t:this.TIMESTEN},{t:this.FORMAT},{t:this.MINUS,p:{x:346.8,y:552.55}},{t:this.DIVIDE},{t:this.SUM},{t:this.MULTIPLY},{t:this.back,p:{x:171.1,y:291.45,regX:0,regY:0}}]},1).to({state:[{t:this.shape_1},{t:this.shape},{t:this.instance_2},{t:this.shift4},{t:this.home,p:{regX:0,regY:0,x:175.45,y:253.3}},{t:this.intrig},{t:this.ROOT2},{t:this.INDEX,p:{x:273.55,y:379.75}},{t:this.LOG_1},{t:this.MIXED},{t:this.ANS,p:{x:125.35,y:421.55}},{t:this.EQUALS},{t:this.COMMA},{t:this.MINUS_1},{t:this.NATURAL},{t:this.IMAGINARY},{t:this.PI},{t:this.DEGREE},{t:this.APPROX},{t:this.MINUS,p:{x:349.45,y:549.7}},{t:this.VARIABLE}]},1).to({state:[{t:this.instance_3},{t:this.down,p:{x:269.55,y:334}},{t:this.okay1},{t:this.back,p:{x:167.45,y:292.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:167.45,y:249.3}},{t:this.superup,p:{x:368.4,y:245.4}},{t:this.superdown,p:{x:368.4,y:291.65}},{t:this.okay,p:{x:368.4,y:619.7}}]},1).to({state:[{t:this.instance_4},{t:this.superup,p:{x:374.35,y:250.45}},{t:this.superdown,p:{x:374.35,y:294.15}},{t:this.up,p:{x:274.2,y:250.45}},{t:this.down,p:{x:274.2,y:333.95}},{t:this.home,p:{regX:0,regY:0,x:172.45,y:250.45}},{t:this.back,p:{x:172.45,y:294.15,regX:0,regY:0}}]},1).to({state:[{t:this.instance_5},{t:this.back,p:{x:168.2,y:292.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.2,y:248.75}},{t:this.superup,p:{x:370.6,y:244.85}},{t:this.superdown,p:{x:370.6,y:291.1}},{t:this.up,p:{x:272.75,y:248.75}},{t:this.down,p:{x:272.75,y:332.25}}]},1).to({state:[{t:this.instance_6},{t:this.back,p:{x:175.5,y:296.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.5,y:252.6}},{t:this.superup,p:{x:370.65,y:248.7}},{t:this.superdown,p:{x:370.65,y:294.95}},{t:this.up,p:{x:274.05,y:248.7}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_7},{t:this.back,p:{x:176.8,y:296.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:176.8,y:252.65}},{t:this.superup,p:{x:371.95,y:248.75}},{t:this.superdown,p:{x:371.95,y:295}},{t:this.down,p:{x:275.35,y:332.25}},{t:this.OK,p:{x:275.35,y:295}},{t:this.EXE,p:{x:371.95,y:626.85}}]},1).to({state:[{t:this.instance_10},{t:this.back,p:{x:173.85,y:294.85,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.85,y:251.2}},{t:this.superup,p:{x:369,y:247.3}},{t:this.superdown,p:{x:369,y:293.55}},{t:this.up,p:{x:272.4,y:247.3}},{t:this.down,p:{x:272.4,y:330.8}},{t:this.OK,p:{x:272.4,y:294.85}},{t:this.EXE,p:{x:369,y:623.45}},{t:this.instance_9,p:{x:1153.2,y:546.6,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_8}]},1).to({state:[{t:this.instance_13},{t:this.back,p:{x:172.7,y:293.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.7,y:250}},{t:this.superup,p:{x:367.85,y:246.1}},{t:this.superdown,p:{x:367.85,y:292.35}},{t:this.up,p:{x:271.25,y:246.1}},{t:this.DOWN,p:{x:271.25,y:329.6}},{t:this.OK,p:{x:271.25,y:292.35}},{t:this.EXE,p:{x:367.85,y:617.15}},{t:this.instance_12},{t:this.instance_9,p:{x:1141,y:538.5,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_11}]},1).to({state:[{t:this.instance_15},{t:this.back,p:{x:172.7,y:291.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.7,y:247.5}},{t:this.superup,p:{x:373.05,y:247.5}},{t:this.superdown,p:{x:367.85,y:289.85}},{t:this.UP,p:{x:271.25,y:243.6}},{t:this.DOWN,p:{x:271.25,y:327.1}},{t:this.OK,p:{x:271.25,y:289.85}},{t:this.EXE,p:{x:367.85,y:615.9}},{t:this.instance_9,p:{x:1135,y:530.25,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_14}]},1).to({state:[{t:this.instance_17},{t:this.back,p:{x:166.8,y:289.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:166.8,y:246.15}},{t:this.superup,p:{x:367.75,y:249.5}},{t:this.superdown,p:{x:367.75,y:295.75}},{t:this.up,p:{x:271.15,y:249.5}},{t:this.down,p:{x:271.15,y:333}},{t:this.OK,p:{x:271.15,y:295.75}},{t:this.EXE,p:{x:367.75,y:628.15}},{t:this.instance_9,p:{x:1147.6,y:518,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_16}]},1).to({state:[{t:this.instance_19},{t:this.back,p:{x:172.65,y:296.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.65,y:252.7}},{t:this.superup,p:{x:367.8,y:248.8}},{t:this.superdown,p:{x:367.8,y:295.05}},{t:this.up,p:{x:271.2,y:248.8}},{t:this.down,p:{x:271.2,y:332.3}},{t:this.instance_9,p:{x:1152.55,y:566,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_18}]},1).to({state:[{t:this.instance_21},{t:this.back,p:{x:172.65,y:296.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.65,y:252.6}},{t:this.superup,p:{x:367.8,y:248.7}},{t:this.superdown,p:{x:367.8,y:294.95}},{t:this.up,p:{x:271.2,y:248.7}},{t:this.down,p:{x:271.2,y:332.2}},{t:this.instance_9,p:{x:1143,y:534.05,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_20}]},1).to({state:[{t:this.instance_23},{t:this.back,p:{x:165.4,y:292.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:165.4,y:248.65}},{t:this.instance_9,p:{x:1079.75,y:600.45,scaleX:0.7442,scaleY:0.7441,regX:200,regY:200}},{t:this.instance_22}]},1).to({state:[{t:this.instance_25},{t:this.back,p:{x:170,y:292.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:248.85}},{t:this.instance_9,p:{x:1103.7,y:610.9,scaleX:0.5581,scaleY:0.5581,regX:200.1,regY:200}},{t:this.instance_24}]},1).to({state:[{t:this.instance_27},{t:this.back,p:{x:170.1,y:294.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.1,y:251.25}},{t:this.instance_9,p:{x:1158,y:599.1,scaleX:0.5581,scaleY:0.5581,regX:200.1,regY:200.1}},{t:this.instance_26}]},1).to({state:[{t:this.instance_29},{t:this.back,p:{x:171.2,y:294.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.2,y:250.9}},{t:this.instance_9,p:{x:1182.85,y:570.65,scaleX:0.7442,scaleY:0.7441,regX:200,regY:200}},{t:this.instance_28}]},1).to({state:[{t:this.instance_31},{t:this.back,p:{x:169.9,y:294.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.9,y:251.25}},{t:this.instance_9,p:{x:1155.3,y:559.65,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_30}]},1).to({state:[{t:this.instance_33},{t:this.back,p:{x:168.95,y:294.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.95,y:250.7}},{t:this.OK,p:{x:267.5,y:293.05}},{t:this.EXE,p:{x:364.1,y:625.45}},{t:this.instance_32}]},1).to({state:[{t:this.instance_34},{t:this.back,p:{x:168.25,y:294.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.25,y:250.7}}]},1).to({state:[{t:this.instance_35},{t:this.back,p:{x:167.05,y:295.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:167.05,y:252}},{t:this.NEXT,p:{x:265.6,y:334.15,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_36},{t:this.back,p:{x:170.9,y:296.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.9,y:253.25}},{t:this.NEXT,p:{x:269.45,y:335.4,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_37},{t:this.back,p:{x:172.3,y:295.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.3,y:251.45}},{t:this.NEXT,p:{x:270.85,y:295.1,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.25,y:619.9,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_38},{t:this.back,p:{x:167.85,y:293,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:167.85,y:249.35}},{t:this.NEXT,p:{x:118.75,y:382.9,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_39},{t:this.back,p:{x:173,y:291.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173,y:248.05}},{t:this.NEXT,p:{x:271.55,y:291.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:364.75,y:604.95,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_40},{t:this.home,p:{regX:0,regY:0,x:169.85,y:252.6}},{t:this.NEXT,p:{x:222.5,y:342.5,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_41},{t:this.back,p:{x:169.95,y:291.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.95,y:248.05}},{t:this.NEXT,p:{x:268.5,y:291.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:361.7,y:604.95,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_42},{t:this.back,p:{x:169.35,y:293.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.35,y:250}},{t:this.NEXT,p:{x:219.1,y:338.6,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_43},{t:this.back,p:{x:168.7,y:287.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.7,y:244.15}},{t:this.NEXT,p:{x:267.25,y:287.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:360.45,y:601.05,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_44},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:248.15}},{t:this.NEXT,p:{x:185.05,y:565.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_45},{t:this.back,p:{x:173.8,y:294.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.05,y:255.9}},{t:this.NEXT,p:{x:364.9,y:419,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_46},{t:this.back,p:{x:170.55,y:293.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.55,y:249.85}},{t:this.NEXT,p:{x:270.05,y:293.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.EXE,p:{x:368.75,y:622.4}}]},1).to({state:[{t:this.instance_48},{t:this.back,p:{x:171,y:289.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171,y:246.05}},{t:this.NEXT,p:{x:268.25,y:289.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:366.7,y:623.6,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_47}]},1).to({state:[{t:this.instance_49},{t:this.back,p:{x:170,y:292.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:249.3}},{t:this.superup,p:{x:365.65,y:244.9}},{t:this.superdown,p:{x:365.65,y:291.15}},{t:this.down,p:{x:269.05,y:328.4}},{t:this.OK,p:{x:269.05,y:291.15}},{t:this.EXE,p:{x:366.15,y:620.6}}]},1).to({state:[{t:this.instance_50},{t:this.back,p:{x:172.3,y:298.6,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.3,y:254.95}},{t:this.superup,p:{x:367.45,y:251.05}},{t:this.superdown,p:{x:367.45,y:297.3}},{t:this.down,p:{x:270.85,y:334.55}},{t:this.OK,p:{x:270.85,y:297.3}},{t:this.EXE,p:{x:366.15,y:620.6}},{t:this.up,p:{x:269.05,y:244.9}}]},1).to({state:[{t:this.instance_51},{t:this.back,p:{x:170.5,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.5,y:248.8}},{t:this.superup,p:{x:365.65,y:244.9}},{t:this.superdown,p:{x:365.65,y:291.15}},{t:this.up,p:{x:269.05,y:244.9}},{t:this.down,p:{x:269.05,y:328.4}},{t:this.OK,p:{x:269.05,y:291.15}},{t:this.EXE,p:{x:366.95,y:622.3}}]},1).to({state:[{t:this.instance_52},{t:this.back,p:{x:170.85,y:292.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.85,y:248.85}},{t:this.superup,p:{x:366,y:244.95}},{t:this.superdown,p:{x:366,y:291.2}},{t:this.up,p:{x:269.4,y:244.95}},{t:this.down,p:{x:269.4,y:328.45}},{t:this.OK,p:{x:269.4,y:291.2}},{t:this.EXE,p:{x:369.5,y:620.9}}]},1).to({state:[{t:this.instance_53},{t:this.back,p:{x:169.6,y:291.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.6,y:247.5}},{t:this.superup,p:{x:364.75,y:243.6}},{t:this.superdown,p:{x:364.75,y:289.85}},{t:this.up,p:{x:268.15,y:243.6}},{t:this.down,p:{x:268.15,y:327.1}},{t:this.OK,p:{x:268.15,y:289.85}},{t:this.EXE,p:{x:366.2,y:623.9}}]},1).to({state:[{t:this.instance_54},{t:this.back,p:{x:173.6,y:291.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.6,y:247.55}},{t:this.superup,p:{x:368.75,y:243.65}},{t:this.superdown,p:{x:368.75,y:289.9}},{t:this.up,p:{x:272.15,y:243.65}},{t:this.down,p:{x:272.15,y:327.15}},{t:this.OK,p:{x:272.15,y:289.9}},{t:this.EXE,p:{x:371.35,y:621.7}}]},1).to({state:[{t:this.instance_55},{t:this.back,p:{x:169.55,y:293.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.55,y:250.15}},{t:this.superup,p:{x:364.7,y:246.25}},{t:this.superdown,p:{x:364.7,y:292.5}},{t:this.up,p:{x:268.1,y:331.5}},{t:this.OK,p:{x:268.1,y:292.5}},{t:this.EXE,p:{x:364.7,y:622.9}}]},1).to({state:[{t:this.instance_56},{t:this.back,p:{x:172.15,y:291.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:247.55}},{t:this.superup,p:{x:367.3,y:243.65}},{t:this.superdown,p:{x:367.3,y:289.9}},{t:this.up,p:{x:270.7,y:243.65}},{t:this.down,p:{x:270.7,y:327.15}},{t:this.OK,p:{x:270.7,y:289.9}},{t:this.EXE,p:{x:367,y:623.15}}]},1).to({state:[{t:this.back,p:{x:172.6,y:293.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.6,y:249.5}},{t:this.superup,p:{x:367.75,y:245.6}},{t:this.superdown,p:{x:367.75,y:291.85}},{t:this.up,p:{x:271.15,y:245.6}},{t:this.down,p:{x:271.15,y:329.1}},{t:this.OK,p:{x:271.15,y:291.85}},{t:this.EXE,p:{x:365.25,y:622.9}},{t:this.instance_57}]},1).to({state:[{t:this.instance_58},{t:this.back,p:{x:172.45,y:292.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.45,y:249.1}},{t:this.superup,p:{x:367.6,y:245.2}},{t:this.superdown,p:{x:367.6,y:291.45}},{t:this.up,p:{x:271,y:245.2}},{t:this.down,p:{x:271,y:328.7}},{t:this.OK,p:{x:271,y:291.45}},{t:this.EXE,p:{x:367.3,y:623.25}}]},1).to({state:[{t:this.instance_59},{t:this.back,p:{x:172.4,y:294.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.4,y:250.55}},{t:this.superup,p:{x:367.55,y:246.65}},{t:this.superdown,p:{x:367.55,y:292.9}},{t:this.up,p:{x:270.95,y:246.65}},{t:this.down,p:{x:270.95,y:330.15}},{t:this.OK,p:{x:270.95,y:292.9}},{t:this.EXE,p:{x:365.8,y:620.35}}]},1).to({state:[{t:this.instance_60},{t:this.back,p:{x:172.8,y:298.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:254.5}},{t:this.superup,p:{x:367.95,y:250.6}},{t:this.superdown,p:{x:367.95,y:296.85}},{t:this.up,p:{x:271.35,y:250.6}},{t:this.OK,p:{x:271.35,y:296.85}},{t:this.EXE,p:{x:368.05,y:620.95}}]},1).to({state:[{t:this.instance_61},{t:this.back,p:{x:172.75,y:295.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.75,y:251.7}},{t:this.OK,p:{x:271.3,y:294.05}},{t:this.EXE,p:{x:368,y:622.05}}]},1).to({state:[{t:this.instance_62},{t:this.back,p:{x:171.05,y:292.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.05,y:248.85}}]},1).to({state:[{t:this.instance_63},{t:this.back,p:{x:169.5,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.5,y:248.8}},{t:this.OK,p:{x:268.05,y:291.15}},{t:this.EXE,p:{x:367.95,y:620.9}}]},1).to({state:[{t:this.instance_64},{t:this.back,p:{x:169.75,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.75,y:248.8}}]},1).to({state:[{t:this.instance_65},{t:this.back,p:{x:172.3,y:296.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.3,y:252.85}},{t:this.OK,p:{x:270.85,y:295.2}},{t:this.EXE,p:{x:366.7,y:622.9}}]},1).to({state:[{t:this.instance_66},{t:this.back,p:{x:169.55,y:291.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.55,y:247.5}}]},1).to({state:[{t:this.instance_67},{t:this.back,p:{x:172.6,y:292.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.6,y:248.85}},{t:this.superup,p:{x:367.75,y:244.95}},{t:this.superdown,p:{x:367.75,y:291.2}},{t:this.up,p:{x:271.15,y:244.95}},{t:this.down,p:{x:271.15,y:328.45}},{t:this.OK,p:{x:271.15,y:291.2}},{t:this.EXE,p:{x:365.25,y:622.55}}]},1).to({state:[{t:this.instance_68},{t:this.back,p:{x:171,y:295.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171,y:251.7}},{t:this.superup,p:{x:366.15,y:247.8}},{t:this.superdown,p:{x:366.15,y:294.05}},{t:this.up,p:{x:269.55,y:247.8}},{t:this.down,p:{x:269.55,y:331.3}},{t:this.OK,p:{x:269.55,y:294.05}},{t:this.EXE,p:{x:366.55,y:622.35}}]},1).to({state:[{t:this.instance_69},{t:this.back,p:{x:172,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172,y:250.1}},{t:this.superup,p:{x:367.15,y:246.2}},{t:this.superdown,p:{x:367.15,y:292.45}},{t:this.up,p:{x:270.55,y:246.2}},{t:this.down,p:{x:270.55,y:329.7}},{t:this.OK,p:{x:270.55,y:292.45}},{t:this.EXE,p:{x:366.1,y:621.55}}]},1).to({state:[{t:this.instance_70},{t:this.back,p:{x:172.05,y:292.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.05,y:248.9}},{t:this.superup,p:{x:367.2,y:245}},{t:this.superdown,p:{x:367.2,y:291.25}},{t:this.up,p:{x:270.6,y:245}},{t:this.down,p:{x:270.6,y:328.5}},{t:this.OK,p:{x:270.6,y:291.25}},{t:this.EXE,p:{x:364.8,y:620.3}}]},1).to({state:[{t:this.instance_71},{t:this.back,p:{x:174.85,y:292.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:248.75}},{t:this.superup,p:{x:370,y:244.85}},{t:this.superdown,p:{x:370,y:291.1}},{t:this.up,p:{x:273.4,y:244.85}},{t:this.down,p:{x:273.4,y:328.35}},{t:this.OK,p:{x:273.4,y:291.1}},{t:this.EXE,p:{x:366.25,y:621.55}}]},1).to({state:[{t:this.instance_72},{t:this.back,p:{x:172.05,y:295,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.05,y:251.35}},{t:this.superup,p:{x:367.2,y:247.45}},{t:this.superdown,p:{x:367.2,y:293.7}},{t:this.up,p:{x:270.6,y:247.45}},{t:this.down,p:{x:270.6,y:330.95}},{t:this.OK,p:{x:270.6,y:293.7}},{t:this.EXE,p:{x:367.65,y:621.6}}]},1).to({state:[{t:this.instance_73},{t:this.back,p:{x:173.45,y:297.85,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.45,y:254.2}},{t:this.OK,p:{x:272,y:296.55}},{t:this.EXE,p:{x:364.9,y:621.55}}]},1).to({state:[{t:this.instance_74},{t:this.back,p:{x:172.15,y:293.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:250.15}}]},1).to({state:[{t:this.instance_75},{t:this.back,p:{x:170.75,y:288.6,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.05,y:252.75}},{t:this.example1,p:{regX:351.2,regY:55.2,x:823.45,y:359.55}},{t:this.example2,p:{regX:346.7,regY:55.2,x:818.95,y:469.95}},{t:this.example3}]},1).to({state:[{t:this.instance_77},{t:this.back,p:{x:169.4,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.4,y:250.1}},{t:this.instance_76}]},1).to({state:[{t:this.instance_78},{t:this.back,p:{x:170.85,y:296.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.85,y:252.65}}]},1).to({state:[{t:this.instance_79},{t:this.back,p:{x:170.7,y:296.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.7,y:252.75}}]},1).to({state:[{t:this.instance_80},{t:this.back,p:{x:174.85,y:295.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:251.4}},{t:this.go},{t:this.goo}]},1).to({state:[{t:this.instance_81},{t:this.back,p:{x:170.75,y:295.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.75,y:251.45}}]},1).to({state:[{t:this.instance_82},{t:this.back,p:{x:169.35,y:293.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.35,y:250.15}}]},1).to({state:[{t:this.instance_83},{t:this.back,p:{x:174.9,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.9,y:250.1}},{t:this.superup,p:{x:370.05,y:246.2}},{t:this.superdown,p:{x:370.05,y:292.45}},{t:this.up,p:{x:273.45,y:246.2}},{t:this.down,p:{x:273.45,y:329.7}},{t:this.OK,p:{x:273.45,y:292.45}},{t:this.EXE,p:{x:366.45,y:620.35}}]},1).to({state:[{t:this.instance_84},{t:this.back,p:{x:174.85,y:292.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:248.85}},{t:this.superup,p:{x:370,y:244.95}},{t:this.superdown,p:{x:370,y:291.2}},{t:this.up,p:{x:273.4,y:244.95}},{t:this.down,p:{x:273.4,y:328.45}},{t:this.OK,p:{x:273.4,y:291.2}},{t:this.EXE,p:{x:365.05,y:621.8}}]},1).to({state:[{t:this.instance_85},{t:this.back,p:{x:173.55,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.55,y:250.1}},{t:this.superup,p:{x:368.7,y:246.2}},{t:this.superdown,p:{x:368.7,y:292.45}},{t:this.up,p:{x:272.1,y:246.2}},{t:this.down,p:{x:272.1,y:329.7}},{t:this.OK,p:{x:272.1,y:292.45}},{t:this.EXE,p:{x:366.45,y:621.7}}]},1).to({state:[{t:this.instance_86},{t:this.back,p:{x:173.6,y:297.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.6,y:254}},{t:this.superup,p:{x:368.75,y:250.1}},{t:this.superdown,p:{x:368.75,y:296.35}},{t:this.up,p:{x:272.15,y:250.1}},{t:this.down,p:{x:272.15,y:333.6}},{t:this.OK,p:{x:272.15,y:296.35}},{t:this.EXE,p:{x:366.5,y:620.2}}]},1).to({state:[{t:this.instance_87},{t:this.back,p:{x:172.1,y:295.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.1,y:251.45}},{t:this.superup,p:{x:367.25,y:247.55}},{t:this.superdown,p:{x:367.25,y:293.8}},{t:this.up,p:{x:270.65,y:247.55}},{t:this.down,p:{x:270.65,y:331.05}},{t:this.OK,p:{x:270.65,y:293.8}},{t:this.EXE,p:{x:367.7,y:621.7}}]},1).to({state:[{t:this.instance_88},{t:this.back,p:{x:177.15,y:289.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:177.15,y:246.25}},{t:this.EXE,p:{x:368.7,y:621.9}},{t:this.OK,p:{x:274.7,y:289.9}}]},1).to({state:[{t:this.instance_89},{t:this.back,p:{x:174.85,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:250.1}}]},1).to({state:[{t:this.instance_90},{t:this.back,p:{x:175.85,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.85,y:248.8}},{t:this.OK,p:{x:274.4,y:291.15}},{t:this.EXE,p:{x:368.75,y:621.75}}]},1).to({state:[{t:this.instance_91},{t:this.back,p:{x:174.85,y:295.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:251.4}}]},1).to({state:[{t:this.instance_92},{t:this.back,p:{x:176.15,y:291.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:176.15,y:247.5}},{t:this.OK,p:{x:274.7,y:289.85}},{t:this.EXE,p:{x:366.35,y:620.45}}]},1).to({state:[{t:this.instance_93},{t:this.back,p:{x:174.9,y:295.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.9,y:251.4}}]},1).to({state:[{t:this.instance_94},{t:this.back,p:{x:169.4,y:293.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.4,y:250.15}},{t:this.NEXT,p:{x:220.7,y:295.6,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_95},{t:this.back,p:{x:174.85,y:301.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:257.5}},{t:this.NEXT,p:{x:128.6,y:476.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_96},{t:this.back,p:{x:174.9,y:295.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.9,y:252.3}},{t:this.NEXT,p:{x:192.8,y:613.6,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_97},{t:this.back,p:{x:171.85,y:293.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.85,y:249.55}},{t:this.NEXT,p:{x:314.3,y:293.2,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.back,p:{x:170.8,y:294.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.8,y:251.05}},{t:this.NEXT,p:{x:250.35,y:514.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_98},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_99},{t:this.back,p:{x:172,y:294.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172,y:251.1}},{t:this.NEXT,p:{x:127,y:617.55,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_100},{t:this.back,p:{x:170.8,y:297.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.8,y:253.7}},{t:this.NEXT,p:{x:245.2,y:522.6,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_101},{t:this.back,p:{x:169.3,y:294.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.3,y:251.05}},{t:this.NEXT,p:{x:269.7,y:294.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:367.9,y:622.4,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_102},{t:this.back,p:{x:168.85,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.85,y:251.9}}]},1).to({state:[{t:this.instance_103},{t:this.back,p:{x:172.15,y:290.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:246.7}}]},1).to({state:[{t:this.instance_104},{t:this.back,p:{x:169.35,y:293.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.7,y:254.1}},{t:this.superup,p:{x:371.25,y:247.5}},{t:this.superdown,p:{x:371.25,y:293.75}},{t:this.up,p:{x:274.65,y:247.5}},{t:this.down,p:{x:274.65,y:331}},{t:this.OK,p:{x:274.65,y:293.75}},{t:this.EXE,p:{x:366.3,y:620.3}}]},1).to({state:[{t:this.instance_105},{t:this.back,p:{x:169.45,y:296.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.45,y:252.7}},{t:this.superup,p:{x:368.65,y:247.45}},{t:this.superdown,p:{x:368.65,y:293.7}},{t:this.up,p:{x:268,y:248.8}},{t:this.down,p:{x:268,y:332.3}},{t:this.OK,p:{x:268,y:295.05}},{t:this.EXE,p:{x:374.5,y:618.9}}]},1).to({state:[{t:this.instance_106},{t:this.back,p:{x:173.5,y:296.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.5,y:252.55}},{t:this.superup,p:{x:368.65,y:248.65}},{t:this.superdown,p:{x:368.65,y:294.9}},{t:this.up,p:{x:272.05,y:248.65}},{t:this.down,p:{x:272.05,y:332.15}},{t:this.OK,p:{x:272.05,y:294.9}},{t:this.EXE,p:{x:369.1,y:620.1}}]},1).to({state:[{t:this.instance_107},{t:this.back,p:{x:173.55,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.55,y:248.8}},{t:this.superup,p:{x:368.7,y:244.9}},{t:this.superdown,p:{x:368.7,y:291.15}},{t:this.up,p:{x:272.1,y:244.9}},{t:this.down,p:{x:272.1,y:328.4}},{t:this.OK,p:{x:272.1,y:291.15}},{t:this.EXE,p:{x:369.15,y:620.4}}]},1).to({state:[{t:this.instance_108},{t:this.back,p:{x:174.9,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.9,y:250.1}},{t:this.superup,p:{x:370.05,y:246.2}},{t:this.superdown,p:{x:370.05,y:292.45}},{t:this.up,p:{x:273.45,y:246.2}},{t:this.down,p:{x:273.45,y:329.7}},{t:this.OK,p:{x:273.45,y:292.45}},{t:this.EXE,p:{x:367.8,y:619}}]},1).to({state:[{t:this.instance_109},{t:this.back,p:{x:174.85,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:248.8}},{t:this.superup,p:{x:370,y:244.9}},{t:this.superdown,p:{x:370,y:291.15}},{t:this.up,p:{x:273.4,y:244.9}},{t:this.down,p:{x:273.4,y:328.4}},{t:this.OK,p:{x:273.4,y:291.15}},{t:this.EXE,p:{x:366.4,y:619.05}}]},1).to({state:[{t:this.instance_111},{t:this.back,p:{x:171.95,y:295.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.95,y:251.85}},{t:this.instance_110}]},1).to({state:[{t:this.instance_113},{t:this.back,p:{x:170.65,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.65,y:250.65}},{t:this.instance_112}]},1).to({state:[{t:this.instance_114},{t:this.back,p:{x:173.35,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.35,y:251.9}}]},1).to({state:[{t:this.instance_115},{t:this.back,p:{x:170.85,y:298.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.85,y:254.45}}]},1).to({state:[{t:this.instance_116},{t:this.back,p:{x:170.9,y:299.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.9,y:255.75}}]},1).to({state:[{t:this.instance_117},{t:this.back,p:{x:172.15,y:296.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:253.05}},{t:this.example1,p:{regX:0,regY:0,x:453.55,y:409.15}},{t:this.example2,p:{regX:0,regY:0,x:468,y:519.55}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_118},{t:this.back,p:{x:173.55,y:299.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.55,y:255.75}},{t:this.NEXT,p:{x:305.8,y:620.95,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_119},{t:this.back,p:{x:170.35,y:297.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.35,y:253.85}},{t:this.NEXT,p:{x:267.95,y:297.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.2,y:619.65,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_120},{t:this.back,p:{x:172.15,y:299.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:255.75}}]},1).to({state:[{t:this.instance_121},{t:this.back,p:{x:173.6,y:300.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.6,y:257}}]},1).to({state:[{t:this.instance_122},{t:this.trig,p:{regX:70,regY:18.6,x:220.25,y:426.1}},{t:this.back,p:{x:174.2,y:294.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.2,y:250.75}},{t:this.OK,p:{x:272.75,y:293.1}},{t:this.EXE,p:{x:364.4,y:619.65}}]},1).to({state:[{t:this.shape_2},{t:this.back,p:{x:174.2,y:294.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.2,y:250.75}},{t:this.MOVE}]},1).to({state:[{t:this.instance_125},{t:this.back,p:{x:170,y:295.5,regX:-0.6,regY:0.4}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:254.55}},{t:this.instance_124},{t:this.instance_123}]},1).to({state:[{t:this.instance_126},{t:this.back,p:{x:174.2,y:294.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.2,y:250.7}},{t:this.NEXT,p:{x:736.55,y:531.95,scaleX:16.2342,scaleY:7.6624,regX:0,regY:0}}]},1).to({state:[{t:this.instance_127},{t:this.back,p:{x:172.9,y:298.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.9,y:254.65}}]},1).to({state:[{t:this.instance_130},{t:this.back,p:{x:175.5,y:293.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.5,y:249.45}},{t:this.instance_129},{t:this.instance_9,p:{x:1099.2,y:393.3,scaleX:1,scaleY:1,regX:134.3,regY:135.3}},{t:this.instance_128}]},1).to({state:[{t:this.instance_131},{t:this.back,p:{x:171.8,y:295.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.8,y:252}},{t:this.down,p:{x:268.65,y:334.05}}]},1).to({state:[{t:this.instance_132},{t:this.back,p:{x:172.85,y:295.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.85,y:252}},{t:this.OK,p:{x:271.4,y:294.35}},{t:this.EXE,p:{x:368.45,y:620.9}},{t:this.up,p:{x:271.4,y:252}}]},1).to({state:[{t:this.instance_133},{t:this.back,p:{x:173.2,y:295.6,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.2,y:251.95}},{t:this.OK,p:{x:271.75,y:294.3}},{t:this.EXE,p:{x:367.45,y:620.85}}]},1).to({state:[{t:this.instance_134},{t:this.back,p:{x:171.65,y:296.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.65,y:253.3}}]},1).to({state:[{t:this.instance_136},{t:this.back,p:{x:172.8,y:294.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:250.4}},{t:this.instance_135,p:{scaleX:0.7407,scaleY:0.7406,x:764.9,y:558.85}}]},1).to({state:[{t:this.instance_138},{t:this.back,p:{x:171.55,y:294.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:250.55}},{t:this.instance_137}]},1).to({state:[{t:this.instance_139},{t:this.back,p:{x:171.8,y:296.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.8,y:253.25}},{t:this.example1,p:{regX:0,regY:0,x:427.1,y:124.65}},{t:this.example2_1},{t:this.example3_1},{t:this.example4},{t:this.example5}]},1).to({state:[{t:this.instance_140},{t:this.back,p:{x:171.35,y:296.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.35,y:253.3}}]},1).to({state:[{t:this.instance_141},{t:this.back,p:{x:172.65,y:296.85,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.65,y:253.2}}]},1).to({state:[{t:this.instance_142},{t:this.back,p:{x:171.8,y:299.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.8,y:255.7}}]},1).to({state:[{t:this.instance_143},{t:this.back,p:{x:171.5,y:294.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.5,y:250.45}}]},1).to({state:[{t:this.instance_144},{t:this.back,p:{x:172.7,y:299.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.7,y:255.85}}]},1).to({state:[{t:this.instance_145},{t:this.back,p:{x:170.2,y:296.85,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.2,y:253.2}},{t:this.OK,p:{x:268.75,y:295.55}},{t:this.EXE,p:{x:365.8,y:620.75}}]},1).to({state:[{t:this.instance_146},{t:this.back,p:{x:172.9,y:296.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.9,y:253.15}}]},1).to({state:[{t:this.instance_148},{t:this.back,p:{x:173,y:298.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173,y:254.6}},{t:this.OK,p:{x:271.55,y:296.95}},{t:this.EXE,p:{x:368.6,y:622.15}},{t:this.instance_147}]},1).to({state:[{t:this.instance_150},{t:this.back,p:{x:173,y:295.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173,y:251.8}},{t:this.instance_149}]},1).to({state:[{t:this.instance_152},{t:this.back,p:{x:175.5,y:295.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.5,y:252.05}},{t:this.instance_151,p:{x:1157.55,y:468.55}}]},1).to({state:[{t:this.instance_154},{t:this.back,p:{x:171.5,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.5,y:251.9}},{t:this.instance_153},{t:this.ERROR,p:{regX:0.2,scaleX:7.1012,x:724.15,y:418.55}}]},1).to({state:[{t:this.instance_156},{t:this.back,p:{x:173.2,y:298.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.2,y:254.5}},{t:this.instance_155,p:{x:1072,y:490.35}}]},1).to({state:[{t:this.instance_157},{t:this.back,p:{x:170.2,y:298.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.2,y:254.5}},{t:this.instance_151,p:{x:1155.9,y:481.25}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_159},{t:this.back,p:{x:173.05,y:295.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.05,y:251.8}},{t:this.NEXT,p:{x:307.45,y:622.65,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_158}]},1).to({state:[{t:this.instance_160},{t:this.back,p:{x:170.65,y:292.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.65,y:249.3}},{t:this.instance_155,p:{x:1123.55,y:510.55}}]},1).to({state:[{t:this.instance_161},{t:this.back,p:{x:171.65,y:298.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.65,y:254.55}}]},1).to({state:[{t:this.instance_162},{t:this.back,p:{x:170.15,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.15,y:249.4}},{t:this.instance_155,p:{x:1105.85,y:459}}]},1).to({state:[{t:this.instance_164},{t:this.back,p:{x:170.2,y:296.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.2,y:253.15}},{t:this.instance_163,p:{regX:900,regY:1050,x:993.05,y:421.4}}]},1).to({state:[{t:this.instance_166},{t:this.back,p:{x:170.25,y:295.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.25,y:252}},{t:this.instance_165}]},1).to({state:[{t:this.instance_167},{t:this.back,p:{x:171.55,y:294.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:250.4}},{t:this.instance_163,p:{regX:1002,regY:1140,x:1060.95,y:478}}]},1).to({state:[{t:this.instance_168},{t:this.back,p:{x:171.55,y:298.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:254.45}},{t:this.instance_163,p:{regX:1002,regY:1140,x:1139.35,y:473.7}}]},1).to({state:[{t:this.instance_169},{t:this.back,p:{x:172.4,y:293.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.4,y:249.75}},{t:this.superup,p:{x:367.55,y:245.85}},{t:this.superdown,p:{x:367.55,y:292.1}},{t:this.up,p:{x:270.95,y:245.85}},{t:this.down,p:{x:270.95,y:329.35}},{t:this.OK,p:{x:270.95,y:292.1}},{t:this.EXE,p:{x:366.65,y:621.35}},{t:this.prime}]},1).to({state:[{t:this.instance_170},{t:this.back,p:{x:172.55,y:294.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.55,y:251.25}},{t:this.superup,p:{x:367.7,y:247.35}},{t:this.superdown,p:{x:367.7,y:293.6}},{t:this.up,p:{x:271.1,y:247.35}},{t:this.down,p:{x:271.1,y:330.85}},{t:this.OK,p:{x:271.1,y:293.6}},{t:this.EXE,p:{x:368.15,y:620.15}},{t:this.prime}]},1).to({state:[{t:this.instance_171},{t:this.back,p:{x:171.2,y:294.85,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.2,y:251.2}},{t:this.superup,p:{x:366.35,y:247.3}},{t:this.superdown,p:{x:366.35,y:293.55}},{t:this.up,p:{x:269.75,y:247.3}},{t:this.down,p:{x:269.75,y:330.8}},{t:this.OK,p:{x:269.75,y:293.55}},{t:this.EXE,p:{x:361.4,y:620.1}},{t:this.prime}]},1).to({state:[{t:this.instance_172},{t:this.back,p:{x:175.15,y:296.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.15,y:252.5}},{t:this.superup,p:{x:370.3,y:248.6}},{t:this.superdown,p:{x:370.3,y:294.85}},{t:this.up,p:{x:273.7,y:248.6}},{t:this.down,p:{x:273.7,y:332.1}},{t:this.OK,p:{x:273.7,y:294.85}},{t:this.EXE,p:{x:366.7,y:620.05}},{t:this.prime}]},1).to({state:[{t:this.instance_173},{t:this.back,p:{x:173.7,y:296.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.7,y:252.55}},{t:this.superup,p:{x:368.85,y:248.65}},{t:this.superdown,p:{x:368.85,y:294.9}},{t:this.up,p:{x:272.25,y:248.65}},{t:this.down,p:{x:272.25,y:332.15}},{t:this.OK,p:{x:272.25,y:294.9}},{t:this.EXE,p:{x:363.9,y:620.1}},{t:this.prime}]},1).to({state:[{t:this.instance_174},{t:this.back,p:{x:175.3,y:296.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.3,y:252.65}},{t:this.superup,p:{x:370.45,y:248.75}},{t:this.superdown,p:{x:370.45,y:295}},{t:this.up,p:{x:273.85,y:248.75}},{t:this.down,p:{x:273.85,y:332.25}},{t:this.OK,p:{x:273.85,y:295}},{t:this.EXE,p:{x:362.8,y:620.2}},{t:this.prime}]},1).to({state:[{t:this.instance_175},{t:this.back,p:{x:176.65,y:297.6,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:176.65,y:253.95}},{t:this.superup,p:{x:371.8,y:250.05}},{t:this.superdown,p:{x:371.8,y:296.3}},{t:this.up,p:{x:275.2,y:250.05}},{t:this.down,p:{x:275.2,y:333.55}},{t:this.OK,p:{x:275.2,y:296.3}},{t:this.EXE,p:{x:366.85,y:620.15}},{t:this.prime}]},1).to({state:[{t:this.instance_176},{t:this.back,p:{x:174.55,y:296.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.55,y:253.1}}]},1).to({state:[{t:this.instance_177},{t:this.back,p:{x:172.25,y:299.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.25,y:255.75}},{t:this.instance_163,p:{regX:1002,regY:1140,x:1090.35,y:510.85}}]},1).to({state:[{t:this.instance_178},{t:this.back,p:{x:172.1,y:295.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.1,y:251.55}}]},1).to({state:[{t:this.instance_179},{t:this.back,p:{x:172.65,y:299.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.65,y:255.75}}]},1).to({state:[{t:this.instance_180},{t:this.back,p:{x:172.15,y:292.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:249.1}},{t:this.instance_135,p:{scaleX:0.5305,scaleY:0.5304,x:1115.8,y:642.3}}]},1).to({state:[{t:this.instance_182},{t:this.back,p:{x:174.85,y:291.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:248}},{t:this.right,p:{x:318.2,y:296.35}},{t:this.instance_181}]},1).to({state:[{t:this.instance_184},{t:this.back,p:{x:173.1,y:297.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.1,y:254.3}},{t:this.left,p:{x:225.2,y:295.25}},{t:this.right,p:{x:313.5,y:295}},{t:this.instance_183}]},1).to({state:[{t:this.instance_186},{t:this.back,p:{x:173.5,y:296.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.5,y:253.1}},{t:this.left,p:{x:224.4,y:297.2}},{t:this.right,p:{x:312.7,y:296.95}},{t:this.instance_185}]},1).to({state:[{t:this.instance_188},{t:this.back,p:{x:170.9,y:294.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.9,y:250.4}},{t:this.left,p:{x:221.7,y:294.5}},{t:this.instance_187}]},1).to({state:[{t:this.instance_189},{t:this.back,p:{x:172.15,y:296.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:252.9}},{t:this.instance_151,p:{x:1123.8,y:523.3}}]},1).to({state:[{t:this.instance_190},{t:this.back,p:{x:172.05,y:294.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.05,y:250.6}}]},1).to({state:[{t:this.instance_191},{t:this.back,p:{x:172.45,y:294.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.45,y:250.55}}]},1).to({state:[{t:this.instance_192},{t:this.NEXT,p:{x:271.6,y:292.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.RIGHT,p:{x:321.1,y:292.55}},{t:this.DOWN,p:{x:271.6,y:336}},{t:this.LEFT,p:{x:222.15,y:292.55}},{t:this.NEXT2,p:{x:367.15,y:624.15,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_193},{t:this.back,p:{x:171.2,y:293.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.2,y:253.45}},{t:this.NEXT,p:{x:270.95,y:293.35,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.DOWN,p:{x:270.95,y:336.8}},{t:this.NEXT2,p:{x:366.5,y:624.95,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_195},{t:this.back,p:{x:172.3,y:295,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.3,y:255.1}},{t:this.NEXT,p:{x:372,y:338.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_194}]},1).to({state:[{t:this.instance_197},{t:this.back,p:{x:171.3,y:293.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.3,y:253.55}},{t:this.NEXT,p:{x:271.05,y:336.9,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_196}]},1).to({state:[{t:this.instance_199},{t:this.back,p:{x:169.05,y:293.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.05,y:253.55}},{t:this.NEXT,p:{x:275.05,y:293.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:368.9,y:620.15,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_198}]},1).to({state:[{t:this.instance_201},{t:this.back,p:{x:168.75,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.75,y:254.4}},{t:this.NEXT,p:{x:274.75,y:294.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:368.6,y:621,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_200}]},1).to({state:[{t:this.instance_204},{t:this.back,p:{x:171.25,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:253.15}},{t:this.NEXT,p:{x:247.25,y:575.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_203},{t:this.instance_202}]},1).to({state:[{t:this.instance_205},{t:this.back,p:{x:171.25,y:296.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:256.9}},{t:this.NEXT,p:{x:271,y:249.3,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_206},{t:this.back,p:{x:172.5,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:254.4}},{t:this.NEXT,p:{x:321,y:294.3,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_207},{t:this.back,p:{x:170,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:255.65}},{t:this.NEXT,p:{x:188.5,y:524.25,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_208},{t:this.back,p:{x:168.75,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.75,y:254.4}},{t:this.NEXT,p:{x:271,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:368.6,y:621,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_209},{t:this.back,p:{x:171.25,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:255.65}},{t:this.NEXT,p:{x:273.5,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:272.25,y:335.2}}]},1).to({state:[{t:this.instance_210},{t:this.back,p:{x:170,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:255.65}},{t:this.NEXT,p:{x:272.25,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.85,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.UP,p:{x:271,y:250.65}}]},1).to({state:[{t:this.instance_211},{t:this.back,p:{x:170.05,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.05,y:254.4}},{t:this.NEXT,p:{x:271.05,y:336.75,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_212},{t:this.back,p:{x:170,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:255.65}}]},1).to({state:[{t:this.instance_213},{t:this.back,p:{x:171.25,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:254.4}},{t:this.NEXT,p:{x:321,y:336.75,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_214},{t:this.back,p:{x:171.25,y:299.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:259.35}}]},1).to({state:[{t:this.instance_215},{t:this.back,p:{x:272.25,y:248.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:255.65}},{t:this.NEXT,p:{x:272.25,y:291.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_216},{t:this.back,p:{x:172.5,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:251.9}},{t:this.NEXT,p:{x:273.5,y:291.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:618.5,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_217},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}},{t:this.NEXT,p:{x:268.5,y:291.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:618.5,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_218},{t:this.back,p:{x:173.75,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.75,y:253.15}},{t:this.NEXT,p:{x:274.75,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:373.6,y:619.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:273.5,y:335.2}}]},1).to({state:[{t:this.instance_219},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}}]},1).to({state:[{t:this.instance_220},{t:this.back,p:{x:170.05,y:294.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.05,y:254.35}},{t:this.NEXT,p:{x:271.05,y:294.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.9,y:620.95,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.UP,p:{x:266.25,y:251.85}}]},1).to({state:[{t:this.instance_221},{t:this.back,p:{x:175,y:290.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175,y:250.65}},{t:this.NEXT,p:{x:276,y:290.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.15,y:622.95,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_222},{t:this.back,p:{x:172.5,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:255.65}}]},1).to({state:[{t:this.instance_223},{t:this.okay,p:{x:271.55,y:292.55}},{t:this.DOWN,p:{x:271.55,y:336}},{t:this.LEFT,p:{x:222.1,y:292.55}},{t:this.okay2,p:{x:369.1,y:623.65}}]},1).to({state:[{t:this.instance_224},{t:this.back,p:{x:172.5,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:253.15}},{t:this.NEXT,p:{x:273.5,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:619.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:273.5,y:336.45}}]},1).to({state:[{t:this.instance_225},{t:this.back,p:{x:171.3,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.3,y:251.9}},{t:this.NEXT,p:{x:272.3,y:291.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.15,y:618.5,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_226},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}},{t:this.NEXT,p:{x:122.25,y:570.45,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_227},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}},{t:this.NEXT,p:{x:184.75,y:525.5,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_228},{t:this.back,p:{x:172.5,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:254.4}},{t:this.NEXT,p:{x:273.5,y:294.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:621,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_229},{t:this.back,p:{x:171.25,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:255.65}},{t:this.NEXT,p:{x:272.25,y:295.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_230},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}},{t:this.NEXT,p:{x:272.25,y:291.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:618.5,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_231},{t:this.back,p:{x:171.25,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:253.15}}]},1).to({state:[{t:this.instance_232},{t:this.back,p:{x:168.75,y:288.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.75,y:248.15}},{t:this.NEXT,p:{x:269.75,y:288.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:368.6,y:621,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:269.75,y:331.45}},{t:this.UP,p:{x:269.75,y:248.15}}]},1).to({state:[{t:this.instance_233},{t:this.back,p:{x:171.25,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:255.65}},{t:this.NEXT,p:{x:272.25,y:295.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_234},{t:this.back,p:{x:171.25,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:254.4}},{t:this.NEXT,p:{x:272.25,y:294.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:621,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_235},{t:this.back,p:{x:171.25,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:255.65}}]},1).to({state:[{t:this.instance_236},{t:this.back,p:{x:172.5,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:254.4}},{t:this.UP,p:{x:271,y:250.65}},{t:this.DOWN,p:{x:271,y:337.7}}]},1).to({state:[{t:this.instance_237},{t:this.back,p:{x:170.05,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.05,y:252.55}},{t:this.NEXT,p:{x:271.05,y:292.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.9,y:619.15,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.UP,p:{x:268.55,y:248.8}},{t:this.DOWN,p:{x:268.55,y:335.85}}]},1).to({state:[{t:this.instance_238},{t:this.back,p:{x:171.25,y:291.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.3}},{t:this.NEXT,p:{x:272.25,y:291.2,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.85,y:621.65,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_239},{t:this.back,p:{x:172.5,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:251.9}},{t:this.NEXT,p:{x:273.5,y:291.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:618.5,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_240},{t:this.back,p:{x:172.5,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:253.15}},{t:this.NEXT,p:{x:273.5,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:619.75,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_241},{t:this.back,p:{x:171.25,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:255.65}}]},1).to({state:[{t:this.instance_242},{t:this.back,p:{x:172.5,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:254.4}},{t:this.NEXT,p:{x:273.5,y:294.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:621,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.UP,p:{x:273.5,y:254.4}}]},1).to({state:[{t:this.instance_244},{t:this.back,p:{x:172.5,y:298.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:258.15}},{t:this.NEXT,p:{x:273.5,y:298.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:624.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_243}]},1).to({state:[{t:this.instance_246},{t:this.back,p:{x:172.5,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:255.65}},{t:this.NEXT,p:{x:273.5,y:295.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_245}]},1).to({state:[{t:this.instance_248},{t:this.back,p:{x:172.5,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:253.15}},{t:this.instance_247}]},1).to({state:[{t:this.instance_250},{t:this.okay,p:{x:270.35,y:292.6}},{t:this.RIGHT,p:{x:319.85,y:292.6}},{t:this.UP,p:{x:270.35,y:251.3}},{t:this.okay2,p:{x:369.9,y:622.65}},{t:this.instance_9,p:{x:641.3,y:467.1,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_249}]},1).to({state:[{t:this.instance_252},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}},{t:this.NEXT,p:{x:219.75,y:340.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_251}]},1).to({state:[{t:this.instance_254},{t:this.back,p:{x:170,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:254.4}},{t:this.NEXT,p:{x:271,y:339.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_253}]},1).to({state:[{t:this.instance_256},{t:this.back,p:{x:170.7,y:292.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.7,y:252.8}},{t:this.NEXT,p:{x:271.7,y:337.65,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_255}]},1).to({state:[{t:this.instance_258},{t:this.back,p:{x:171.95,y:292.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.95,y:252.8}},{t:this.NEXT,p:{x:272.95,y:292.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:364.9,y:626.4,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_257}]},1).to({state:[{t:this.instance_260},{t:this.back,p:{x:172.2,y:289.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.2,y:249.65}},{t:this.NEXT,p:{x:123.2,y:383.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_259}]},1).to({state:[{t:this.instance_262},{t:this.back,p:{x:170.95,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:252.15}},{t:this.NEXT,p:{x:271.95,y:292.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:363.9,y:625.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_261}]},1).to({state:[{t:this.instance_264},{t:this.back,p:{x:169.7,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:252.15}},{t:this.NEXT,p:{x:186.95,y:570.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_263}]},1).to({state:[{t:this.instance_266},{t:this.back,p:{x:173.45,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.45,y:253.4}},{t:this.NEXT,p:{x:370.15,y:337,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_265}]},1).to({state:[{t:this.instance_268},{t:this.back,p:{x:173.45,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.45,y:253.4}},{t:this.NEXT,p:{x:274.45,y:293.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:366.4,y:627,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_267}]},1).to({state:[{t:this.instance_270},{t:this.back,p:{x:169.7,y:289.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:249.65}},{t:this.NEXT,p:{x:270.7,y:289.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:362.65,y:623.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_269}]},1).to({state:[{t:this.instance_272},{t:this.back,p:{x:169.7,y:295.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:255.9}},{t:this.NEXT,p:{x:270.7,y:295.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:370.15,y:624.5,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_271}]},1).to({state:[{t:this.instance_274},{t:this.back,p:{x:170.95,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:253.4}},{t:this.NEXT,p:{x:271.95,y:293.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.4,y:622,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_273}]},1).to({state:[{t:this.instance_276},{t:this.back,p:{x:169.7,y:294.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:254.65}},{t:this.NEXT,p:{x:270.7,y:294.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:370.15,y:623.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_275}]},1).to({state:[{t:this.instance_278},{t:this.back,p:{x:172.2,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.2,y:253.4}},{t:this.instance_277}]},1).to({state:[{t:this.instance_280},{t:this.okay,p:{x:271.55,y:292.6}},{t:this.RIGHT,p:{x:321.05,y:292.6}},{t:this.UP,p:{x:271.55,y:251.3}},{t:this.LEFT,p:{x:222.1,y:292.6}},{t:this.okay2,p:{x:368.65,y:628.9}},{t:this.instance_279}]},1).to({state:[{t:this.instance_282},{t:this.back,p:{x:172.2,y:290.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.2,y:250.9}},{t:this.NEXT,p:{x:323.2,y:339.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_281}]},1).to({state:[{t:this.instance_284},{t:this.back,p:{x:172.2,y:294.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.2,y:254.65}},{t:this.NEXT,p:{x:273.2,y:294.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.65,y:623.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_283}]},1).to({state:[{t:this.instance_286},{t:this.back,p:{x:170.95,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:252.15}},{t:this.NEXT,p:{x:271.95,y:292.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.4,y:620.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:271.95,y:331.45}},{t:this.instance_285,p:{x:626,y:97}}]},1).to({state:[{t:this.instance_287},{t:this.back,p:{x:172.2,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.2,y:252.15}},{t:this.NEXT,p:{x:273.2,y:292.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.65,y:620.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:273.2,y:331.45}},{t:this.UP,p:{x:270.7,y:250.9}},{t:this.instance_285,p:{x:619,y:97}}]},1).to({state:[{t:this.instance_288},{t:this.back,p:{x:170.95,y:293.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:254.05}},{t:this.NEXT,p:{x:271.95,y:293.95,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.4,y:622.65,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:271.95,y:333.35}},{t:this.UP,p:{x:269.45,y:252.8}},{t:this.instance_285,p:{x:626,y:114}}]},1).to({state:[{t:this.instance_289},{t:this.back,p:{x:169.7,y:293.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:254.05}},{t:this.NEXT,p:{x:270.7,y:293.95,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:370.15,y:622.65,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:270.7,y:333.35}},{t:this.UP,p:{x:268.2,y:252.8}},{t:this.instance_285,p:{x:622,y:97}}]},1).to({state:[{t:this.instance_290},{t:this.back,p:{x:170.95,y:293.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:254.05}},{t:this.NEXT,p:{x:271.95,y:293.95,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.4,y:622.65,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:271.95,y:333.35}},{t:this.UP,p:{x:269.45,y:252.8}},{t:this.instance_285,p:{x:624,y:97}}]},1).to({state:[{t:this.instance_291},{t:this.back,p:{x:170.95,y:292.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:252.8}},{t:this.NEXT,p:{x:271.95,y:292.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.4,y:621.4,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:271.95,y:332.1}},{t:this.UP,p:{x:269.45,y:251.55}},{t:this.instance_285,p:{x:621,y:97}}]},1).to({state:[{t:this.instance_293},{t:this.back,p:{x:169.7,y:291.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:251.55}},{t:this.COMPLEX},{t:this.instance_292}]},1).to({state:[{t:this.instance_295},{t:this.back,p:{x:174.1,y:289.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.1,y:249.65}},{t:this.NEXT1},{t:this.NEXT2,p:{x:368.65,y:622.65,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_294}]},1).to({state:[{t:this.instance_297},{t:this.back,p:{x:172.85,y:295.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.85,y:255.9}},{t:this.NEXT,p:{x:309.6,y:627,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_296}]},1).to({state:[{t:this.instance_299},{t:this.back,p:{x:172.85,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.85,y:252.15}},{t:this.NEXT,p:{x:309.6,y:623.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_298}]},1).to({state:[{t:this.instance_301},{t:this.back,p:{x:174.1,y:290.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.1,y:250.9}},{t:this.NEXT,p:{x:310.85,y:622,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_300}]},1).to({state:[{t:this.instance_303},{t:this.back,p:{x:172.85,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.85,y:253.4}},{t:this.NEXT,p:{x:309.6,y:624.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_302}]},1).to({state:[{t:this.instance_305},{t:this.back,p:{x:171.6,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.6,y:253.4}},{t:this.NEXT,p:{x:308.35,y:624.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_304}]},1).to({state:[{t:this.instance_307},{t:this.back,p:{x:171.6,y:294.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.6,y:254.65}},{t:this.NEXT,p:{x:308.35,y:625.75,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_306}]},1).to({state:[{t:this.instance_310},{t:this.okay,p:{x:272.8,y:292.65}},{t:this.UP,p:{x:272.8,y:251.35}},{t:this.LEFT,p:{x:223.35,y:292.65}},{t:this.okay2,p:{x:369.9,y:622.65}},{t:this.instance_309},{t:this.instance_308}]},1).to({state:[{t:this.instance_313},{t:this.back,p:{x:171.6,y:295.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.6,y:255.9}},{t:this.NEXT,p:{x:370.8,y:339.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_312},{t:this.instance_311}]},1).to({state:[{t:this.instance_315},{t:this.back,p:{x:172.85,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.85,y:253.4}},{t:this.NEXT2,p:{x:369.55,y:624.5,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:272.45,y:293.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_314}]},1).to({state:[{t:this.instance_317},{t:this.back,p:{x:171.55,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:253.4}},{t:this.NEXT2,p:{x:368.25,y:624.5,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:271.15,y:293.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_316}]},1).to({state:[{t:this.instance_319},{t:this.back,p:{x:172.8,y:290.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:250.9}},{t:this.NEXT,p:{x:186.15,y:571.95,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_318}]},1).to({state:[{t:this.instance_320},{t:this.back,p:{x:172.8,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:253.4}},{t:this.NEXT,p:{x:186.15,y:525.75,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_318}]},1).to({state:[{t:this.instance_322},{t:this.back,p:{x:172.8,y:290.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:250.9}},{t:this.NEXT2,p:{x:369.5,y:622,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:272.4,y:290.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_321}]},1).to({state:[{t:this.instance_324},{t:this.back,p:{x:171.55,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:252.15}},{t:this.NEXT,p:{x:370.75,y:338.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_323}]},1).to({state:[{t:this.instance_326},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT2,p:{x:369.5,y:623.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:272.4,y:292.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_325}]},1).to({state:[{t:this.instance_328},{t:this.back,p:{x:174.05,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.05,y:252.15}},{t:this.NEXT2,p:{x:370.75,y:623.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:273.65,y:292.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_327}]},1).to({state:[{t:this.instance_330},{t:this.back,p:{x:171.55,y:294.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:254.65}},{t:this.NEXT2,p:{x:368.25,y:625.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:271.15,y:294.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_329}]},1).to({state:[{t:this.instance_332},{t:this.back,p:{x:171.55,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:252.15}},{t:this.instance_331}]},1).to({state:[{t:this.instance_334},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.instance_333},{t:this.instance_151,p:{x:1104.7,y:248.85}}]},1).to({state:[{t:this.instance_337},{t:this.instance_336},{t:this.instance_335},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:172.8,y:426.3,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_338},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:182.4,y:575.35,scaleX:1.6623,scaleY:1.5948,regX:-0.6,regY:0.5}}]},1).to({state:[{t:this.instance_339},{t:this.back_1},{t:this.home_1},{t:this.NEXT,p:{x:371.15,y:424.5,scaleX:1.6623,scaleY:1.2235,regX:-0.5,regY:0.6}},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}}]},1).to({state:[{t:this.instance_340},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:304.2,y:577.25,scaleX:1.6623,scaleY:1.5948,regX:-0.6,regY:0.5}}]},1).to({state:[{t:this.instance_341},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:121.9,y:337.05,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}}]},1).to({state:[{t:this.instance_342},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:219.85,y:424.85,scaleX:1.1559,scaleY:1.1661,regX:0,regY:0}}]},1).to({state:[{t:this.instance_343},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:121.9,y:337.05,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}}]},1).to({state:[{t:this.instance_344},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:123.1,y:476.7,scaleX:1.4489,scaleY:1.4601,regX:-0.4,regY:0.7}}]},1).to({state:[{t:this.instance_345},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:367.75,y:526.2,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}}]},1).to({state:[{t:this.instance_346},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:121.95,y:475.25,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}}]},1).to({state:[{t:this.instance_347},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:371.15,y:426.55,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}}]},1).to({state:[{t:this.instance_348},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:272.6,y:292.65,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}},{t:this.NEXT2,p:{x:367.8,y:623.65,regX:-0.5,regY:0.5,scaleX:1.1462,scaleY:1.0058}}]},1).to({state:[{t:this.instance_349},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}}]},1).wait(1));
 
 	// Layer_4
-	this.instance_349 = new lib.Abbysmile("synched",0);
-	this.instance_349.setTransform(1159.8,496.05,1,1,0,0,0,1002,1140);
+	this.instance_350 = new lib.Abbysmile("synched",0);
+	this.instance_350.setTransform(1159.8,496.05,1,1,0,0,0,1002,1140);
 
-	this.instance_350 = new lib.Bitmap295();
-	this.instance_350.setTransform(434,91,0.5649,0.5677);
+	this.instance_351 = new lib.Bitmap295();
+	this.instance_351.setTransform(434,91,0.5649,0.5677);
 
-	this.instance_351 = new lib.Bitmap296();
-	this.instance_351.setTransform(459,106,0.6794,0.6793);
+	this.instance_352 = new lib.Bitmap296();
+	this.instance_352.setTransform(459,106,0.6794,0.6793);
 
-	this.instance_352 = new lib.AbbyMellow("synched",0);
-	this.instance_352.setTransform(1109,444.95,1,1,0,0,0,150,175);
+	this.instance_353 = new lib.AbbyMellow("synched",0);
+	this.instance_353.setTransform(1109,444.95,1,1,0,0,0,150,175);
 
-	this.instance_353 = new lib.Bitmap297();
-	this.instance_353.setTransform(467,107,0.6739,0.6738);
+	this.instance_354 = new lib.Bitmap297();
+	this.instance_354.setTransform(467,107,0.6739,0.6738);
 
-	this.instance_354 = new lib.Abbystraight("synched",0);
-	this.instance_354.setTransform(1117,440.85,1,1,0,0,0,150,150);
+	this.instance_355 = new lib.Abbystraight("synched",0);
+	this.instance_355.setTransform(1117,440.85,1,1,0,0,0,150,150);
 
 	this.shape_3 = new cjs.Shape();
 	this.shape_3.graphics.f("#000000").s().p("AgYAXIAEgLQACgHACgEQADgEAIgIIAHgKQAFgEAPgBIACAGQACADgBACQgBAEgCACIgPARQgIALgEAIg");
 	this.shape_3.setTransform(783.83,104.375);
 
-	this.instance_355 = new lib.Bitmap298();
-	this.instance_355.setTransform(437,82,0.5166,0.523);
+	this.instance_356 = new lib.Bitmap298();
+	this.instance_356.setTransform(437,82,0.5166,0.523);
 
-	this.instance_356 = new lib.AGeary("synched",0);
-	this.instance_356.setTransform(1135.05,549.8,1,1,0,0,0,200,200);
+	this.instance_357 = new lib.AGeary("synched",0);
+	this.instance_357.setTransform(1135.05,549.8,1,1,0,0,0,200,200);
 
-	this.instance_357 = new lib.Bitmap299();
-	this.instance_357.setTransform(434,42,0.6868,0.6868);
+	this.instance_358 = new lib.Bitmap299();
+	this.instance_358.setTransform(434,42,0.6868,0.6868);
 
-	this.instance_358 = new lib.Bitmap300();
-	this.instance_358.setTransform(441,69,0.6868,0.6868);
+	this.instance_359 = new lib.Bitmap300();
+	this.instance_359.setTransform(441,69,0.6868,0.6868);
 
-	this.instance_359 = new lib.Bitmap301();
-	this.instance_359.setTransform(465,187,0.615,0.615);
+	this.instance_360 = new lib.Bitmap301();
+	this.instance_360.setTransform(465,187,0.615,0.615);
 
-	this.instance_360 = new lib.Bitmap302();
-	this.instance_360.setTransform(430,70,0.6266,0.6266);
+	this.instance_361 = new lib.Bitmap302();
+	this.instance_361.setTransform(430,70,0.6266,0.6266);
 
-	this.instance_361 = new lib.econdpiece();
-	this.instance_361.setTransform(453,539);
+	this.instance_362 = new lib.econdpiece();
+	this.instance_362.setTransform(453,539);
 
-	this.instance_362 = new lib.Bitmap315();
-	this.instance_362.setTransform(427,66,0.7201,0.7201);
+	this.instance_363 = new lib.Bitmap315();
+	this.instance_363.setTransform(427,66,0.7201,0.7201);
 
-	this.instance_363 = new lib.Bitmap316();
-	this.instance_363.setTransform(438,107,0.6301,0.6301);
+	this.instance_364 = new lib.Bitmap316();
+	this.instance_364.setTransform(438,107,0.6301,0.6301);
 
-	this.instance_364 = new lib.Bitmap317();
-	this.instance_364.setTransform(450,113,0.838,0.838);
+	this.instance_365 = new lib.Bitmap317();
+	this.instance_365.setTransform(450,113,0.838,0.838);
 
-	this.instance_365 = new lib.AVariable("synched",0);
-	this.instance_365.setTransform(1103.05,549.5,0.5034,0.5033,0,0,0,298.1,340.6);
+	this.instance_366 = new lib.AVariable("synched",0);
+	this.instance_366.setTransform(1103.05,549.5,0.5034,0.5033,0,0,0,298.1,340.6);
 
-	this.instance_366 = new lib.Bitmap318();
-	this.instance_366.setTransform(459,80,0.7937,0.7937);
+	this.instance_367 = new lib.Bitmap318();
+	this.instance_367.setTransform(459,80,0.7937,0.7937);
 
-	this.instance_367 = new lib.Bitmap294();
-	this.instance_367.setTransform(425,68,0.6417,0.6417);
+	this.instance_368 = new lib.Bitmap294();
+	this.instance_368.setTransform(425,68,0.6417,0.6417);
 
-	this.instance_368 = new lib.Bitmap319();
-	this.instance_368.setTransform(425,53,0.8511,0.8511);
+	this.instance_369 = new lib.Bitmap319();
+	this.instance_369.setTransform(425,53,0.8511,0.8511);
 
-	this.instance_369 = new lib.Bitmap320();
-	this.instance_369.setTransform(455,120,0.6693,0.6693);
+	this.instance_370 = new lib.Bitmap320();
+	this.instance_370.setTransform(455,120,0.6693,0.6693);
 
-	this.instance_370 = new lib.Bitmap321();
-	this.instance_370.setTransform(435,105,0.7092,0.7092);
+	this.instance_371 = new lib.Bitmap321();
+	this.instance_371.setTransform(435,105,0.7092,0.7092);
 
-	this.instance_371 = new lib.Bitmap322();
-	this.instance_371.setTransform(456,124,0.6301,0.63);
+	this.instance_372 = new lib.Bitmap322();
+	this.instance_372.setTransform(456,124,0.6301,0.63);
 
-	this.instance_372 = new lib.Bitmap323();
-	this.instance_372.setTransform(482,164);
+	this.instance_373 = new lib.Bitmap323();
+	this.instance_373.setTransform(482,164);
 
-	this.instance_373 = new lib.Bitmap324();
-	this.instance_373.setTransform(430,68,0.7201,0.7201);
+	this.instance_374 = new lib.Bitmap324();
+	this.instance_374.setTransform(430,68,0.7201,0.7201);
 
-	this.instance_374 = new lib.Bitmap325();
-	this.instance_374.setTransform(427,103,0.7201,0.7201);
+	this.instance_375 = new lib.Bitmap325();
+	this.instance_375.setTransform(427,103,0.7201,0.7201);
 
-	this.instance_375 = new lib.Bitmap326();
-	this.instance_375.setTransform(455,117,0.6301,0.63);
+	this.instance_376 = new lib.Bitmap326();
+	this.instance_376.setTransform(455,117,0.6301,0.63);
 
-	this.instance_376 = new lib.Bitmap328();
-	this.instance_376.setTransform(442,94,0.6233,0.6233);
+	this.instance_377 = new lib.Bitmap328();
+	this.instance_377.setTransform(442,94,0.6233,0.6233);
+	this.instance_377._off = true;
 
-	this.instance_377 = new lib.Bitmap329();
-	this.instance_377.setTransform(440,146,0.6217,0.6216);
+	this.instance_378 = new lib.Bitmap329();
+	this.instance_378.setTransform(440,146,0.6217,0.6216);
+	this.instance_378._off = true;
 
-	this.instance_378 = new lib.Bitmap330();
-	this.instance_378.setTransform(446,59,0.6103,0.6103);
+	this.instance_379 = new lib.Bitmap330();
+	this.instance_379.setTransform(446,59,0.6103,0.6103);
 
-	this.instance_379 = new lib.Bitmap331();
-	this.instance_379.setTransform(463,127,0.6301,0.6301);
+	this.instance_380 = new lib.Bitmap331();
+	this.instance_380.setTransform(463,127,0.6301,0.6301);
 
-	this.instance_380 = new lib.Bitmap332();
-	this.instance_380.setTransform(489,156,0.5268,0.5268);
+	this.instance_381 = new lib.Bitmap332();
+	this.instance_381.setTransform(489,156,0.5268,0.5268);
 
-	this.instance_381 = new lib.Bitmap333();
-	this.instance_381.setTransform(463,185,0.6184,0.6184);
+	this.instance_382 = new lib.Bitmap333();
+	this.instance_382.setTransform(463,185,0.6184,0.6184);
 
-	this.instance_382 = new lib.Bitmap334();
-	this.instance_382.setTransform(445,148,0.6295,0.6295);
+	this.instance_383 = new lib.Bitmap334();
+	this.instance_383.setTransform(445,148,0.6295,0.6295);
 
-	this.instance_383 = new lib.Bitmap335();
-	this.instance_383.setTransform(457,177);
+	this.instance_384 = new lib.Bitmap335();
+	this.instance_384.setTransform(457,177);
 
-	this.instance_384 = new lib.Bitmap336();
-	this.instance_384.setTransform(463,148,0.62,0.62);
+	this.instance_385 = new lib.Bitmap336();
+	this.instance_385.setTransform(463,148,0.62,0.62);
+	this.instance_385._off = true;
 
-	this.instance_385 = new lib.Bitmap337();
-	this.instance_385.setTransform(440,89,0.6284,0.6283);
+	this.instance_386 = new lib.Bitmap337();
+	this.instance_386.setTransform(440,89,0.6284,0.6283);
 
-	this.instance_386 = new lib.Bitmap338();
-	this.instance_386.setTransform(500,196,0.6178,0.6178);
+	this.instance_387 = new lib.Bitmap338();
+	this.instance_387.setTransform(500,196,0.6178,0.6178);
 
-	this.instance_387 = new lib.Bitmap339();
-	this.instance_387.setTransform(472,85,0.6272,0.6272);
+	this.instance_388 = new lib.Bitmap339();
+	this.instance_388.setTransform(472,85,0.6272,0.6272);
 
-	this.instance_388 = new lib.Bitmap340();
-	this.instance_388.setTransform(468,151,0.6352,0.6352);
+	this.instance_389 = new lib.Bitmap340();
+	this.instance_389.setTransform(468,151,0.6352,0.6352);
 
-	this.instance_389 = new lib.Bitmap341();
-	this.instance_389.setTransform(485,154,0.6352,0.6352);
+	this.instance_390 = new lib.Bitmap341();
+	this.instance_390.setTransform(485,154,0.6352,0.6352);
 
-	this.instance_390 = new lib.Bitmap342();
-	this.instance_390.setTransform(472,184,0.6352,0.6352);
+	this.instance_391 = new lib.Bitmap342();
+	this.instance_391.setTransform(472,184,0.6352,0.6352);
 
-	this.instance_391 = new lib.Bitmap343();
-	this.instance_391.setTransform(427,57,0.7214,0.7214);
+	this.instance_392 = new lib.Bitmap343();
+	this.instance_392.setTransform(427,57,0.7214,0.7214);
 
-	this.instance_392 = new lib.Bitmap344();
-	this.instance_392.setTransform(432,189,0.8101,0.81);
+	this.instance_393 = new lib.Bitmap344();
+	this.instance_393.setTransform(432,189,0.8101,0.81);
 
-	this.instance_393 = new lib.Bitmap345();
-	this.instance_393.setTransform(423,157,0.7201,0.72);
+	this.instance_394 = new lib.Bitmap345();
+	this.instance_394.setTransform(423,157,0.7201,0.72);
 
-	this.instance_394 = new lib.Bitmap346();
-	this.instance_394.setTransform(430,141,0.7124,0.7124);
+	this.instance_395 = new lib.Bitmap346();
+	this.instance_395.setTransform(431,141,0.7124,0.7124);
+	this.instance_395._off = true;
 
-	this.instance_395 = new lib.Bitmap347();
-	this.instance_395.setTransform(438,75,0.7048,0.7048);
+	this.instance_396 = new lib.Bitmap347();
+	this.instance_396.setTransform(438,75,0.7048,0.7048);
 
-	this.instance_396 = new lib.Bitmap348();
-	this.instance_396.setTransform(432,157,0.7005,0.7005);
+	this.instance_397 = new lib.Bitmap348();
+	this.instance_397.setTransform(432,157,0.7005,0.7005);
 
-	this.instance_397 = new lib.Bitmap349();
-	this.instance_397.setTransform(453,54,0.7181,0.7181);
+	this.instance_398 = new lib.Bitmap349();
+	this.instance_398.setTransform(453,54,0.7181,0.7181);
 
-	this.instance_398 = new lib.Bitmap350();
-	this.instance_398.setTransform(430,185,0.7024,0.7024);
+	this.instance_399 = new lib.Bitmap350();
+	this.instance_399.setTransform(430,185,0.7024,0.7024);
 
-	this.instance_399 = new lib.Bitmap351();
-	this.instance_399.setTransform(441,55,0.6627,0.6626);
+	this.instance_400 = new lib.Bitmap351();
+	this.instance_400.setTransform(441,55,0.6627,0.6626);
 
-	this.instance_400 = new lib.Bitmap352();
-	this.instance_400.setTransform(427,213,0.7181,0.7182);
+	this.instance_401 = new lib.Bitmap352();
+	this.instance_401.setTransform(427,213,0.7181,0.7182);
 
-	this.instance_401 = new lib.Bitmap353();
-	this.instance_401.setTransform(433,75,0.7117,0.7117);
+	this.instance_402 = new lib.Bitmap353();
+	this.instance_402.setTransform(433,75,0.7117,0.7117);
 
-	this.instance_402 = new lib.Bitmap354();
-	this.instance_402.setTransform(428,123,0.7117,0.7118);
+	this.instance_403 = new lib.Bitmap354();
+	this.instance_403.setTransform(428,123,0.7117,0.7118);
 
-	this.instance_403 = new lib.Bitmap355();
-	this.instance_403.setTransform(426,153,0.708,0.708);
+	this.instance_404 = new lib.Bitmap355();
+	this.instance_404.setTransform(426,153,0.708,0.708);
 
-	this.instance_404 = new lib.Bitmap356();
-	this.instance_404.setTransform(428,209,0.7117,0.7118);
+	this.instance_405 = new lib.Bitmap356();
+	this.instance_405.setTransform(428,209,0.7117,0.7118);
 
-	this.instance_405 = new lib.Bitmap357();
-	this.instance_405.setTransform(436,209,0.7117,0.7118);
+	this.instance_406 = new lib.Bitmap357();
+	this.instance_406.setTransform(436,209,0.7117,0.7118);
 
-	this.instance_406 = new lib.Bitmap358();
-	this.instance_406.setTransform(436,71,0.6725,0.6725);
+	this.instance_407 = new lib.Bitmap358();
+	this.instance_407.setTransform(436,71,0.6725,0.6725);
 
-	this.instance_407 = new lib.Bitmap359();
-	this.instance_407.setTransform(431,209,0.7117,0.7118);
+	this.instance_408 = new lib.Bitmap359();
+	this.instance_408.setTransform(431,209,0.7117,0.7118);
 
-	this.instance_408 = new lib.Bitmap360();
-	this.instance_408.setTransform(432,209,0.7117,0.7118);
+	this.instance_409 = new lib.Bitmap360();
+	this.instance_409.setTransform(432,209,0.7117,0.7118);
 
-	this.instance_409 = new lib.Bitmap361();
-	this.instance_409.setTransform(427,157,0.7201,0.72);
+	this.instance_410 = new lib.Bitmap361();
+	this.instance_410.setTransform(427,157,0.7201,0.72);
 
-	this.instance_410 = new lib.Bitmap362();
-	this.instance_410.setTransform(439,104,0.6614,0.6613);
+	this.instance_411 = new lib.Bitmap362();
+	this.instance_411.setTransform(439,104,0.6614,0.6613);
 
-	this.instance_411 = new lib.Bitmap363();
-	this.instance_411.setTransform(435,135,0.6767,0.6768);
+	this.instance_412 = new lib.Bitmap363();
+	this.instance_412.setTransform(435,135,0.6767,0.6768);
+	this.instance_412._off = true;
 
-	this.instance_412 = new lib.Bitmap366();
-	this.instance_412.setTransform(439,62,0.6887,0.6887);
+	this.instance_413 = new lib.Bitmap366();
+	this.instance_413.setTransform(439,62,0.6887,0.6887);
 
-	this.instance_413 = new lib.Bitmap371();
-	this.instance_413.setTransform(1011,445);
+	this.instance_414 = new lib.Bitmap371();
+	this.instance_414.setTransform(1011,445);
 
-	this.instance_414 = new lib.Bitmap370();
-	this.instance_414.setTransform(681,450);
+	this.instance_415 = new lib.Bitmap370();
+	this.instance_415.setTransform(681,450);
 
-	this.instance_415 = new lib.Bitmap368();
-	this.instance_415.setTransform(462,445);
+	this.instance_416 = new lib.Bitmap368();
+	this.instance_416.setTransform(462,445);
 
-	this.instance_416 = new lib.Bitmap367();
-	this.instance_416.setTransform(479,74,0.6335,0.6335);
+	this.instance_417 = new lib.Bitmap367();
+	this.instance_417.setTransform(479,74,0.6335,0.6335);
 
-	this.instance_417 = new lib.Bitmap374();
-	this.instance_417.setTransform(985,446);
+	this.instance_418 = new lib.Bitmap374();
+	this.instance_418.setTransform(985,446);
 
-	this.instance_418 = new lib.Bitmap373();
-	this.instance_418.setTransform(448,446);
+	this.instance_419 = new lib.Bitmap373();
+	this.instance_419.setTransform(448,446);
 
-	this.instance_419 = new lib.Bitmap372();
-	this.instance_419.setTransform(448,73,0.6335,0.6335);
+	this.instance_420 = new lib.Bitmap372();
+	this.instance_420.setTransform(448,73,0.6335,0.6335);
 
-	this.instance_420 = new lib.Bitmap375();
-	this.instance_420.setTransform(468,78,0.6284,0.6284);
+	this.instance_421 = new lib.Bitmap375();
+	this.instance_421.setTransform(468,78,0.6284,0.6284);
 
-	this.instance_421 = new lib.Bitmap376();
-	this.instance_421.setTransform(431,134,0.7002,0.7002);
+	this.instance_422 = new lib.Bitmap376();
+	this.instance_422.setTransform(431,134,0.7002,0.7002);
 
-	this.instance_422 = new lib.Bitmap377();
-	this.instance_422.setTransform(431,144,0.7246,0.7246);
+	this.instance_423 = new lib.Bitmap377();
+	this.instance_423.setTransform(431,144,0.7246,0.7246);
 
-	this.instance_423 = new lib.Bitmap378();
-	this.instance_423.setTransform(442,225,0.6974,0.6974);
+	this.instance_424 = new lib.Bitmap378();
+	this.instance_424.setTransform(442,225,0.6974,0.6974);
 
-	this.instance_424 = new lib.Bitmap379();
-	this.instance_424.setTransform(431,186,0.7181,0.7181);
+	this.instance_425 = new lib.Bitmap379();
+	this.instance_425.setTransform(431,186,0.7181,0.7181);
 
-	this.instance_425 = new lib.Bitmap380();
-	this.instance_425.setTransform(462,75,0.6512,0.6511);
+	this.instance_426 = new lib.Bitmap380();
+	this.instance_426.setTransform(462,75,0.6512,0.6511);
 
-	this.instance_426 = new lib.Bitmap381();
-	this.instance_426.setTransform(448,63,0.6383,0.6383);
+	this.instance_427 = new lib.Bitmap381();
+	this.instance_427.setTransform(448,63,0.6383,0.6383);
 
-	this.instance_427 = new lib.Bitmap385();
-	this.instance_427.setTransform(501,420);
+	this.instance_428 = new lib.Bitmap385();
+	this.instance_428.setTransform(501,420);
 
-	this.instance_428 = new lib.Bitmap384();
-	this.instance_428.setTransform(446,52,0.6974,0.6975);
+	this.instance_429 = new lib.Bitmap384();
+	this.instance_429.setTransform(446,52,0.6974,0.6975);
 
-	this.instance_429 = new lib.Bitmap386();
-	this.instance_429.setTransform(685,153);
+	this.instance_430 = new lib.Bitmap386();
+	this.instance_430.setTransform(685,153);
 
-	this.instance_430 = new lib.Bitmap387();
-	this.instance_430.setTransform(432,113,0.6619,0.6619);
+	this.instance_431 = new lib.Bitmap387();
+	this.instance_431.setTransform(432,113,0.6619,0.6619);
 
-	this.instance_431 = new lib.Bitmap388();
-	this.instance_431.setTransform(463,153,0.6361,0.6361);
+	this.instance_432 = new lib.Bitmap388();
+	this.instance_432.setTransform(463,153,0.6361,0.6361);
 
-	this.instance_432 = new lib.Bitmap389();
-	this.instance_432.setTransform(445,120,0.668,0.6591);
+	this.instance_433 = new lib.Bitmap389();
+	this.instance_433.setTransform(445,120,0.668,0.6591);
 
-	this.instance_433 = new lib.Bitmap390();
-	this.instance_433.setTransform(456,114,0.6359,0.5806);
+	this.instance_434 = new lib.Bitmap390();
+	this.instance_434.setTransform(456,114,0.6359,0.5806);
 
-	this.instance_434 = new lib.Bitmap391();
-	this.instance_434.setTransform(433,69,0.716,0.716);
+	this.instance_435 = new lib.Bitmap391();
+	this.instance_435.setTransform(433,69,0.716,0.716);
 
-	this.instance_435 = new lib.Bitmap393();
-	this.instance_435.setTransform(442,84,0.7202,0.7251);
+	this.instance_436 = new lib.Bitmap393();
+	this.instance_436.setTransform(442,84,0.7202,0.7251);
 
-	this.instance_436 = new lib.Bitmap394();
-	this.instance_436.setTransform(485,363,0.6993,0.6993);
+	this.instance_437 = new lib.Bitmap394();
+	this.instance_437.setTransform(485,363,0.6993,0.6993);
 
-	this.instance_437 = new lib.AVeri("synched",0);
-	this.instance_437.setTransform(876.85,547,1,1,0,0,0,325.5,325);
+	this.instance_438 = new lib.AVeri("synched",0);
+	this.instance_438.setTransform(876.85,547,1,1,0,0,0,325.5,325);
 
-	this.instance_438 = new lib.Bitmap396();
-	this.instance_438.setTransform(442,50,0.6341,0.6341);
+	this.instance_439 = new lib.Bitmap396();
+	this.instance_439.setTransform(442,50,0.6341,0.6341);
 
-	this.instance_439 = new lib.Bitmap397();
-	this.instance_439.setTransform(491,63,0.6284,0.6284);
+	this.instance_440 = new lib.Bitmap397();
+	this.instance_440.setTransform(491,63,0.6284,0.6284);
 
-	this.instance_440 = new lib.Bitmap398();
-	this.instance_440.setTransform(447,60,0.6284,0.6284);
+	this.instance_441 = new lib.Bitmap398();
+	this.instance_441.setTransform(447,60,0.6284,0.6284);
 
-	this.instance_441 = new lib.Bitmap399();
-	this.instance_441.setTransform(462,107,0.6284,0.6283);
+	this.instance_442 = new lib.Bitmap399();
+	this.instance_442.setTransform(462,107,0.6284,0.6283);
 
-	this.instance_442 = new lib.Bitmap400();
-	this.instance_442.setTransform(441,111,0.6284,0.6284);
+	this.instance_443 = new lib.Bitmap400();
+	this.instance_443.setTransform(441,111,0.6284,0.6284);
 
-	this.instance_443 = new lib.Bitmap401();
-	this.instance_443.setTransform(488,105,0.6284,0.6284);
+	this.instance_444 = new lib.Bitmap401();
+	this.instance_444.setTransform(488,105,0.6284,0.6284);
 
-	this.instance_444 = new lib.Bitmap402();
-	this.instance_444.setTransform(458,119,0.6211,0.6211);
+	this.instance_445 = new lib.Bitmap402();
+	this.instance_445.setTransform(458,119,0.6211,0.6211);
 
-	this.instance_445 = new lib.Bitmap403();
-	this.instance_445.setTransform(477,214,0.6146,0.6145);
+	this.instance_446 = new lib.Bitmap403();
+	this.instance_446.setTransform(477,214,0.6146,0.6145);
 
-	this.instance_446 = new lib.Bitmap406();
-	this.instance_446.setTransform(434,78,0.6312,0.6312);
+	this.instance_447 = new lib.Bitmap406();
+	this.instance_447.setTransform(434,78,0.6312,0.6312);
 
-	this.instance_447 = new lib.Bitmap408();
-	this.instance_447.setTransform(436,65,0.6877,0.6876);
+	this.instance_448 = new lib.Bitmap408();
+	this.instance_448.setTransform(436,65,0.6877,0.6876);
 
-	this.instance_448 = new lib.Bitmap409();
-	this.instance_448.setTransform(426,67,0.6702,0.6702);
+	this.instance_449 = new lib.Bitmap409();
+	this.instance_449.setTransform(426,67,0.6702,0.6702);
 
-	this.instance_449 = new lib.Bitmap411();
-	this.instance_449.setTransform(481,111,0.5177,0.5177);
+	this.instance_450 = new lib.Bitmap411();
+	this.instance_450.setTransform(481,111,0.5177,0.5177);
 
-	this.instance_450 = new lib.Bitmap412();
-	this.instance_450.setTransform(459,185,0.669,0.669);
+	this.instance_451 = new lib.Bitmap412();
+	this.instance_451.setTransform(459,185,0.669,0.669);
 
-	this.instance_451 = new lib.Bitmap413();
-	this.instance_451.setTransform(448,77,0.6751,0.6751);
+	this.instance_452 = new lib.Bitmap413();
+	this.instance_452.setTransform(448,77,0.6751,0.6751);
 
-	this.instance_452 = new lib.Bitmap414();
-	this.instance_452.setTransform(435,70,0.6841,0.6841);
+	this.instance_453 = new lib.Bitmap414();
+	this.instance_453.setTransform(435,70,0.6841,0.6841);
 
-	this.instance_453 = new lib.Abbylips("synched",0);
-	this.instance_453.setTransform(1115,521,1,1,0,0,0,193,193);
+	this.instance_454 = new lib.Abbylips("synched",0);
+	this.instance_454.setTransform(1115,521,1,1,0,0,0,193,193);
 
-	this.instance_454 = new lib.Bitmap417();
-	this.instance_454.setTransform(440,98,0.6301,0.6301);
+	this.instance_455 = new lib.Bitmap417();
+	this.instance_455.setTransform(440,98,0.6301,0.6301);
 
-	this.instance_455 = new lib.Bitmap418();
-	this.instance_455.setTransform(429,69,0.6751,0.6751);
+	this.instance_456 = new lib.Bitmap418();
+	this.instance_456.setTransform(429,69,0.6751,0.6751);
 
-	this.instance_456 = new lib.Bitmap419();
-	this.instance_456.setTransform(475,83,0.6301,0.6301);
+	this.instance_457 = new lib.Bitmap419();
+	this.instance_457.setTransform(475,83,0.6301,0.6301);
+	this.instance_457._off = true;
 
-	this.instance_457 = new lib.Bitmap420();
-	this.instance_457.setTransform(443,102,0.6794,0.6794);
+	this.instance_458 = new lib.Bitmap420();
+	this.instance_458.setTransform(443,102,0.6794,0.6794);
 
-	this.instance_458 = new lib.Bitmap421();
-	this.instance_458.setTransform(438,70,0.6875,0.6875);
+	this.instance_459 = new lib.Bitmap421();
+	this.instance_459.setTransform(438,70,0.6875,0.6875);
 
-	this.instance_459 = new lib.Bitmap422();
-	this.instance_459.setTransform(454,169,0.6256,0.6255);
+	this.instance_460 = new lib.Bitmap422();
+	this.instance_460.setTransform(454,169,0.6256,0.6255);
 
-	this.instance_460 = new lib.Bitmap423();
-	this.instance_460.setTransform(471,121,0.6108,0.6108);
+	this.instance_461 = new lib.Bitmap423();
+	this.instance_461.setTransform(471,121,0.6108,0.6108);
 
-	this.instance_461 = new lib.Bitmap424();
-	this.instance_461.setTransform(430,88,0.6217,0.6216);
+	this.instance_462 = new lib.Bitmap424();
+	this.instance_462.setTransform(430,88,0.6217,0.6216);
 
-	this.instance_462 = new lib.Bitmap425();
-	this.instance_462.setTransform(444,69,0.6119,0.6119);
+	this.instance_463 = new lib.Bitmap425();
+	this.instance_463.setTransform(444,69,0.6119,0.6119);
 
-	this.instance_463 = new lib.Bitmap430();
-	this.instance_463.setTransform(437,67,0.6114,0.6113);
+	this.instance_464 = new lib.Bitmap430();
+	this.instance_464.setTransform(437,67,0.6114,0.6113);
 
-	this.instance_464 = new lib.Bitmap431();
-	this.instance_464.setTransform(438,82,0.6301,0.6301);
+	this.instance_465 = new lib.Bitmap431();
+	this.instance_465.setTransform(438,82,0.6301,0.6301);
 
-	this.instance_465 = new lib.Bitmap432();
-	this.instance_465.setTransform(456,120,0.6301,0.6301);
+	this.instance_466 = new lib.Bitmap432();
+	this.instance_466.setTransform(456,120,0.6301,0.6301);
 
-	this.instance_466 = new lib.Bitmap434();
-	this.instance_466.setTransform(454,56,0.7343,0.7343);
+	this.instance_467 = new lib.Bitmap434();
+	this.instance_467.setTransform(454,56,0.7343,0.7343);
 
-	this.instance_467 = new lib.APennSmiling("synched",0);
-	this.instance_467.setTransform(1129.05,458.4,0.6383,0.6383,0,0,0,235,324.6);
+	this.instance_468 = new lib.APennSmiling("synched",0);
+	this.instance_468.setTransform(1129.05,458.4,0.6383,0.6383,0,0,0,235,324.6);
 
-	this.instance_468 = new lib.Bitmap436();
-	this.instance_468.setTransform(448,70,0.6068,0.6068);
+	this.instance_469 = new lib.Bitmap436();
+	this.instance_469.setTransform(448,70,0.6068,0.6068);
 
-	this.instance_469 = new lib.APennwhistling("synched",0);
-	this.instance_469.setTransform(1148.8,323.1,1,0.9998,0,0,0,227.5,342.6);
+	this.instance_470 = new lib.APennwhistling("synched",0);
+	this.instance_470.setTransform(1148.8,323.1,1,0.9998,0,0,0,227.5,342.6);
 
-	this.instance_470 = new lib.AMELLOWPENN("synched",0);
-	this.instance_470.setTransform(1090.8,252.55,0.781,0.8504,0,0,0,248,324.6);
+	this.instance_471 = new lib.AMELLOWPENN("synched",0);
+	this.instance_471.setTransform(1090.8,252.55,0.781,0.8504,0,0,0,248,324.6);
+	this.instance_471._off = true;
 
-	this.instance_471 = new lib.Bitmap446();
-	this.instance_471.setTransform(441,202,0.5603,0.5412);
+	this.instance_472 = new lib.Bitmap446();
+	this.instance_472.setTransform(441,202,0.5603,0.5412);
 
-	this.instance_472 = new lib.APennhandup("synched",0);
-	this.instance_472.setTransform(1156.25,477.2,1,1,0,0,0,235.5,305.5);
+	this.instance_473 = new lib.APennhandup("synched",0);
+	this.instance_473.setTransform(1156.25,477.2,1,1,0,0,0,235.5,305.5);
 
-	this.instance_473 = new lib.Bitmap447();
-	this.instance_473.setTransform(432,178,0.5724,0.5207);
+	this.instance_474 = new lib.Bitmap447();
+	this.instance_474.setTransform(432,178,0.5724,0.5207);
 
-	this.instance_474 = new lib.Bitmap448();
-	this.instance_474.setTransform(453,209,0.5938,0.5754);
+	this.instance_475 = new lib.Bitmap448();
+	this.instance_475.setTransform(453,209,0.5938,0.5754);
 
-	this.instance_475 = new lib.Pennneutral("synched",0);
-	this.instance_475.setTransform(1147.2,492,1,1,0,0,0,222,308);
+	this.instance_476 = new lib.Pennneutral("synched",0);
+	this.instance_476.setTransform(1147.2,492,1,1,0,0,0,222,308);
 
-	this.instance_476 = new lib.ACheeryPenn("synched",0);
-	this.instance_476.setTransform(1218.7,551.9,1,1,0,0,0,287,312.5);
+	this.instance_477 = new lib.ACheeryPenn("synched",0);
+	this.instance_477.setTransform(1218.7,551.9,1,1,0,0,0,287,312.5);
 
-	this.instance_477 = new lib.Bitmap450();
-	this.instance_477.setTransform(429,122,0.5813,0.5855);
+	this.instance_478 = new lib.Bitmap450();
+	this.instance_478.setTransform(429,122,0.5813,0.5855);
 
-	this.instance_478 = new lib.Bitmap452();
-	this.instance_478.setTransform(434,195,0.5947,0.5766);
+	this.instance_479 = new lib.Bitmap452();
+	this.instance_479.setTransform(434,195,0.5947,0.5766);
 
-	this.instance_479 = new lib.Bitmap453();
-	this.instance_479.setTransform(443,77,0.5407,0.5193);
+	this.instance_480 = new lib.Bitmap453();
+	this.instance_480.setTransform(443,77,0.5407,0.5193);
 
-	this.instance_480 = new lib.Bitmap454();
-	this.instance_480.setTransform(430,124,0.533,0.53);
+	this.instance_481 = new lib.Bitmap454();
+	this.instance_481.setTransform(430,124,0.533,0.53);
 
-	this.instance_481 = new lib.Bitmap455();
-	this.instance_481.setTransform(434,143,0.6385,0.6386);
+	this.instance_482 = new lib.Bitmap455();
+	this.instance_482.setTransform(434,143,0.6385,0.6386);
 
-	this.instance_482 = new lib.Bitmap456();
-	this.instance_482.setTransform(430,120,0.6212,0.6273);
+	this.instance_483 = new lib.Bitmap456();
+	this.instance_483.setTransform(430,120,0.6212,0.6273);
 
-	this.instance_483 = new lib.Bitmap457();
-	this.instance_483.setTransform(450,96,0.5423,0.5207);
+	this.instance_484 = new lib.Bitmap457();
+	this.instance_484.setTransform(450,96,0.5423,0.5207);
 
-	this.instance_484 = new lib.Bitmap458();
-	this.instance_484.setTransform(436,150,0.6346,0.6165);
+	this.instance_485 = new lib.Bitmap458();
+	this.instance_485.setTransform(436,150,0.6346,0.6165);
 
-	this.instance_485 = new lib.Bitmap459();
-	this.instance_485.setTransform(433,68,0.5587,0.5587);
+	this.instance_486 = new lib.Bitmap459();
+	this.instance_486.setTransform(433,68,0.5587,0.5587);
 
-	this.instance_486 = new lib.Bitmap460();
-	this.instance_486.setTransform(433,112,0.6769,0.6463);
+	this.instance_487 = new lib.Bitmap460();
+	this.instance_487.setTransform(433,112,0.6769,0.6463);
 
-	this.instance_487 = new lib.Bitmap461();
-	this.instance_487.setTransform(436,132,0.5811,0.5682);
+	this.instance_488 = new lib.Bitmap461();
+	this.instance_488.setTransform(436,132,0.5811,0.5682);
 
-	this.instance_488 = new lib.Bitmap462();
-	this.instance_488.setTransform(432,110,0.5696,0.5661);
+	this.instance_489 = new lib.Bitmap462();
+	this.instance_489.setTransform(432,110,0.5696,0.5661);
 
-	this.instance_489 = new lib.Bitmap463();
-	this.instance_489.setTransform(431,110,0.5303,0.5177);
+	this.instance_490 = new lib.Bitmap463();
+	this.instance_490.setTransform(431,110,0.5303,0.5177);
 
-	this.instance_490 = new lib.Bitmap465();
-	this.instance_490.setTransform(468,209,0.5717,0.5453);
+	this.instance_491 = new lib.Bitmap465();
+	this.instance_491.setTransform(468,209,0.5717,0.5453);
 
-	this.instance_491 = new lib.Norm1("synched",0);
-	this.instance_491.setTransform(1105.95,581.8,0.8,0.7999,0,0,0,347.5,203.1);
+	this.instance_492 = new lib.Norm1("synched",0);
+	this.instance_492.setTransform(1105.95,581.8,0.8,0.7999,0,0,0,347.5,203.1);
 
-	this.instance_492 = new lib.Bitmap467();
-	this.instance_492.setTransform(482,321,0.5515,0.5253);
+	this.instance_493 = new lib.Bitmap467();
+	this.instance_493.setTransform(482,321,0.5515,0.5253);
 
-	this.instance_493 = new lib.Normsmile("synched",0);
-	this.instance_493.setTransform(1099.5,279.8,1,1,0,0,0,391.5,229);
+	this.instance_494 = new lib.Normsmile("synched",0);
+	this.instance_494.setTransform(1099.5,279.8,1,1,0,0,0,391.5,229);
 
-	this.instance_494 = new lib.Bitmap469();
-	this.instance_494.setTransform(458,387,0.6291,0.5765);
+	this.instance_495 = new lib.Bitmap469();
+	this.instance_495.setTransform(458,387,0.6291,0.5765);
 
-	this.instance_495 = new lib.Normsad("synched",0);
-	this.instance_495.setTransform(1098.5,301.5,1,1,0,0,0,400.5,234.5);
+	this.instance_496 = new lib.Normsad("synched",0);
+	this.instance_496.setTransform(1098.5,301.5,1,1,0,0,0,400.5,234.5);
 
-	this.instance_496 = new lib.Bitmap470();
-	this.instance_496.setTransform(612,57,0.5329,0.5144);
+	this.instance_497 = new lib.Bitmap470();
+	this.instance_497.setTransform(612,57,0.5329,0.5144);
 
-	this.instance_497 = new lib.Bitmap471();
-	this.instance_497.setTransform(438,80,0.5717,0.541);
+	this.instance_498 = new lib.Bitmap471();
+	this.instance_498.setTransform(438,80,0.5717,0.541);
 
-	this.instance_498 = new lib.Bitmap472();
-	this.instance_498.setTransform(446,79,0.5579,0.5431);
+	this.instance_499 = new lib.Bitmap472();
+	this.instance_499.setTransform(446,79,0.5579,0.5431);
 
-	this.instance_499 = new lib.Bitmap473();
-	this.instance_499.setTransform(648,67,0.5105,0.496);
+	this.instance_500 = new lib.Bitmap473();
+	this.instance_500.setTransform(648,67,0.5105,0.496);
 
-	this.instance_500 = new lib.Bitmap474();
-	this.instance_500.setTransform(446,309,0.6138,0.5854);
+	this.instance_501 = new lib.Bitmap474();
+	this.instance_501.setTransform(446,309,0.6138,0.5854);
 
-	this.instance_501 = new lib.Bitmap475();
-	this.instance_501.setTransform(430,343,0.6981,0.6981);
+	this.instance_502 = new lib.Bitmap475();
+	this.instance_502.setTransform(430,343,0.6981,0.6981);
 
-	this.instance_502 = new lib.Bitmap476();
-	this.instance_502.setTransform(547,53,0.5998,0.5528);
+	this.instance_503 = new lib.Bitmap476();
+	this.instance_503.setTransform(547,53,0.5998,0.5528);
 
-	this.instance_503 = new lib.Bitmap477();
-	this.instance_503.setTransform(614,54,0.5384,0.5236);
+	this.instance_504 = new lib.Bitmap477();
+	this.instance_504.setTransform(614,54,0.5384,0.5236);
 
-	this.instance_504 = new lib.Bitmap478();
-	this.instance_504.setTransform(491,367,0.5117,0.4684);
+	this.instance_505 = new lib.Bitmap478();
+	this.instance_505.setTransform(491,367,0.5117,0.4684);
 
-	this.instance_505 = new lib.Bitmap479();
-	this.instance_505.setTransform(427,359,0.6601,0.66);
+	this.instance_506 = new lib.Bitmap479();
+	this.instance_506.setTransform(427,359,0.6601,0.66);
 
-	this.instance_506 = new lib.Bitmap480();
-	this.instance_506.setTransform(433,373,0.6803,0.6803);
+	this.instance_507 = new lib.Bitmap480();
+	this.instance_507.setTransform(433,373,0.6803,0.6803);
 
-	this.instance_507 = new lib.Bitmap481();
-	this.instance_507.setTransform(487,307,0.5918,0.5749);
+	this.instance_508 = new lib.Bitmap481();
+	this.instance_508.setTransform(487,307,0.5918,0.5749);
 
-	this.instance_508 = new lib.Bitmap482();
-	this.instance_508.setTransform(562,60,0.5535,0.5359);
+	this.instance_509 = new lib.Bitmap482();
+	this.instance_509.setTransform(562,60,0.5535,0.5359);
 
-	this.instance_509 = new lib.Bitmap483();
-	this.instance_509.setTransform(471,353,0.5483,0.5236);
+	this.instance_510 = new lib.Bitmap483();
+	this.instance_510.setTransform(471,353,0.5483,0.5236);
 
-	this.instance_510 = new lib.Bitmap484();
-	this.instance_510.setTransform(431,354,0.6944,0.6944);
+	this.instance_511 = new lib.Bitmap484();
+	this.instance_511.setTransform(431,354,0.6944,0.6944);
 
-	this.instance_511 = new lib.Aimaginary("synched",0);
-	this.instance_511.setTransform(562.65,421.25,1,1,0,0,0,106.5,219.5);
+	this.instance_512 = new lib.Aimaginary("synched",0);
+	this.instance_512.setTransform(562.65,421.25,1,1,0,0,0,106.5,219.5);
 
-	this.instance_512 = new lib.ACRAYNEWTON("synched",0);
-	this.instance_512.setTransform(745.75,305.6,1,1,0,0,0,316,253.5);
-	this.instance_512._off = true;
+	this.instance_513 = new lib.ACRAYNEWTON("synched",0);
+	this.instance_513.setTransform(745.75,305.6,1,1,0,0,0,316,253.5);
+	this.instance_513._off = true;
 
 	this.calculator = new lib.Symbol2();
 	this.calculator.name = "calculator";
@@ -18793,41 +18851,46 @@ if (reversed == null) { reversed = false; }
 	this.back_2.setTransform(172.8,292.05);
 	new cjs.ButtonHelper(this.back_2, 0, 1, 1);
 
-	this.instance_513 = new lib.Bitmap539();
-	this.instance_513.setTransform(643,255,0.5697,0.5331);
+	this.instance_514 = new lib.Bitmap539();
+	this.instance_514.setTransform(643,255,0.5697,0.5331);
 
-	this.instance_514 = new lib.smileyabby();
-	this.instance_514.setTransform(899,58,0.1452,0.1452);
+	this.instance_515 = new lib.smileyabby();
+	this.instance_515.setTransform(899,58,0.1452,0.1452);
 
-	this.instance_515 = new lib.AVeri("synched",0);
-	this.instance_515.setTransform(890.35,105.9,1,1,0,0,0,325.5,325);
+	this.instance_516 = new lib.AVeri("synched",0);
+	this.instance_516.setTransform(890.35,105.9,1,1,0,0,0,325.5,325);
 
-	this.instance_516 = new lib.Bitmap540();
-	this.instance_516.setTransform(670,255,0.4605,0.3877);
+	this.instance_517 = new lib.Bitmap540();
+	this.instance_517.setTransform(670,255,0.4605,0.3877);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.instance_350},{t:this.instance_349,p:{x:1159.8,y:496.05}}]},1).to({state:[{t:this.instance_352},{t:this.instance_351}]},1).to({state:[{t:this.shape_3},{t:this.instance_354,p:{x:1117,y:440.85}},{t:this.instance_353}]},1).to({state:[{t:this.instance_356,p:{x:1135.05,y:549.8,scaleX:1,scaleY:1}},{t:this.instance_355}]},1).to({state:[{t:this.instance_356,p:{x:1134,y:466.25,scaleX:1,scaleY:1}},{t:this.instance_357}]},1).to({state:[{t:this.instance_356,p:{x:1141,y:508.2,scaleX:1,scaleY:1}},{t:this.instance_358}]},1).to({state:[{t:this.instance_354,p:{x:1138,y:268.9}},{t:this.instance_359}]},1).to({state:[{t:this.instance_356,p:{x:1139.75,y:523.75,scaleX:1,scaleY:1}},{t:this.instance_360}]},1).to({state:[{t:this.instance_361}]},1).to({state:[]},1).to({state:[{t:this.instance_362}]},11).to({state:[{t:this.instance_363}]},1).to({state:[{t:this.instance_365,p:{x:1103.05,y:549.5,regX:298.1,regY:340.6,scaleX:0.5034,scaleY:0.5033}},{t:this.instance_364}]},1).to({state:[{t:this.instance_366},{t:this.instance_365,p:{x:1099.3,y:520.05,regX:298.1,regY:340.6,scaleX:0.5034,scaleY:0.5033}}]},1).to({state:[{t:this.instance_367},{t:this.instance_365,p:{x:1170.1,y:506,regX:298,regY:340.5,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_368},{t:this.instance_365,p:{x:1168.95,y:489.75,regX:298,regY:340.5,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_369},{t:this.instance_365,p:{x:1112.75,y:459.95,regX:298,regY:340.5,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_370},{t:this.instance_365,p:{x:1120.5,y:463.9,regX:298,regY:340.5,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_365,p:{x:1130,y:576.5,regX:298,regY:340.5,scaleX:1,scaleY:1}},{t:this.instance_371}]},1).to({state:[{t:this.instance_365,p:{x:1098.75,y:459.95,regX:298,regY:340.5,scaleX:1,scaleY:1}},{t:this.instance_372}]},1).to({state:[{t:this.instance_365,p:{x:1012.75,y:555.4,regX:298,regY:340.5,scaleX:1,scaleY:1}},{t:this.instance_373}]},1).to({state:[{t:this.instance_365,p:{x:1048.7,y:554.5,regX:298,regY:340.5,scaleX:1,scaleY:1}},{t:this.instance_374}]},1).to({state:[{t:this.instance_365,p:{x:1058.1,y:563.3,regX:298,regY:340.5,scaleX:1,scaleY:1}},{t:this.instance_374}]},1).to({state:[{t:this.instance_365,p:{x:1067.45,y:520.9,regX:298,regY:340.5,scaleX:1,scaleY:1}},{t:this.instance_375}]},1).to({state:[{t:this.instance_376}]},1).to({state:[{t:this.instance_377}]},6).to({state:[{t:this.instance_378}]},6).to({state:[{t:this.instance_379}]},1).to({state:[{t:this.instance_380}]},1).to({state:[{t:this.instance_381}]},1).to({state:[{t:this.instance_382}]},1).to({state:[{t:this.instance_383}]},1).to({state:[{t:this.instance_384}]},1).to({state:[{t:this.instance_385}]},6).to({state:[{t:this.instance_386}]},1).to({state:[{t:this.instance_387}]},1).to({state:[{t:this.instance_388}]},1).to({state:[{t:this.instance_389}]},1).to({state:[{t:this.instance_390}]},1).to({state:[{t:this.instance_391}]},1).to({state:[{t:this.instance_392}]},1).to({state:[{t:this.instance_393}]},1).to({state:[{t:this.instance_394,p:{x:430}}]},1).to({state:[{t:this.instance_394,p:{x:431}}]},3).to({state:[{t:this.instance_395}]},2).to({state:[{t:this.instance_396}]},1).to({state:[{t:this.instance_397}]},1).to({state:[{t:this.instance_398}]},1).to({state:[{t:this.instance_399}]},1).to({state:[{t:this.instance_400}]},1).to({state:[{t:this.instance_401}]},1).to({state:[{t:this.instance_402}]},1).to({state:[{t:this.instance_403}]},1).to({state:[{t:this.instance_404}]},1).to({state:[{t:this.instance_405}]},1).to({state:[{t:this.instance_406}]},1).to({state:[{t:this.instance_407}]},1).to({state:[{t:this.instance_408}]},1).to({state:[{t:this.instance_409}]},1).to({state:[{t:this.instance_410}]},1).to({state:[{t:this.instance_411}]},1).to({state:[]},6).to({state:[{t:this.instance_412}]},2).to({state:[{t:this.instance_416},{t:this.instance_415},{t:this.instance_414,p:{x:681,y:450}},{t:this.instance_413}]},1).to({state:[{t:this.instance_419},{t:this.instance_418},{t:this.instance_417},{t:this.instance_414,p:{x:662,y:460}}]},1).to({state:[{t:this.instance_420}]},1).to({state:[{t:this.instance_421}]},1).to({state:[{t:this.instance_422}]},1).to({state:[{t:this.instance_423}]},1).to({state:[{t:this.instance_424}]},1).to({state:[{t:this.instance_425}]},1).to({state:[{t:this.instance_426}]},1).to({state:[]},1).to({state:[{t:this.instance_428},{t:this.instance_427,p:{x:501,y:420}}]},1).to({state:[{t:this.instance_427,p:{x:473,y:145}},{t:this.instance_429}]},1).to({state:[{t:this.instance_430}]},1).to({state:[{t:this.instance_356,p:{x:1157.95,y:498.7,scaleX:0.7442,scaleY:0.7441}},{t:this.instance_431}]},1).to({state:[{t:this.instance_356,p:{x:1162.65,y:527.9,scaleX:0.7442,scaleY:0.7439}},{t:this.instance_432}]},1).to({state:[{t:this.instance_356,p:{x:1115.35,y:539.1,scaleX:0.7442,scaleY:0.7441}},{t:this.instance_433}]},1).to({state:[{t:this.instance_356,p:{x:1153.25,y:578.15,scaleX:0.7442,scaleY:0.7441}},{t:this.instance_434}]},1).to({state:[{t:this.instance_435}]},1).to({state:[{t:this.instance_437,p:{regX:325.5,regY:325,scaleX:1,scaleY:1,x:876.85,y:547}},{t:this.instance_436}]},1).to({state:[{t:this.instance_438}]},1).to({state:[{t:this.instance_439}]},1).to({state:[{t:this.instance_440}]},1).to({state:[{t:this.instance_441}]},1).to({state:[{t:this.instance_442}]},1).to({state:[{t:this.instance_443}]},1).to({state:[{t:this.instance_444}]},1).to({state:[{t:this.instance_445}]},1).to({state:[]},1).to({state:[{t:this.instance_446}]},2).to({state:[]},1).to({state:[{t:this.instance_447}]},1).to({state:[{t:this.instance_448}]},1).to({state:[]},1).to({state:[{t:this.instance_449}]},1).to({state:[{t:this.instance_450}]},1).to({state:[{t:this.instance_451}]},1).to({state:[{t:this.instance_452}]},1).to({state:[{t:this.instance_453,p:{x:1115}}]},1).to({state:[{t:this.instance_454}]},1).to({state:[{t:this.instance_455}]},1).to({state:[{t:this.instance_456}]},1).to({state:[{t:this.instance_457}]},7).to({state:[{t:this.instance_458}]},1).to({state:[{t:this.instance_459}]},1).to({state:[{t:this.instance_460}]},1).to({state:[{t:this.instance_461}]},1).to({state:[{t:this.instance_462},{t:this.instance_453,p:{x:1098.9}}]},1).to({state:[{t:this.instance_463}]},4).to({state:[{t:this.instance_464},{t:this.instance_349,p:{x:1057,y:478}}]},1).to({state:[{t:this.instance_465}]},1).to({state:[{t:this.instance_467,p:{scaleX:0.6383,scaleY:0.6383,x:1129.05,y:458.4,regX:235,regY:324.6}},{t:this.instance_466}]},1).to({state:[{t:this.instance_469,p:{regX:227.5,regY:342.6,scaleY:0.9998,x:1148.8,y:323.1,scaleX:1}},{t:this.instance_468}]},1).to({state:[{t:this.instance_470,p:{regY:324.6,scaleX:0.781,scaleY:0.8504,x:1090.8,y:252.55}}]},1).to({state:[]},4).to({state:[{t:this.instance_472,p:{regX:235.5,regY:305.5,scaleX:1,scaleY:1,x:1156.25,y:477.2}},{t:this.instance_471}]},1).to({state:[{t:this.instance_473},{t:this.instance_469,p:{regX:150,regY:384.8,scaleY:1,x:1072.15,y:347.1,scaleX:1}}]},1).to({state:[{t:this.instance_475,p:{regX:222,regY:308,x:1147.2,y:492,scaleX:1,scaleY:1}},{t:this.instance_474}]},1).to({state:[{t:this.instance_477},{t:this.instance_476,p:{regX:287,regY:312.5,x:1218.7,y:551.9}}]},1).to({state:[{t:this.instance_478},{t:this.instance_469,p:{regX:150,regY:384.8,scaleY:1,x:1075.2,y:361.8,scaleX:1}}]},1).to({state:[{t:this.instance_479},{t:this.instance_467,p:{scaleX:0.7447,scaleY:0.7446,x:1116.6,y:322.85,regX:235,regY:324.6}}]},2).to({state:[{t:this.instance_480},{t:this.instance_467,p:{scaleX:0.8168,scaleY:0.8394,x:1122.6,y:329.95,regX:235.1,regY:324.6}}]},1).to({state:[{t:this.instance_481},{t:this.instance_469,p:{regX:150.1,regY:384.8,scaleY:0.9332,x:1089.7,y:318.6,scaleX:0.9333}}]},1).to({state:[{t:this.instance_482},{t:this.instance_470,p:{regY:324.5,scaleX:1,scaleY:1,x:1102.1,y:362.8}}]},1).to({state:[{t:this.instance_483},{t:this.instance_475,p:{regX:150,regY:208.1,x:1066.75,y:277.1,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_484},{t:this.instance_475,p:{regX:150.1,regY:208.2,x:1100.25,y:342.2,scaleX:0.8647,scaleY:0.895}}]},1).to({state:[{t:this.instance_475,p:{regX:150,regY:208.1,x:1070.7,y:311.8,scaleX:1,scaleY:1}},{t:this.instance_485}]},1).to({state:[{t:this.instance_486,p:{scaleX:0.6769,scaleY:0.6463,x:433,y:112}},{t:this.instance_470,p:{regY:324.5,scaleX:1,scaleY:1,x:1119.8,y:284.35}}]},1).to({state:[{t:this.instance_487},{t:this.instance_472,p:{regX:150,regY:194.6,scaleX:0.8333,scaleY:0.8636,x:1100.75,y:288.6}}]},1).to({state:[{t:this.instance_486,p:{scaleX:0.685,scaleY:0.6549,x:436,y:108}},{t:this.instance_470,p:{regY:324.5,scaleX:1,scaleY:1,x:1119.8,y:284.35}}]},1).to({state:[{t:this.instance_475,p:{regX:150,regY:208.1,x:1081.5,y:364.8,scaleX:1,scaleY:1}},{t:this.instance_488}]},1).to({state:[{t:this.instance_489},{t:this.instance_476,p:{regX:150,regY:163.3,x:1082.55,y:231.3}}]},1).to({state:[{t:this.instance_491,p:{regX:347.5,regY:203.1,scaleX:0.8,scaleY:0.7999,x:1105.95,y:581.8}},{t:this.instance_490}]},1).to({state:[{t:this.instance_493,p:{regX:391.5,regY:229,x:1099.5,y:279.8,scaleX:1,scaleY:1}},{t:this.instance_492}]},1).to({state:[{t:this.instance_495,p:{regX:400.5,regY:234.5,x:1098.5,y:301.5,scaleX:1,scaleY:1}},{t:this.instance_494}]},1).to({state:[{t:this.instance_496},{t:this.instance_491,p:{regX:250.1,regY:146.1,scaleX:0.9,scaleY:0.8288,x:696.6,y:539.7}}]},1).to({state:[{t:this.instance_493,p:{regX:250,regY:146.2,x:941.4,y:490.55,scaleX:1,scaleY:1}},{t:this.instance_497}]},2).to({state:[{t:this.instance_498},{t:this.instance_491,p:{regX:250.1,regY:177.6,scaleX:0.5624,scaleY:0.4966,x:1051.25,y:414.8}}]},1).to({state:[{t:this.instance_499},{t:this.instance_493,p:{regX:250,regY:146.2,x:708,y:531.45,scaleX:0.9,scaleY:0.8311}}]},1).to({state:[{t:this.instance_500},{t:this.instance_493,p:{regX:216.8,regY:200.2,x:928.55,y:236.45,scaleX:0.8446,scaleY:0.7863}}]},1).to({state:[{t:this.instance_491,p:{regX:250,regY:146.1,scaleX:1,scaleY:1,x:907.95,y:215.1}},{t:this.instance_501}]},1).to({state:[{t:this.instance_502},{t:this.instance_491,p:{regX:250,regY:146.1,scaleX:0.7998,scaleY:0.7251,x:673,y:547.15}}]},1).to({state:[{t:this.instance_491,p:{regX:250,regY:146.1,scaleX:0.7938,scaleY:0.8073,x:704.3,y:539.45}},{t:this.instance_503}]},1).to({state:[{t:this.instance_504},{t:this.instance_493,p:{regX:250,regY:146.2,x:953.05,y:206.05,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_505},{t:this.instance_495,p:{regX:250,regY:146.3,x:911.6,y:206.55,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_506},{t:this.instance_493,p:{regX:250,regY:146.2,x:913.85,y:205.4,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_507},{t:this.instance_493,p:{regX:250,regY:146.2,x:900.15,y:176.35,scaleX:0.8186,scaleY:0.7894}}]},1).to({state:[{t:this.instance_508},{t:this.instance_495,p:{regX:250,regY:146.3,x:610.5,y:444.1,scaleX:0.681,scaleY:0.6619}}]},1).to({state:[{t:this.instance_509},{t:this.instance_493,p:{regX:250,regY:146.2,x:890.15,y:211.45,scaleX:0.8688,scaleY:0.8824}}]},2).to({state:[{t:this.instance_510},{t:this.instance_493,p:{regX:250,regY:146.2,x:920.3,y:208,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_495,p:{regX:250,regY:146.3,x:637.2,y:547.2,scaleX:0.8248,scaleY:0.7971}}]},1).to({state:[{t:this.instance_495,p:{regX:250.1,regY:146.3,x:624.7,y:547.2,scaleX:0.756,scaleY:0.7971}}]},1).to({state:[{t:this.instance_495,p:{regX:250.1,regY:146.3,x:624.7,y:547.2,scaleX:0.756,scaleY:0.7971}}]},1).to({state:[]},1).to({state:[{t:this.instance_356,p:{x:640.35,y:361.85,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_356,p:{x:637.6,y:520.05,scaleX:1,scaleY:1}}]},13).to({state:[{t:this.instance_511,p:{regX:106.5,regY:219.5,scaleX:1,scaleY:1,x:562.65,y:421.25}}]},1).to({state:[{t:this.instance_512}]},17).to({state:[{t:this.instance_512}]},2).to({state:[{t:this.instance_512}]},5).to({state:[{t:this.instance_512}]},2).to({state:[{t:this.instance_512}]},1).to({state:[{t:this.instance_512}]},1).to({state:[]},1).to({state:[{t:this.instance_512},{t:this.instance_491,p:{regX:250,regY:146.1,scaleX:0.6,scaleY:0.6,x:842,y:572.4}},{t:this.instance_356,p:{x:592.1,y:602,scaleX:0.7442,scaleY:0.7441}},{t:this.instance_511,p:{regX:90,regY:185.5,scaleX:0.8333,scaleY:0.8333,x:1157.15,y:212.4}},{t:this.instance_467,p:{scaleX:0.6667,scaleY:0.6666,x:1132.15,y:514.95,regX:209,regY:234.2}},{t:this.instance_365,p:{x:529,y:420.55,regX:255.2,regY:389.8,scaleX:0.75,scaleY:0.7499}},{t:this.instance_437,p:{regX:325.6,regY:324.9,scaleX:0.5305,scaleY:0.5304,x:860.25,y:240.35}},{t:this.calculator}]},1).to({state:[{t:this.instance_511,p:{regX:90,regY:185.5,scaleX:0.8333,scaleY:0.8333,x:1157.15,y:212.4}},{t:this.instance_515},{t:this.instance_512},{t:this.instance_491,p:{regX:250,regY:146.1,scaleX:0.6,scaleY:0.6,x:842,y:572.4}},{t:this.instance_356,p:{x:592.1,y:602,scaleX:0.7442,scaleY:0.7441}},{t:this.instance_467,p:{scaleX:0.6667,scaleY:0.6666,x:1132.15,y:514.95,regX:209,regY:234.2}},{t:this.instance_365,p:{x:529,y:420.55,regX:255.2,regY:389.8,scaleX:0.75,scaleY:0.7499}},{t:this.instance_437,p:{regX:325.6,regY:324.9,scaleX:0.5305,scaleY:0.5304,x:860.25,y:240.35}},{t:this.instance_514},{t:this.instance_513},{t:this.calculator},{t:this.back_2}]},1).to({state:[{t:this.instance_515},{t:this.instance_516},{t:this.instance_512},{t:this.instance_491,p:{regX:250,regY:146.1,scaleX:0.6,scaleY:0.6,x:842,y:572.4}},{t:this.instance_356,p:{x:592.1,y:602,scaleX:0.7442,scaleY:0.7441}},{t:this.instance_511,p:{regX:90,regY:185.5,scaleX:0.8333,scaleY:0.8333,x:1157.15,y:212.4}},{t:this.instance_467,p:{scaleX:0.6667,scaleY:0.6666,x:1132.15,y:514.95,regX:209,regY:234.2}},{t:this.instance_365,p:{x:529,y:420.55,regX:255.2,regY:389.8,scaleX:0.75,scaleY:0.7499}},{t:this.instance_437,p:{regX:325.6,regY:324.9,scaleX:0.5305,scaleY:0.5304,x:860.25,y:240.35}},{t:this.instance_514}]},11).wait(1));
-	this.timeline.addTween(cjs.Tween.get(this.instance_512).wait(238).to({_off:false},0).wait(2).to({startPosition:0},0).wait(5).to({startPosition:0},0).wait(2).to({startPosition:0},0).wait(1).to({startPosition:0},0).wait(1).to({startPosition:0},0).to({_off:true},1).wait(1).to({_off:false,regX:200.1,regY:160.5,scaleX:0.7685,scaleY:0.7685,x:584.3,y:181.2},0).wait(1).to({startPosition:0},0).wait(11).to({startPosition:0},0).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.instance_351},{t:this.instance_350,p:{x:1159.8,y:496.05}}]},1).to({state:[{t:this.instance_353},{t:this.instance_352}]},1).to({state:[{t:this.shape_3},{t:this.instance_355,p:{x:1117,y:440.85}},{t:this.instance_354}]},1).to({state:[{t:this.instance_357,p:{x:1135.05,y:549.8,scaleX:1,scaleY:1}},{t:this.instance_356}]},1).to({state:[{t:this.instance_357,p:{x:1134,y:466.25,scaleX:1,scaleY:1}},{t:this.instance_358}]},1).to({state:[{t:this.instance_357,p:{x:1141,y:508.2,scaleX:1,scaleY:1}},{t:this.instance_359}]},1).to({state:[{t:this.instance_355,p:{x:1138,y:268.9}},{t:this.instance_360}]},1).to({state:[{t:this.instance_357,p:{x:1139.75,y:523.75,scaleX:1,scaleY:1}},{t:this.instance_361}]},1).to({state:[{t:this.instance_362}]},1).to({state:[]},1).to({state:[{t:this.instance_363}]},11).to({state:[{t:this.instance_364}]},1).to({state:[{t:this.instance_366,p:{x:1103.05,y:549.5,regX:298.1,regY:340.6,scaleX:0.5034,scaleY:0.5033}},{t:this.instance_365}]},1).to({state:[{t:this.instance_367},{t:this.instance_366,p:{x:1099.3,y:520.05,regX:298.1,regY:340.6,scaleX:0.5034,scaleY:0.5033}}]},1).to({state:[{t:this.instance_368},{t:this.instance_366,p:{x:1170.1,y:506,regX:298,regY:340.5,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_369},{t:this.instance_366,p:{x:1168.95,y:489.75,regX:298,regY:340.5,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_370},{t:this.instance_366,p:{x:1112.75,y:459.95,regX:298,regY:340.5,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_371},{t:this.instance_366,p:{x:1120.5,y:463.9,regX:298,regY:340.5,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_366,p:{x:1130,y:576.5,regX:298,regY:340.5,scaleX:1,scaleY:1}},{t:this.instance_372}]},1).to({state:[{t:this.instance_366,p:{x:1098.75,y:459.95,regX:298,regY:340.5,scaleX:1,scaleY:1}},{t:this.instance_373}]},1).to({state:[{t:this.instance_366,p:{x:1012.75,y:555.4,regX:298,regY:340.5,scaleX:1,scaleY:1}},{t:this.instance_374}]},1).to({state:[{t:this.instance_366,p:{x:1048.7,y:554.5,regX:298,regY:340.5,scaleX:1,scaleY:1}},{t:this.instance_375}]},1).to({state:[{t:this.instance_366,p:{x:1058.1,y:563.3,regX:298,regY:340.5,scaleX:1,scaleY:1}},{t:this.instance_375}]},1).to({state:[{t:this.instance_366,p:{x:1067.45,y:520.9,regX:298,regY:340.5,scaleX:1,scaleY:1}},{t:this.instance_376}]},1).to({state:[{t:this.instance_377}]},1).to({state:[{t:this.instance_377}]},1).to({state:[{t:this.instance_377}]},1).to({state:[{t:this.instance_377}]},1).to({state:[{t:this.instance_377}]},1).to({state:[{t:this.instance_377}]},1).to({state:[{t:this.instance_378}]},1).to({state:[{t:this.instance_378}]},1).to({state:[{t:this.instance_378}]},1).to({state:[{t:this.instance_378}]},1).to({state:[{t:this.instance_378}]},1).to({state:[{t:this.instance_378}]},1).to({state:[{t:this.instance_379}]},1).to({state:[{t:this.instance_380}]},1).to({state:[{t:this.instance_381}]},1).to({state:[{t:this.instance_382}]},1).to({state:[{t:this.instance_383}]},1).to({state:[{t:this.instance_384}]},1).to({state:[{t:this.instance_385}]},1).to({state:[{t:this.instance_385}]},1).to({state:[{t:this.instance_385}]},1).to({state:[{t:this.instance_385}]},1).to({state:[{t:this.instance_385}]},1).to({state:[{t:this.instance_385}]},1).to({state:[{t:this.instance_386}]},1).to({state:[{t:this.instance_387}]},1).to({state:[{t:this.instance_388}]},1).to({state:[{t:this.instance_389}]},1).to({state:[{t:this.instance_390}]},1).to({state:[{t:this.instance_391}]},1).to({state:[{t:this.instance_392}]},1).to({state:[{t:this.instance_393}]},1).to({state:[{t:this.instance_394}]},1).to({state:[{t:this.instance_395}]},1).to({state:[{t:this.instance_395}]},1).to({state:[{t:this.instance_395}]},1).to({state:[{t:this.instance_395}]},1).to({state:[{t:this.instance_395}]},1).to({state:[{t:this.instance_396}]},1).to({state:[{t:this.instance_397}]},1).to({state:[{t:this.instance_398}]},1).to({state:[{t:this.instance_399}]},1).to({state:[{t:this.instance_400}]},1).to({state:[{t:this.instance_401}]},1).to({state:[{t:this.instance_402}]},1).to({state:[{t:this.instance_403}]},1).to({state:[{t:this.instance_404}]},1).to({state:[{t:this.instance_405}]},1).to({state:[{t:this.instance_406}]},1).to({state:[{t:this.instance_407}]},1).to({state:[{t:this.instance_408}]},1).to({state:[{t:this.instance_409}]},1).to({state:[{t:this.instance_410}]},1).to({state:[{t:this.instance_411}]},1).to({state:[{t:this.instance_412}]},1).to({state:[{t:this.instance_412}]},1).to({state:[{t:this.instance_412}]},1).to({state:[{t:this.instance_412}]},1).to({state:[{t:this.instance_412}]},1).to({state:[{t:this.instance_412}]},1).to({state:[]},1).to({state:[{t:this.instance_413}]},2).to({state:[{t:this.instance_417},{t:this.instance_416},{t:this.instance_415,p:{x:681,y:450}},{t:this.instance_414}]},1).to({state:[{t:this.instance_420},{t:this.instance_419},{t:this.instance_418},{t:this.instance_415,p:{x:662,y:460}}]},1).to({state:[{t:this.instance_421}]},1).to({state:[{t:this.instance_422}]},1).to({state:[{t:this.instance_423}]},1).to({state:[{t:this.instance_424}]},1).to({state:[{t:this.instance_425}]},1).to({state:[{t:this.instance_426}]},1).to({state:[{t:this.instance_427}]},1).to({state:[]},1).to({state:[{t:this.instance_429},{t:this.instance_428,p:{x:501,y:420}}]},1).to({state:[{t:this.instance_428,p:{x:473,y:145}},{t:this.instance_430}]},1).to({state:[{t:this.instance_431}]},1).to({state:[{t:this.instance_357,p:{x:1157.95,y:498.7,scaleX:0.7442,scaleY:0.7441}},{t:this.instance_432}]},1).to({state:[{t:this.instance_357,p:{x:1162.65,y:527.9,scaleX:0.7442,scaleY:0.7439}},{t:this.instance_433}]},1).to({state:[{t:this.instance_357,p:{x:1115.35,y:539.1,scaleX:0.7442,scaleY:0.7441}},{t:this.instance_434}]},1).to({state:[{t:this.instance_357,p:{x:1153.25,y:578.15,scaleX:0.7442,scaleY:0.7441}},{t:this.instance_435}]},1).to({state:[{t:this.instance_436}]},1).to({state:[{t:this.instance_438,p:{regX:325.5,regY:325,scaleX:1,scaleY:1,x:876.85,y:547}},{t:this.instance_437}]},1).to({state:[{t:this.instance_439}]},1).to({state:[{t:this.instance_440}]},1).to({state:[{t:this.instance_441}]},1).to({state:[{t:this.instance_442}]},1).to({state:[{t:this.instance_443}]},1).to({state:[{t:this.instance_444}]},1).to({state:[{t:this.instance_445}]},1).to({state:[{t:this.instance_446}]},1).to({state:[]},1).to({state:[{t:this.instance_447}]},2).to({state:[]},1).to({state:[{t:this.instance_448}]},1).to({state:[{t:this.instance_449}]},1).to({state:[]},1).to({state:[{t:this.instance_450}]},1).to({state:[{t:this.instance_451}]},1).to({state:[{t:this.instance_452}]},1).to({state:[{t:this.instance_453}]},1).to({state:[{t:this.instance_454,p:{x:1115}}]},1).to({state:[{t:this.instance_455}]},1).to({state:[{t:this.instance_456}]},1).to({state:[{t:this.instance_457}]},1).to({state:[{t:this.instance_457}]},1).to({state:[{t:this.instance_457}]},1).to({state:[{t:this.instance_457}]},1).to({state:[{t:this.instance_457}]},1).to({state:[{t:this.instance_457}]},1).to({state:[{t:this.instance_457}]},1).to({state:[{t:this.instance_458}]},1).to({state:[{t:this.instance_459}]},1).to({state:[{t:this.instance_460}]},1).to({state:[{t:this.instance_461}]},1).to({state:[{t:this.instance_462}]},1).to({state:[{t:this.instance_463},{t:this.instance_454,p:{x:1098.9}}]},1).to({state:[{t:this.instance_463},{t:this.instance_454,p:{x:1098.9}}]},1).to({state:[{t:this.instance_463},{t:this.instance_454,p:{x:1098.9}}]},1).to({state:[{t:this.instance_463},{t:this.instance_454,p:{x:1098.9}}]},1).to({state:[{t:this.instance_464}]},1).to({state:[{t:this.instance_465},{t:this.instance_350,p:{x:1057,y:478}}]},1).to({state:[{t:this.instance_466}]},1).to({state:[{t:this.instance_468,p:{scaleX:0.6383,scaleY:0.6383,x:1129.05,y:458.4,regX:235,regY:324.6}},{t:this.instance_467}]},1).to({state:[{t:this.instance_470,p:{regX:227.5,regY:342.6,scaleY:0.9998,x:1148.8,y:323.1,scaleX:1}},{t:this.instance_469}]},1).to({state:[{t:this.instance_471}]},1).to({state:[{t:this.instance_471}]},1).to({state:[{t:this.instance_471}]},1).to({state:[{t:this.instance_471}]},1).to({state:[]},1).to({state:[{t:this.instance_473,p:{regX:235.5,regY:305.5,scaleX:1,scaleY:1,x:1156.25,y:477.2}},{t:this.instance_472}]},1).to({state:[{t:this.instance_474},{t:this.instance_470,p:{regX:150,regY:384.8,scaleY:1,x:1072.15,y:347.1,scaleX:1}}]},1).to({state:[{t:this.instance_476,p:{regX:222,regY:308,x:1147.2,y:492,scaleX:1,scaleY:1}},{t:this.instance_475}]},1).to({state:[{t:this.instance_478},{t:this.instance_477,p:{regX:287,regY:312.5,x:1218.7,y:551.9}}]},1).to({state:[{t:this.instance_479},{t:this.instance_470,p:{regX:150,regY:384.8,scaleY:1,x:1075.2,y:361.8,scaleX:1}}]},1).to({state:[{t:this.instance_479},{t:this.instance_470,p:{regX:150,regY:384.8,scaleY:1,x:1075.2,y:361.8,scaleX:1}}]},1).to({state:[{t:this.instance_480},{t:this.instance_468,p:{scaleX:0.7447,scaleY:0.7446,x:1116.6,y:322.85,regX:235,regY:324.6}}]},1).to({state:[{t:this.instance_481},{t:this.instance_468,p:{scaleX:0.8168,scaleY:0.8394,x:1122.6,y:329.95,regX:235.1,regY:324.6}}]},1).to({state:[{t:this.instance_482},{t:this.instance_470,p:{regX:150.1,regY:384.8,scaleY:0.9332,x:1089.7,y:318.6,scaleX:0.9333}}]},1).to({state:[{t:this.instance_483},{t:this.instance_471}]},1).to({state:[{t:this.instance_484},{t:this.instance_476,p:{regX:150,regY:208.1,x:1066.75,y:277.1,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_485},{t:this.instance_476,p:{regX:150.1,regY:208.2,x:1100.25,y:342.2,scaleX:0.8647,scaleY:0.895}}]},1).to({state:[{t:this.instance_476,p:{regX:150,regY:208.1,x:1070.7,y:311.8,scaleX:1,scaleY:1}},{t:this.instance_486}]},1).to({state:[{t:this.instance_487,p:{scaleX:0.6769,scaleY:0.6463,x:433,y:112}},{t:this.instance_471}]},1).to({state:[{t:this.instance_488},{t:this.instance_473,p:{regX:150,regY:194.6,scaleX:0.8333,scaleY:0.8636,x:1100.75,y:288.6}}]},1).to({state:[{t:this.instance_487,p:{scaleX:0.685,scaleY:0.6549,x:436,y:108}},{t:this.instance_471}]},1).to({state:[{t:this.instance_476,p:{regX:150,regY:208.1,x:1081.5,y:364.8,scaleX:1,scaleY:1}},{t:this.instance_489}]},1).to({state:[{t:this.instance_490},{t:this.instance_477,p:{regX:150,regY:163.3,x:1082.55,y:231.3}}]},1).to({state:[{t:this.instance_492,p:{regX:347.5,regY:203.1,scaleX:0.8,scaleY:0.7999,x:1105.95,y:581.8}},{t:this.instance_491}]},1).to({state:[{t:this.instance_494,p:{regX:391.5,regY:229,x:1099.5,y:279.8,scaleX:1,scaleY:1}},{t:this.instance_493}]},1).to({state:[{t:this.instance_496,p:{regX:400.5,regY:234.5,x:1098.5,y:301.5,scaleX:1,scaleY:1}},{t:this.instance_495}]},1).to({state:[{t:this.instance_497},{t:this.instance_492,p:{regX:250.1,regY:146.1,scaleX:0.9,scaleY:0.8288,x:696.6,y:539.7}}]},1).to({state:[{t:this.instance_494,p:{regX:250,regY:146.2,x:941.4,y:490.55,scaleX:1,scaleY:1}},{t:this.instance_498}]},2).to({state:[{t:this.instance_499},{t:this.instance_492,p:{regX:250.1,regY:177.6,scaleX:0.5624,scaleY:0.4966,x:1051.25,y:414.8}}]},1).to({state:[{t:this.instance_500},{t:this.instance_494,p:{regX:250,regY:146.2,x:708,y:531.45,scaleX:0.9,scaleY:0.8311}}]},1).to({state:[{t:this.instance_501},{t:this.instance_494,p:{regX:216.8,regY:200.2,x:928.55,y:236.45,scaleX:0.8446,scaleY:0.7863}}]},1).to({state:[{t:this.instance_492,p:{regX:250,regY:146.1,scaleX:1,scaleY:1,x:907.95,y:215.1}},{t:this.instance_502}]},1).to({state:[{t:this.instance_503},{t:this.instance_492,p:{regX:250,regY:146.1,scaleX:0.7998,scaleY:0.7251,x:673,y:547.15}}]},1).to({state:[{t:this.instance_492,p:{regX:250,regY:146.1,scaleX:0.7938,scaleY:0.8073,x:704.3,y:539.45}},{t:this.instance_504}]},1).to({state:[{t:this.instance_505},{t:this.instance_494,p:{regX:250,regY:146.2,x:953.05,y:206.05,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_506},{t:this.instance_496,p:{regX:250,regY:146.3,x:911.6,y:206.55,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_507},{t:this.instance_494,p:{regX:250,regY:146.2,x:913.85,y:205.4,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_508},{t:this.instance_494,p:{regX:250,regY:146.2,x:900.15,y:176.35,scaleX:0.8186,scaleY:0.7894}}]},1).to({state:[{t:this.instance_509},{t:this.instance_496,p:{regX:250,regY:146.3,x:610.5,y:444.1,scaleX:0.681,scaleY:0.6619}}]},1).to({state:[{t:this.instance_510},{t:this.instance_494,p:{regX:250,regY:146.2,x:890.15,y:211.45,scaleX:0.8688,scaleY:0.8824}}]},2).to({state:[{t:this.instance_511},{t:this.instance_494,p:{regX:250,regY:146.2,x:920.3,y:208,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_496,p:{regX:250,regY:146.3,x:637.2,y:547.2,scaleX:0.8248,scaleY:0.7971}}]},1).to({state:[{t:this.instance_496,p:{regX:250.1,regY:146.3,x:624.7,y:547.2,scaleX:0.756,scaleY:0.7971}}]},1).to({state:[{t:this.instance_496,p:{regX:250.1,regY:146.3,x:624.7,y:547.2,scaleX:0.756,scaleY:0.7971}}]},1).to({state:[]},1).to({state:[{t:this.instance_357,p:{x:640.35,y:361.85,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_357,p:{x:637.6,y:520.05,scaleX:1,scaleY:1}}]},13).to({state:[{t:this.instance_512,p:{regX:106.5,regY:219.5,scaleX:1,scaleY:1,x:562.65,y:421.25}}]},1).to({state:[{t:this.instance_513}]},17).to({state:[{t:this.instance_513}]},2).to({state:[{t:this.instance_513}]},5).to({state:[{t:this.instance_513}]},2).to({state:[{t:this.instance_513}]},1).to({state:[{t:this.instance_513}]},1).to({state:[]},1).to({state:[{t:this.instance_513},{t:this.instance_492,p:{regX:250,regY:146.1,scaleX:0.6,scaleY:0.6,x:842,y:572.4}},{t:this.instance_357,p:{x:592.1,y:602,scaleX:0.7442,scaleY:0.7441}},{t:this.instance_512,p:{regX:90,regY:185.5,scaleX:0.8333,scaleY:0.8333,x:1157.15,y:212.4}},{t:this.instance_468,p:{scaleX:0.6667,scaleY:0.6666,x:1132.15,y:514.95,regX:209,regY:234.2}},{t:this.instance_366,p:{x:529,y:420.55,regX:255.2,regY:389.8,scaleX:0.75,scaleY:0.7499}},{t:this.instance_438,p:{regX:325.6,regY:324.9,scaleX:0.5305,scaleY:0.5304,x:860.25,y:240.35}},{t:this.calculator}]},1).to({state:[{t:this.instance_512,p:{regX:90,regY:185.5,scaleX:0.8333,scaleY:0.8333,x:1157.15,y:212.4}},{t:this.instance_516},{t:this.instance_513},{t:this.instance_492,p:{regX:250,regY:146.1,scaleX:0.6,scaleY:0.6,x:842,y:572.4}},{t:this.instance_357,p:{x:592.1,y:602,scaleX:0.7442,scaleY:0.7441}},{t:this.instance_468,p:{scaleX:0.6667,scaleY:0.6666,x:1132.15,y:514.95,regX:209,regY:234.2}},{t:this.instance_366,p:{x:529,y:420.55,regX:255.2,regY:389.8,scaleX:0.75,scaleY:0.7499}},{t:this.instance_438,p:{regX:325.6,regY:324.9,scaleX:0.5305,scaleY:0.5304,x:860.25,y:240.35}},{t:this.instance_515},{t:this.instance_514},{t:this.calculator},{t:this.back_2}]},1).to({state:[{t:this.instance_516},{t:this.instance_517},{t:this.instance_513},{t:this.instance_492,p:{regX:250,regY:146.1,scaleX:0.6,scaleY:0.6,x:842,y:572.4}},{t:this.instance_357,p:{x:592.1,y:602,scaleX:0.7442,scaleY:0.7441}},{t:this.instance_512,p:{regX:90,regY:185.5,scaleX:0.8333,scaleY:0.8333,x:1157.15,y:212.4}},{t:this.instance_468,p:{scaleX:0.6667,scaleY:0.6666,x:1132.15,y:514.95,regX:209,regY:234.2}},{t:this.instance_366,p:{x:529,y:420.55,regX:255.2,regY:389.8,scaleX:0.75,scaleY:0.7499}},{t:this.instance_438,p:{regX:325.6,regY:324.9,scaleX:0.5305,scaleY:0.5304,x:860.25,y:240.35}},{t:this.instance_515}]},11).wait(1));
+	this.timeline.addTween(cjs.Tween.get(this.instance_377).wait(35).to({_off:false},0).wait(5).to({_off:true},1).wait(223));
+	this.timeline.addTween(cjs.Tween.get(this.instance_378).wait(41).to({_off:false},0).wait(5).to({_off:true},1).wait(217));
+	this.timeline.addTween(cjs.Tween.get(this.instance_385).wait(53).to({_off:false},0).wait(5).to({_off:true},1).wait(205));
+	this.timeline.addTween(cjs.Tween.get(this.instance_395).wait(68).to({_off:false},0).wait(4).to({_off:true},1).wait(191));
+	this.timeline.addTween(cjs.Tween.get(this.instance_412).wait(89).to({_off:false},0).wait(5).to({_off:true},1).wait(169));
+	this.timeline.addTween(cjs.Tween.get(this.instance_457).wait(139).to({_off:false},0).wait(6).to({_off:true},1).wait(118));
+	this.timeline.addTween(cjs.Tween.get(this.instance_471).wait(160).to({_off:false},0).wait(1).to({startPosition:0},0).wait(1).to({startPosition:0},0).wait(1).to({startPosition:0},0).to({_off:true},1).wait(10).to({_off:false,regY:324.5,scaleX:1,scaleY:1,x:1102.1,y:362.8},0).to({_off:true},1).wait(3).to({_off:false,x:1119.8,y:284.35},0).to({_off:true},1).wait(1).to({_off:false},0).to({_off:true},1).wait(83));
+	this.timeline.addTween(cjs.Tween.get(this.instance_513).wait(238).to({_off:false},0).wait(2).to({startPosition:0},0).wait(5).to({startPosition:0},0).wait(2).to({startPosition:0},0).wait(1).to({startPosition:0},0).wait(1).to({startPosition:0},0).to({_off:true},1).wait(1).to({_off:false,regX:200.1,regY:160.5,scaleX:0.7685,scaleY:0.7685,x:584.3,y:181.2},0).wait(1).to({startPosition:0},0).wait(11).to({startPosition:0},0).wait(1));
 
 	// Layer_3
-	this.instance_517 = new lib.page1111();
+	this.instance_518 = new lib.page1111();
 
-	this.instance_518 = new lib.basecalculator("synched",0);
-	this.instance_518.setTransform(249,431,1,1,0,0,0,174,222);
+	this.instance_519 = new lib.basecalculator("synched",0);
+	this.instance_519.setTransform(249,431,1,1,0,0,0,174,222);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_517}]}).to({state:[{t:this.instance_518}]},1).to({state:[{t:this.instance_518}]},18).wait(245));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_518}]}).to({state:[{t:this.instance_519}]},1).to({state:[{t:this.instance_519}]},18).wait(245));
 
 	// Layer_5
-	this.instance_519 = new lib.ackground();
-	this.instance_519.setTransform(1,0);
+	this.instance_520 = new lib.ackground();
+	this.instance_520.setTransform(1,0);
 
 	this.shape_4 = new cjs.Shape();
 	this.shape_4.graphics.f("#00FFFF").s().p("EhkBA38MAAAhv3MDIDAAAMAAABv3g");
 	this.shape_4.setTransform(640.2,361.15);
 
-	this.instance_520 = new lib.Bitmap514();
-	this.instance_520.setTransform(432,329,0.7399,0.7289);
-
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_519,p:{x:1}}]}).to({state:[{t:this.shape_4},{t:this.instance_519,p:{x:0}}]},3).to({state:[{t:this.instance_519,p:{x:0}}]},1).to({state:[{t:this.instance_519,p:{x:0}}]},25).to({state:[{t:this.instance_519,p:{x:0}},{t:this.instance_520}]},5).to({state:[{t:this.instance_519,p:{x:0}}]},205).wait(25));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_520}]}).to({state:[{t:this.shape_4},{t:this.instance_520}]},3).to({state:[{t:this.instance_520}]},1).to({state:[{t:this.instance_520}]},25).to({state:[{t:this.instance_520}]},5).to({state:[{t:this.instance_520}]},205).wait(25));
+	this.timeline.addTween(cjs.Tween.get(this.instance_520).wait(3).to({x:0},0).wait(261));
 
 	this._renderFirstFrame();
 
