@@ -4602,7 +4602,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(36);
+		_this.gotoAndStop(35);
 		});
 		
 		var _this = this;
