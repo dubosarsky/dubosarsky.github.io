@@ -7265,7 +7265,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(47);
+		_this.gotoAndStop(49);
 		});
 		
 		var _this = this;
@@ -7277,7 +7277,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(47);
+		_this.gotoAndStop(49);
 		});
 	}
 	this.frame_43 = function() {
@@ -7348,7 +7348,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(49);
+		_this.gotoAndStop(51);
 		});
 		
 		var _this = this;
@@ -7360,7 +7360,7 @@ if (reversed == null) { reversed = false; }
 		Moves the playhead to the specified frame number in the timeline and stops the movie.
 		Can be used on the main timeline or on movie clip timelines.
 		*/
-		_this.gotoAndStop(49);
+		_this.gotoAndStop(51);
 		});
 	}
 	this.frame_44 = function() {
