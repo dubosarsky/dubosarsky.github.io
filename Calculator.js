@@ -5,7 +5,7 @@ var lib={};var ss={};var img={};
 lib.ssMetadata = [
 		{name:"Calculator_atlas_1", frames: [[2098,7162,1280,720],[7162,2514,1004,884],[6751,6831,1236,706],[2497,4636,1263,737],[6914,3427,1111,812],[7038,1700,1123,812],[4855,0,1147,881],[1379,4469,1116,978],[6660,5210,1109,814],[5614,7301,1044,834],[4962,2668,1085,892],[2256,6330,1130,830],[6914,4241,1100,816],[3388,5547,1114,832],[7102,0,1075,870],[4771,4504,1028,946],[5922,1755,1114,846],[6004,0,1096,875],[6751,6026,1109,803],[0,6030,1109,896],[5801,4388,1111,820],[3380,7204,1119,819],[1147,5449,1107,906],[3801,3604,1159,898],[5638,6479,1111,820],[4501,7230,1111,820],[6049,2603,1111,822],[5801,3562,1111,824],[2256,5449,1111,879],[4516,6409,1120,819],[3388,6381,1126,821],[7035,877,1144,821],[0,5116,1145,912],[5922,883,1111,870],[1379,3386,1225,1081],[1111,6357,985,949],[3801,4504,968,1041],[5763,5452,895,1025],[4771,5452,990,955],[2606,3604,1193,1030],[4729,1814,1191,852],[0,0,3360,3384],[3362,1814,1365,1788],[0,7308,1280,720],[0,3386,1377,1728],[3362,0,1491,1812]]},
 		{name:"Calculator_atlas_2", frames: [[2142,2802,935,768],[0,5294,948,823],[3477,7552,813,630],[6339,5785,798,642],[7139,5785,798,642],[3954,6264,798,642],[4754,6264,798,642],[3477,6908,798,642],[4277,6908,798,642],[5077,6908,798,642],[0,775,1024,827],[2406,3572,921,773],[0,3270,1127,700],[0,0,1111,773],[4227,2082,1126,550],[4183,2634,1111,550],[0,7457,1139,681],[4445,759,1112,676],[1275,3721,1129,681],[3329,758,1114,678],[4458,3739,1133,536],[3079,2624,1102,606],[3954,5792,1102,470],[4445,0,1081,757],[1113,0,1108,762],[2346,6877,1124,475],[3151,5064,1130,484],[4445,1437,1134,643],[1275,4404,1123,681],[0,1604,1130,703],[0,4589,1111,703],[5333,2930,1085,541],[4458,4277,1105,541],[1026,775,1114,536],[4292,7552,1114,455],[0,6119,1222,637],[4227,3186,1104,551],[5408,7552,838,600],[6634,0,1076,754],[0,6758,1114,697],[6737,1374,1114,606],[3329,0,1114,756],[3329,3974,1127,556],[5528,0,1104,738],[1132,1313,769,745],[2223,0,1104,763],[6516,756,1146,616],[2346,6391,1111,484],[5355,2115,749,813],[0,2309,824,959],[2406,4347,844,673],[5497,5352,840,611],[5593,3473,780,738],[3329,3232,896,740],[2018,1996,894,804],[826,2309,1190,647],[2263,7354,1212,438],[1113,5087,1120,678],[1224,5767,1120,678],[2018,1407,1232,587],[6248,6429,1146,438],[1224,6447,1120,678],[1141,7127,1120,678],[5581,1502,1154,611],[4283,5352,1212,438],[3252,1438,1188,608],[2914,2048,1174,574],[6737,1982,1017,609],[5877,6869,755,660],[6634,6869,755,660],[7396,6429,755,660],[7391,7091,755,660],[2400,5022,749,736],[5581,740,933,760],[1129,2958,1011,761],[3252,4532,1069,530],[4323,4820,1069,530],[6420,2593,1069,530],[6420,3125,1069,530],[0,3972,1273,615],[6375,3657,1069,530],[6375,4189,1069,530],[5394,4820,1069,530],[6465,4721,1069,530],[6465,5253,1069,530],[3214,5550,738,715],[2346,5760,866,629],[2142,765,1133,640]]},
-		{name:"Calculator_atlas_3", frames: [[5629,2666,166,233],[0,1263,736,614],[6031,1510,742,581],[6088,869,728,639],[1932,883,728,639],[7515,1619,657,622],[2439,4137,716,412],[7169,3643,756,459],[3775,1434,705,616],[5282,1195,747,615],[4482,1434,705,616],[4169,1014,1111,418],[5476,3812,417,140],[2271,449,1111,432],[2662,1059,1111,418],[0,2661,1111,353],[2268,2551,1132,353],[0,1879,708,271],[4525,2666,1102,354],[6589,4592,965,224],[6818,1208,1111,409],[3384,0,1103,450],[788,662,1142,409],[4822,2311,1139,353],[0,3867,1114,294],[2467,3377,1124,310],[3593,3506,1124,310],[6043,3643,1124,310],[4343,4260,1124,245],[2271,0,1111,447],[7975,3323,168,190],[1932,662,296,184],[7975,3132,174,189],[7942,2936,193,194],[6823,2901,190,198],[6169,432,1104,435],[0,3016,1104,333],[7942,2701,166,233],[2317,1524,284,246],[7931,1208,196,233],[6818,869,404,335],[5963,2546,1133,353],[5300,594,786,599],[7275,607,786,599],[0,662,786,599],[4095,3390,377,102],[1957,2906,1001,378],[3224,3818,1139,292],[4169,594,1129,418],[3402,2551,1121,353],[3775,1059,296,325],[5476,3955,1119,288],[6589,4818,1018,115],[684,6265,431,115],[1113,2661,550,115],[2662,883,718,115],[3871,4112,470,649],[1116,3867,455,685],[6173,4245,414,579],[2467,3689,755,446],[1682,3746,755,446],[2073,4551,779,293],[4719,3812,755,446],[5265,3359,776,451],[500,4163,471,611],[7202,2243,842,456],[7098,2701,842,456],[1113,2782,842,456],[4343,4507,444,616],[1106,3240,574,625],[7323,0,783,605],[3384,452,783,605],[5629,2901,842,456],[5476,4245,695,406],[1577,1524,738,573],[1682,3286,783,458],[2960,2906,801,469],[6775,1619,738,573],[6024,2194,1176,350],[6169,0,1152,430],[4489,0,838,592],[5329,0,838,592],[6597,4104,645,486],[7244,4104,645,486],[3224,4112,645,486],[0,0,755,660],[757,0,755,660],[1514,0,755,660],[3763,2906,749,482],[4514,3022,749,482],[6473,3159,749,482],[7224,3159,749,482],[3529,1479,213,439],[2662,1479,865,500],[2854,4600,754,284],[0,3351,695,506],[788,1073,787,588],[4789,4507,514,405],[738,1663,833,497],[5189,1812,833,497],[2317,1981,833,497],[3152,2052,833,497],[3987,2052,833,497],[0,2162,833,497],[835,2162,833,497],[0,4163,498,578],[973,4554,488,395],[1573,4194,498,571],[1577,1073,348,444],[697,3351,348,444],[3593,3390,500,100],[4719,3685,500,100],[4169,452,140,100],[684,6015,500,100],[0,5558,340,150],[2436,5806,340,149],[5654,5300,344,151],[2777,5959,339,148],[6951,6140,341,146],[6970,5991,341,147],[4892,5684,339,150],[7033,5543,347,148],[684,6117,342,146],[1392,5848,339,149],[3127,6144,337,147],[3793,6439,341,142],[4498,6132,339,147],[6349,5400,340,152],[6691,5400,340,152],[3811,6143,338,147],[1028,6117,342,146],[3143,5699,341,149],[6261,6002,340,147],[5538,6287,338,146],[6569,6436,339,143],[2060,6356,340,144],[6276,5851,339,149],[3468,5992,341,147],[4150,6426,339,144],[7041,5693,338,150],[1465,6358,340,144],[5878,6442,341,142],[2778,5808,340,149],[7094,6428,339,144],[5536,6435,340,143],[679,6382,340,144],[3466,6289,340,145],[2748,6437,339,143],[2762,6290,340,145],[0,5404,340,152],[4185,5832,342,148],[2433,5957,342,147],[4529,5833,342,148],[6228,6429,339,144],[4136,6572,337,142],[1050,5109,345,153],[679,6528,339,142],[0,6147,340,146],[7435,6430,339,144],[1048,5567,343,149],[5377,6053,340,147],[342,6147,340,146],[0,6295,337,146],[0,5710,338,150],[3808,6292,340,145],[5184,6491,340,142],[3811,5994,341,147],[0,5862,337,149],[339,6442,338,143],[6910,6574,338,141],[339,5999,343,146],[1807,6502,340,142],[7686,6135,339,147],[3451,6436,340,143],[7725,5987,344,146],[2421,6255,339,146],[0,6443,335,144],[4873,5836,342,148],[3212,5047,342,157],[3832,5846,346,146],[5935,5701,351,145],[6288,5704,351,145],[3493,5394,347,149],[7381,5838,342,148],[342,5404,349,148],[3839,5696,344,148],[7294,6282,343,144],[4154,6131,342,146],[7639,6284,343,144],[3146,5546,340,151],[339,6295,338,145],[1393,5698,344,148],[1369,6504,340,142],[2796,5658,345,148],[5235,5595,348,147],[693,5415,349,148],[4151,6281,346,143],[2084,5916,347,145],[7776,6430,339,144],[6411,6282,341,145],[4191,5431,342,151],[1372,6147,340,146],[5583,5755,343,148],[4543,5684,347,147],[6597,3955,350,147],[1746,5319,348,149],[1739,5769,343,148],[5928,5848,346,146],[342,5554,349,147],[4839,6433,343,142],[3210,5241,347,151],[4524,5986,349,144],[1383,5999,343,146],[3908,5241,343,152],[5585,5606,348,147],[5189,6347,345,142],[7725,5838,344,147],[3493,5545,347,148],[2084,5769,350,145],[7583,5540,350,147],[5217,5892,345,146],[3842,5395,347,149],[1117,6295,346,142],[1044,5417,349,148],[7382,5689,347,147],[6603,6136,346,144],[5911,5996,348,144],[7340,5988,344,146],[6641,5842,344,147],[2444,5658,350,146],[4499,6287,343,144],[2402,6403,344,142],[2098,5318,346,150],[6185,5248,349,150],[2082,6063,347,144],[3120,5850,346,146],[3468,6141,341,146],[7236,5391,345,150],[5302,5445,348,148],[1744,5620,348,147],[6004,4826,348,160],[2160,5165,348,151],[1812,5008,346,156],[1812,4846,348,160],[2446,5357,348,149],[5653,4819,349,160],[3562,4927,348,157],[3912,4927,348,157],[2073,4194,348,166],[6536,5248,348,150],[1714,6212,344,144],[4822,2052,347,192],[5305,4653,346,165],[6043,3359,347,178],[1397,5397,347,149],[2796,5357,348,149],[1463,4930,347,157],[1733,5919,347,145],[1746,5470,348,148],[3842,5546,347,148],[6886,5248,348,150],[4839,6142,348,143],[2096,5470,348,148],[4191,5684,350,146],[0,5252,348,150],[342,5703,348,146],[5189,6202,347,143],[3118,5998,348,144],[340,5851,346,146],[4256,5125,347,152],[6354,4935,348,157],[692,5714,348,146],[7609,4759,348,162],[1748,5166,348,151],[6187,5094,348,152],[4602,5383,348,149],[5719,6142,348,143],[1728,6066,347,144],[688,5862,348,145],[350,5252,348,150],[5878,6299,348,141],[6537,5094,348,152],[5837,5146,346,152],[2510,5048,348,154],[1463,4767,347,161],[6000,5400,347,149],[1042,5718,348,146],[0,4743,347,163],[2862,4886,348,159],[2162,4846,348,160],[5489,4981,347,156],[6704,4935,348,157],[2094,5620,348,147],[5265,3204,348,153],[2446,5508,348,148],[5265,3022,348,180],[2796,5508,348,148],[6473,2901,348,185],[4253,5279,347,150],[2510,5204,348,151],[4789,5075,348,153],[4365,3818,348,174],[700,4951,348,156],[1050,4951,348,156],[7404,5083,348,153],[1400,5089,346,153],[4952,5383,348,149],[7754,5083,348,153],[7054,4935,348,157],[2317,1772,336,161],[5653,4653,347,164],[2073,4362,348,166],[5305,5293,347,150],[6887,5094,348,152],[1395,5548,347,148],[3212,4886,348,159],[3146,5394,345,150],[0,5098,348,152],[3556,5086,348,153],[2860,5204,348,151],[2512,4886,348,160],[2160,5008,348,155],[4719,3506,348,177],[5838,4988,347,156],[7556,4592,348,165],[350,5098,348,152],[2862,5047,348,155],[349,4776,347,161],[5139,5074,347,154],[5488,5139,347,152],[4365,3994,347,167],[5139,4914,348,158],[3610,4763,348,162],[4789,4914,348,159],[3906,5086,348,153],[4605,5230,348,151],[4955,5230,348,151],[3559,5241,347,151],[700,5109,348,152],[7237,5238,348,151],[0,4939,348,157],[3960,4763,348,162],[7609,4923,348,158],[5995,5551,347,148],[2431,6109,347,144],[2077,6209,342,145],[6069,6151,340,146],[700,5263,348,150],[1021,6439,346,140],[3104,6293,349,141],[3104,6436,345,141],[1050,5264,345,151],[6344,5554,346,148],[7313,6136,346,144],[3488,5695,349,146],[4535,5534,348,148],[7731,5689,347,147],[1397,5244,347,151],[6987,5845,351,144],[5233,5744,348,146],[7587,5238,352,149],[6692,5693,347,147],[4885,5534,348,148],[7587,5389,348,149],[693,5567,353,145],[1038,5866,343,147],[6754,6288,338,146],[5652,5453,341,151],[4180,5982,342,147],[3486,5843,344,147],[4844,6287,343,144],[6617,5991,351,143],[2149,6547,347,138],[2780,6144,345,144],[350,4939,348,157],[4491,6433,346,141],[5564,5905,345,146],[4875,6040,500,100],[1670,2099,596,681]]}
+		{name:"Calculator_atlas_3", frames: [[5629,2666,166,233],[0,1263,736,614],[6031,1510,742,581],[6088,869,728,639],[1932,883,728,639],[7515,1619,657,622],[2439,4137,716,412],[7169,3643,756,459],[3775,1434,705,616],[5282,1195,747,615],[4482,1434,705,616],[4169,1014,1111,418],[5476,3812,417,140],[2271,449,1111,432],[2662,1059,1111,418],[0,2661,1111,353],[2268,2551,1132,353],[0,1879,708,271],[4525,2666,1102,354],[6589,4592,965,224],[6818,1208,1111,409],[3384,0,1103,450],[788,662,1142,409],[4822,2311,1139,353],[0,3867,1114,294],[2467,3377,1124,310],[3593,3506,1124,310],[6043,3643,1124,310],[4343,4260,1124,245],[2271,0,1111,447],[7975,3323,168,190],[1932,662,296,184],[7975,3132,174,189],[7942,2936,193,194],[6823,2901,190,198],[6169,432,1104,435],[0,3016,1104,333],[7942,2701,166,233],[2317,1524,284,246],[7931,1208,196,233],[6818,869,404,335],[5963,2546,1133,353],[5300,594,786,599],[7275,607,786,599],[0,662,786,599],[4095,3390,377,102],[1957,2906,1001,378],[3224,3818,1139,292],[4169,594,1129,418],[3402,2551,1121,353],[3775,1059,296,325],[5476,3955,1119,288],[6589,4818,1018,115],[2417,6257,431,115],[1113,2661,550,115],[2662,883,718,115],[3871,4112,470,649],[1116,3867,455,685],[6173,4245,414,579],[2467,3689,755,446],[1682,3746,755,446],[2073,4551,779,293],[4719,3812,755,446],[5265,3359,776,451],[500,4163,471,611],[7202,2243,842,456],[7098,2701,842,456],[1113,2782,842,456],[4343,4507,444,616],[1106,3240,574,625],[7323,0,783,605],[3384,452,783,605],[5629,2901,842,456],[5476,4245,695,406],[1577,1524,738,573],[1682,3286,783,458],[2960,2906,801,469],[6775,1619,738,573],[6024,2194,1176,350],[6169,0,1152,430],[4489,0,838,592],[5329,0,838,592],[6597,4104,645,486],[7244,4104,645,486],[3224,4112,645,486],[0,0,755,660],[757,0,755,660],[1514,0,755,660],[3763,2906,749,482],[4514,3022,749,482],[6473,3159,749,482],[7224,3159,749,482],[3529,1479,213,439],[2662,1479,865,500],[5305,4653,720,228],[2854,4600,754,284],[0,3351,695,506],[788,1073,787,588],[4789,4507,514,405],[738,1663,833,497],[5189,1812,833,497],[2317,1981,833,497],[3152,2052,833,497],[3987,2052,833,497],[0,2162,833,497],[835,2162,833,497],[0,4163,498,578],[973,4554,488,395],[1573,4194,498,571],[1577,1073,348,444],[697,3351,348,444],[3593,3390,500,100],[4719,3685,500,100],[4169,452,140,100],[1714,6074,500,100],[7224,5697,340,150],[4952,5809,340,149],[5487,5356,344,151],[1373,5998,339,148],[1048,6148,341,146],[6348,5998,341,147],[0,5708,339,150],[7233,5547,347,148],[3794,6140,342,146],[1032,5870,339,149],[4485,6279,337,147],[2414,6517,341,142],[7740,6142,339,147],[0,5405,340,152],[342,5405,340,152],[0,6164,338,147],[5740,6142,342,146],[341,5717,341,149],[3108,6105,340,147],[6248,6297,338,146],[1370,6471,339,143],[2072,6402,340,144],[5654,5900,339,149],[7053,5998,341,147],[5561,6438,339,144],[1034,5718,338,150],[4479,6428,340,144],[2757,6542,341,142],[2766,5811,340,149],[7466,6438,339,144],[6243,6445,340,143],[3608,6434,340,144],[680,6312,340,145],[1711,6471,339,143],[4137,6320,340,145],[684,5416,340,152],[4545,5834,342,148],[2764,5962,342,147],[3842,5844,342,148],[7807,6438,339,144],[7271,6584,337,142],[1050,5110,345,153],[3463,6580,339,142],[1391,6176,340,146],[5902,6439,339,144],[4957,5658,343,149],[4878,6107,340,147],[1733,6176,340,146],[0,6313,337,146],[2426,5809,338,150],[1390,6324,340,145],[2052,6548,340,142],[6691,6000,341,147],[3455,5996,337,149],[4821,6547,338,143],[7610,6584,338,141],[0,6016,343,146],[4292,6574,340,142],[3450,6147,339,147],[3950,6467,340,143],[7411,5994,344,146],[5562,6290,339,146],[0,6461,335,144],[7566,5844,342,148],[2862,5048,342,157],[6705,5852,346,146],[6359,5702,351,145],[6712,5705,351,145],[1397,5398,347,149],[3480,5846,342,148],[1026,5418,349,148],[1374,5699,344,148],[5903,6293,343,144],[7396,6142,342,146],[6775,6293,343,144],[6882,5552,340,151],[1732,6324,338,145],[6013,5701,344,148],[6929,6579,340,142],[2439,5659,345,148],[4253,5581,348,147],[4256,5431,349,148],[7382,6290,346,143],[4889,5960,347,145],[6588,6439,339,144],[7730,6291,341,145],[2095,5472,342,151],[5220,6204,340,146],[1720,5775,343,148],[2786,5662,347,147],[6597,3955,350,147],[4963,5357,348,149],[3135,5807,343,148],[684,5866,346,146],[0,5559,349,147],[3118,6442,343,142],[5487,5203,347,151],[3824,5994,349,144],[4175,6026,343,146],[2861,5207,343,152],[5663,5603,348,147],[4824,6403,345,142],[1374,5849,344,147],[3497,5548,347,148],[5302,5807,350,145],[3901,5546,350,147],[5294,5954,345,146],[6186,5400,347,149],[5213,6352,346,142],[5833,5453,349,148],[4603,5685,347,147],[6084,6147,346,144],[348,6014,348,144],[7757,5994,344,146],[6359,5849,344,147],[3139,5659,350,146],[1045,6296,343,144],[7120,6435,344,142],[3206,5357,346,150],[6540,5249,349,150],[2216,6108,347,144],[0,5868,346,146],[6432,6149,341,146],[7402,5395,345,150],[4963,5508,348,148],[2089,5625,348,147],[5305,4883,348,160],[3206,5204,348,151],[5488,5045,346,156],[5655,4883,348,160],[2447,5358,348,149],[2162,4846,349,160],[1463,4931,348,157],[6376,4935,348,157],[2073,4194,348,166],[0,5253,348,150],[3791,6288,344,144],[4822,2052,347,192],[0,4743,346,165],[6043,3359,347,178],[6535,5401,347,149],[2797,5361,348,149],[1050,4951,347,157],[2415,5961,347,145],[2439,5509,348,148],[1377,5549,347,148],[350,5253,348,150],[345,6160,348,143],[3147,5509,348,148],[5302,5659,350,146],[700,5264,348,150],[684,5718,348,146],[2914,6254,347,143],[698,6021,348,144],[4186,5878,346,146],[2162,5166,347,152],[6726,4935,348,157],[4195,5730,348,146],[3959,4763,348,162],[2511,5205,348,151],[7053,5094,348,152],[4613,5384,348,149],[695,6167,348,143],[2565,6111,347,144],[2065,5922,348,145],[4263,5279,348,150],[2768,6399,348,141],[0,5099,348,152],[5139,5203,346,152],[4789,5075,348,154],[6027,4826,347,161],[6884,5401,347,149],[5654,5752,348,146],[3610,4763,347,163],[3213,4886,348,159],[2513,4886,348,160],[1813,5009,347,156],[7076,4935,348,157],[1726,5626,348,147],[5265,3204,348,153],[5313,5509,348,148],[5265,3022,348,180],[2789,5512,348,148],[6473,2901,348,185],[2098,5320,347,150],[4613,5231,348,151],[7775,5086,348,153],[4365,3818,348,174],[6005,4989,348,156],[2162,5008,348,156],[3913,5087,348,153],[6705,5094,346,153],[7753,5394,348,149],[3563,5088,348,153],[0,4940,348,157],[2317,1772,336,161],[7609,4759,347,164],[2073,4362,348,166],[1746,5321,347,150],[350,5099,348,152],[6184,5551,347,148],[4789,4914,348,159],[3554,5396,345,150],[700,5110,348,152],[1399,5090,348,153],[7775,5241,348,151],[2863,4886,348,160],[3213,5047,348,155],[4719,3506,348,177],[5139,5045,347,156],[7556,4592,348,165],[4263,5125,348,152],[2512,5048,348,155],[1813,4846,347,161],[7426,5086,347,154],[1749,5167,347,152],[4365,3994,347,167],[3959,4927,348,158],[1463,4767,348,162],[7609,4925,348,159],[6355,5094,348,153],[3913,5242,348,151],[7403,5242,348,151],[1397,5245,347,151],[5836,5147,348,152],[3556,5243,348,151],[350,4940,348,157],[348,4776,348,162],[3563,4928,348,158],[6533,5552,347,148],[4520,6133,347,144],[4869,6256,342,145],[2075,6254,340,146],[5836,5301,348,150],[5171,6496,346,140],[2417,6374,349,141],[339,6459,345,141],[1050,5265,345,151],[1026,5568,346,148],[7034,6147,346,144],[3491,5698,349,146],[4607,5535,348,148],[3846,5695,347,147],[7053,5248,347,151],[6004,5851,351,144],[2076,5774,348,146],[6186,5249,352,149],[7582,5695,347,147],[7749,5545,348,148],[3906,5395,348,149],[351,5570,353,145],[1720,5925,343,147],[340,6305,338,146],[1746,5473,341,151],[4534,5984,342,147],[7065,5849,344,147],[3263,6296,343,144],[5995,5997,351,143],[5519,6584,347,138],[4138,6174,345,144],[700,4951,348,157],[1022,6442,346,141],[3108,5957,345,146],[5238,6102,500,100],[1670,2099,596,681]]}
 ];
 
 
@@ -1506,6 +1506,13 @@ lib.ssMetadata = [
 
 
 
+(lib.Bitmap514 = function() {
+	this.initialize(ss["Calculator_atlas_3"]);
+	this.gotoAndStop(94);
+}).prototype = p = new cjs.Sprite();
+
+
+
 (lib.Bitmap515 = function() {
 	this.initialize(ss["Calculator_atlas_2"]);
 	this.gotoAndStop(76);
@@ -1543,7 +1550,7 @@ lib.ssMetadata = [
 
 (lib.Bitmap5188 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(94);
+	this.gotoAndStop(95);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1557,7 +1564,7 @@ lib.ssMetadata = [
 
 (lib.Bitmap5199 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(95);
+	this.gotoAndStop(96);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1571,7 +1578,7 @@ lib.ssMetadata = [
 
 (lib.Bitmap520copy = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(96);
+	this.gotoAndStop(97);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1592,56 +1599,56 @@ lib.ssMetadata = [
 
 (lib.Bitmap523 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(97);
+	this.gotoAndStop(98);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap526 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(98);
+	this.gotoAndStop(99);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap527 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(99);
+	this.gotoAndStop(100);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap528 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(100);
+	this.gotoAndStop(101);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap530 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(101);
+	this.gotoAndStop(102);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap531 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(102);
+	this.gotoAndStop(103);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap532 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(103);
+	this.gotoAndStop(104);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap533 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(104);
+	this.gotoAndStop(105);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1669,63 +1676,63 @@ lib.ssMetadata = [
 
 (lib.Bitmap537 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(105);
+	this.gotoAndStop(106);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap539 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(106);
+	this.gotoAndStop(107);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Bitmap540 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(107);
+	this.gotoAndStop(108);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.bottom = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(108);
+	this.gotoAndStop(109);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.calculatorbase = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(109);
+	this.gotoAndStop(110);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.econdpiece = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(110);
+	this.gotoAndStop(111);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.fifthpiece = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(111);
+	this.gotoAndStop(112);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.firstpiece = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(112);
+	this.gotoAndStop(113);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.fourthpiece = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(113);
+	this.gotoAndStop(114);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -1739,1631 +1746,1631 @@ lib.ssMetadata = [
 
 (lib.image20240111_085426 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(114);
+	this.gotoAndStop(115);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_085435 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(115);
+	this.gotoAndStop(116);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_085443 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(116);
+	this.gotoAndStop(117);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_085446 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(117);
+	this.gotoAndStop(118);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_085448 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(118);
+	this.gotoAndStop(119);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_085658 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(119);
+	this.gotoAndStop(120);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_085701 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(120);
+	this.gotoAndStop(121);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_085706 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(121);
+	this.gotoAndStop(122);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_085708 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(122);
+	this.gotoAndStop(123);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_085710 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(123);
+	this.gotoAndStop(124);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_085712 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(124);
+	this.gotoAndStop(125);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_085715 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(125);
+	this.gotoAndStop(126);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092751 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(126);
+	this.gotoAndStop(127);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092754 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(127);
+	this.gotoAndStop(128);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092755 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(128);
+	this.gotoAndStop(129);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092759 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(129);
+	this.gotoAndStop(130);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092802 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(130);
+	this.gotoAndStop(131);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092805 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(131);
+	this.gotoAndStop(132);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092807 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(132);
+	this.gotoAndStop(133);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092810 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(133);
+	this.gotoAndStop(134);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092813 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(134);
+	this.gotoAndStop(135);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092818 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(135);
+	this.gotoAndStop(136);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092825 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(136);
+	this.gotoAndStop(137);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092828 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(137);
+	this.gotoAndStop(138);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092831 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(138);
+	this.gotoAndStop(139);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092839 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(139);
+	this.gotoAndStop(140);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092841 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(140);
+	this.gotoAndStop(141);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092858 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(141);
+	this.gotoAndStop(142);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092900 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(142);
+	this.gotoAndStop(143);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092903 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(143);
+	this.gotoAndStop(144);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092905 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(144);
+	this.gotoAndStop(145);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092908 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(145);
+	this.gotoAndStop(146);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092911 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(146);
+	this.gotoAndStop(147);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092914 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(147);
+	this.gotoAndStop(148);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092917 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(148);
+	this.gotoAndStop(149);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092920 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(149);
+	this.gotoAndStop(150);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_092923 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(150);
+	this.gotoAndStop(151);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093227 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(151);
+	this.gotoAndStop(152);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093248 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(152);
+	this.gotoAndStop(153);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093249 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(153);
+	this.gotoAndStop(154);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093251 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(154);
+	this.gotoAndStop(155);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093253 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(155);
+	this.gotoAndStop(156);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093256 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(156);
+	this.gotoAndStop(157);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093258 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(157);
+	this.gotoAndStop(158);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093300 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(158);
+	this.gotoAndStop(159);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093302 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(159);
+	this.gotoAndStop(160);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093310 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(160);
+	this.gotoAndStop(161);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093312 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(161);
+	this.gotoAndStop(162);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093314 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(162);
+	this.gotoAndStop(163);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093315 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(163);
+	this.gotoAndStop(164);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093317 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(164);
+	this.gotoAndStop(165);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093321 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(165);
+	this.gotoAndStop(166);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093323 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(166);
+	this.gotoAndStop(167);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093326 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(167);
+	this.gotoAndStop(168);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093327 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(168);
+	this.gotoAndStop(169);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093330 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(169);
+	this.gotoAndStop(170);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093332 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(170);
+	this.gotoAndStop(171);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093334 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(171);
+	this.gotoAndStop(172);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093339 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(172);
+	this.gotoAndStop(173);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093343 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(173);
+	this.gotoAndStop(174);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093348 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(174);
+	this.gotoAndStop(175);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093350 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(175);
+	this.gotoAndStop(176);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093353 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(176);
+	this.gotoAndStop(177);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093354 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(177);
+	this.gotoAndStop(178);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093356 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(178);
+	this.gotoAndStop(179);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093400 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(179);
+	this.gotoAndStop(180);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093402 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(180);
+	this.gotoAndStop(181);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093403 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(181);
+	this.gotoAndStop(182);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093406 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(182);
+	this.gotoAndStop(183);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093407 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(183);
+	this.gotoAndStop(184);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093409 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(184);
+	this.gotoAndStop(185);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093411 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(185);
+	this.gotoAndStop(186);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093414 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(186);
+	this.gotoAndStop(187);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093416 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(187);
+	this.gotoAndStop(188);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093418 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(188);
+	this.gotoAndStop(189);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093420 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(189);
+	this.gotoAndStop(190);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093422 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(190);
+	this.gotoAndStop(191);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093424 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(191);
+	this.gotoAndStop(192);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093438 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(192);
+	this.gotoAndStop(193);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093440 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(193);
+	this.gotoAndStop(194);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093442 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(194);
+	this.gotoAndStop(195);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093445 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(195);
+	this.gotoAndStop(196);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093447 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(196);
+	this.gotoAndStop(197);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093450 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(197);
+	this.gotoAndStop(198);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093452 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(198);
+	this.gotoAndStop(199);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093454 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(199);
+	this.gotoAndStop(200);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093456 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(200);
+	this.gotoAndStop(201);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093458 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(201);
+	this.gotoAndStop(202);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093459 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(202);
+	this.gotoAndStop(203);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093502 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(203);
+	this.gotoAndStop(204);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093503 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(204);
+	this.gotoAndStop(205);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093506 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(205);
+	this.gotoAndStop(206);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093507 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(206);
+	this.gotoAndStop(207);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093509 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(207);
+	this.gotoAndStop(208);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093512 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(208);
+	this.gotoAndStop(209);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093533 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(209);
+	this.gotoAndStop(210);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093609 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(210);
+	this.gotoAndStop(211);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093612 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(211);
+	this.gotoAndStop(212);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093615 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(212);
+	this.gotoAndStop(213);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093617 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(213);
+	this.gotoAndStop(214);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093629 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(214);
+	this.gotoAndStop(215);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093631 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(215);
+	this.gotoAndStop(216);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093633 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(216);
+	this.gotoAndStop(217);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093635 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(217);
+	this.gotoAndStop(218);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093639 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(218);
+	this.gotoAndStop(219);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093640 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(219);
+	this.gotoAndStop(220);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093642 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(220);
+	this.gotoAndStop(221);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093645 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(221);
+	this.gotoAndStop(222);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093647 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(222);
+	this.gotoAndStop(223);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093649 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(223);
+	this.gotoAndStop(224);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093651 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(224);
+	this.gotoAndStop(225);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093653 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(225);
+	this.gotoAndStop(226);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093656 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(226);
+	this.gotoAndStop(227);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093659 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(227);
+	this.gotoAndStop(228);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093701 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(228);
+	this.gotoAndStop(229);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093703 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(229);
+	this.gotoAndStop(230);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093705 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(230);
+	this.gotoAndStop(231);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093707 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(231);
+	this.gotoAndStop(232);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093710 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(232);
+	this.gotoAndStop(233);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093712 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(233);
+	this.gotoAndStop(234);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093715 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(234);
+	this.gotoAndStop(235);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093716 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(235);
+	this.gotoAndStop(236);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093718 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(236);
+	this.gotoAndStop(237);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_093720 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(237);
+	this.gotoAndStop(238);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133318 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(238);
+	this.gotoAndStop(239);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133344 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(239);
+	this.gotoAndStop(240);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133347 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(240);
+	this.gotoAndStop(241);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133348 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(241);
+	this.gotoAndStop(242);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133350 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(242);
+	this.gotoAndStop(243);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133352 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(243);
+	this.gotoAndStop(244);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133354 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(244);
+	this.gotoAndStop(245);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133356 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(245);
+	this.gotoAndStop(246);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133403 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(246);
+	this.gotoAndStop(247);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133406 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(247);
+	this.gotoAndStop(248);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133410 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(248);
+	this.gotoAndStop(249);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133411 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(249);
+	this.gotoAndStop(250);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133414 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(250);
+	this.gotoAndStop(251);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133415 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(251);
+	this.gotoAndStop(252);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133417 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(252);
+	this.gotoAndStop(253);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133420 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(253);
+	this.gotoAndStop(254);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133421 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(254);
+	this.gotoAndStop(255);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133424 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(255);
+	this.gotoAndStop(256);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133426 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(256);
+	this.gotoAndStop(257);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133428 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(257);
+	this.gotoAndStop(258);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133430 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(258);
+	this.gotoAndStop(259);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133432 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(259);
+	this.gotoAndStop(260);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133434 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(260);
+	this.gotoAndStop(261);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133437 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(261);
+	this.gotoAndStop(262);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133439 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(262);
+	this.gotoAndStop(263);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133442 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(263);
+	this.gotoAndStop(264);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133443 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(264);
+	this.gotoAndStop(265);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133446 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(265);
+	this.gotoAndStop(266);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133448 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(266);
+	this.gotoAndStop(267);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133450 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(267);
+	this.gotoAndStop(268);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133452 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(268);
+	this.gotoAndStop(269);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133454 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(269);
+	this.gotoAndStop(270);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133456 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(270);
+	this.gotoAndStop(271);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133458 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(271);
+	this.gotoAndStop(272);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133500 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(272);
+	this.gotoAndStop(273);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133502 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(273);
+	this.gotoAndStop(274);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133503 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(274);
+	this.gotoAndStop(275);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133505 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(275);
+	this.gotoAndStop(276);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133507 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(276);
+	this.gotoAndStop(277);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133508 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(277);
+	this.gotoAndStop(278);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133510 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(278);
+	this.gotoAndStop(279);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133511 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(279);
+	this.gotoAndStop(280);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133513 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(280);
+	this.gotoAndStop(281);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133515 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(281);
+	this.gotoAndStop(282);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133517 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(282);
+	this.gotoAndStop(283);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133519 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(283);
+	this.gotoAndStop(284);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133521 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(284);
+	this.gotoAndStop(285);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133523 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(285);
+	this.gotoAndStop(286);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133526 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(286);
+	this.gotoAndStop(287);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133528 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(287);
+	this.gotoAndStop(288);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133529 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(288);
+	this.gotoAndStop(289);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133532 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(289);
+	this.gotoAndStop(290);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133534 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(290);
+	this.gotoAndStop(291);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133536 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(291);
+	this.gotoAndStop(292);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133537 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(292);
+	this.gotoAndStop(293);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133539 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(293);
+	this.gotoAndStop(294);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133542 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(294);
+	this.gotoAndStop(295);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133544 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(295);
+	this.gotoAndStop(296);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133545 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(296);
+	this.gotoAndStop(297);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133547 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(297);
+	this.gotoAndStop(298);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133549 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(298);
+	this.gotoAndStop(299);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133551 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(299);
+	this.gotoAndStop(300);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133554 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(300);
+	this.gotoAndStop(301);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133556 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(301);
+	this.gotoAndStop(302);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133557 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(302);
+	this.gotoAndStop(303);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133600 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(303);
+	this.gotoAndStop(304);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133601 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(304);
+	this.gotoAndStop(305);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133603 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(305);
+	this.gotoAndStop(306);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133605 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(306);
+	this.gotoAndStop(307);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133606 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(307);
+	this.gotoAndStop(308);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133609 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(308);
+	this.gotoAndStop(309);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133611 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(309);
+	this.gotoAndStop(310);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133613 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(310);
+	this.gotoAndStop(311);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133615 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(311);
+	this.gotoAndStop(312);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133618 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(312);
+	this.gotoAndStop(313);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133621 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(313);
+	this.gotoAndStop(314);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133622 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(314);
+	this.gotoAndStop(315);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133623 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(315);
+	this.gotoAndStop(316);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133625 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(316);
+	this.gotoAndStop(317);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133628 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(317);
+	this.gotoAndStop(318);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133631 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(318);
+	this.gotoAndStop(319);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133632 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(319);
+	this.gotoAndStop(320);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133634 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(320);
+	this.gotoAndStop(321);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133636 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(321);
+	this.gotoAndStop(322);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133638 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(322);
+	this.gotoAndStop(323);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133640 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(323);
+	this.gotoAndStop(324);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133642 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(324);
+	this.gotoAndStop(325);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133643 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(325);
+	this.gotoAndStop(326);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133645 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(326);
+	this.gotoAndStop(327);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133647 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(327);
+	this.gotoAndStop(328);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133649 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(328);
+	this.gotoAndStop(329);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133650 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(329);
+	this.gotoAndStop(330);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133652 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(330);
+	this.gotoAndStop(331);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133653 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(331);
+	this.gotoAndStop(332);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133655 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(332);
+	this.gotoAndStop(333);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133657 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(333);
+	this.gotoAndStop(334);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133659 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(334);
+	this.gotoAndStop(335);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133701 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(335);
+	this.gotoAndStop(336);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133703 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(336);
+	this.gotoAndStop(337);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133705 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(337);
+	this.gotoAndStop(338);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133707 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(338);
+	this.gotoAndStop(339);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133709 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(339);
+	this.gotoAndStop(340);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133711 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(340);
+	this.gotoAndStop(341);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133745 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(341);
+	this.gotoAndStop(342);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_133748 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(342);
+	this.gotoAndStop(343);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_153325 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(343);
+	this.gotoAndStop(344);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_153432 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(344);
+	this.gotoAndStop(345);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_153817 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(345);
+	this.gotoAndStop(346);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image20240111_153910 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(346);
+	this.gotoAndStop(347);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -3384,210 +3391,210 @@ lib.ssMetadata = [
 
 (lib.Picture1 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(347);
+	this.gotoAndStop(348);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture10 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(348);
+	this.gotoAndStop(349);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture11 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(349);
+	this.gotoAndStop(350);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture12 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(350);
+	this.gotoAndStop(351);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture13 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(351);
+	this.gotoAndStop(352);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture14 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(352);
+	this.gotoAndStop(353);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture15 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(353);
+	this.gotoAndStop(354);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture16 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(354);
+	this.gotoAndStop(355);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture17 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(355);
+	this.gotoAndStop(356);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture18 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(356);
+	this.gotoAndStop(357);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture19 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(357);
+	this.gotoAndStop(358);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture2 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(358);
+	this.gotoAndStop(359);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture20 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(359);
+	this.gotoAndStop(360);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture21 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(360);
+	this.gotoAndStop(361);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture22 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(361);
+	this.gotoAndStop(362);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture23 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(362);
+	this.gotoAndStop(363);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture24 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(363);
+	this.gotoAndStop(364);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture25 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(364);
+	this.gotoAndStop(365);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture26 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(365);
+	this.gotoAndStop(366);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture27 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(366);
+	this.gotoAndStop(367);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture28 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(367);
+	this.gotoAndStop(368);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture29 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(368);
+	this.gotoAndStop(369);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture30 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(369);
+	this.gotoAndStop(370);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture31 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(370);
+	this.gotoAndStop(371);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture4 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(371);
+	this.gotoAndStop(372);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture5 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(372);
+	this.gotoAndStop(373);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture6 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(373);
+	this.gotoAndStop(374);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture7 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(374);
+	this.gotoAndStop(375);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture8 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(375);
+	this.gotoAndStop(376);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Picture9 = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(376);
+	this.gotoAndStop(377);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -3608,14 +3615,14 @@ lib.ssMetadata = [
 
 (lib.thirdpiece = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(377);
+	this.gotoAndStop(378);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.variablex = function() {
 	this.initialize(ss["Calculator_atlas_3"]);
-	this.gotoAndStop(378);
+	this.gotoAndStop(379);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -17000,9 +17007,6 @@ if (reversed == null) { reversed = false; }
 	this.instance_1 = new lib.Picture2();
 	this.instance_1.setTransform(73,67);
 
-	this.instance_2 = new lib.firstpiece();
-	this.instance_2.setTransform(467,526);
-
 	this.VARIABLE = new lib.VARIABLE();
 	this.VARIABLE.name = "VARIABLE";
 	this.VARIABLE.setTransform(189.9,573.4,1,1,0,0,0,86.4,75);
@@ -17073,8 +17077,8 @@ if (reversed == null) { reversed = false; }
 	this.shift4.setTransform(125.35,335.45);
 	new cjs.ButtonHelper(this.shift4, 0, 1, 1);
 
-	this.instance_3 = new lib.image20240111_133649();
-	this.instance_3.setTransform(76,68);
+	this.instance_2 = new lib.image20240111_133649();
+	this.instance_2.setTransform(76,68);
 
 	this.shape = new cjs.Shape();
 	this.shape.graphics.f().s("rgba(255,255,255,0.008)").ss(1,1,1).p("AsUsUIYpAAIAAYpI4pAAg");
@@ -17104,19 +17108,19 @@ if (reversed == null) { reversed = false; }
 	this.down.setTransform(269.55,334);
 	new cjs.ButtonHelper(this.down, 0, 1, 1);
 
-	this.instance_4 = new lib.Picture4();
-	this.instance_4.setTransform(73,66);
+	this.instance_3 = new lib.Picture4();
+	this.instance_3.setTransform(73,66);
 
 	this.up = new lib.GoHome();
 	this.up.name = "up";
 	this.up.setTransform(274.2,250.45);
 	new cjs.ButtonHelper(this.up, 0, 1, 1);
 
-	this.instance_5 = new lib.Picture5();
-	this.instance_5.setTransform(75,71);
+	this.instance_4 = new lib.Picture5();
+	this.instance_4.setTransform(75,71);
 
-	this.instance_6 = new lib.Picture6();
-	this.instance_6.setTransform(78,69);
+	this.instance_5 = new lib.Picture6();
+	this.instance_5.setTransform(78,69);
 
 	this.ERROR2 = new lib.GoHome();
 	this.ERROR2.name = "ERROR2";
@@ -17128,8 +17132,8 @@ if (reversed == null) { reversed = false; }
 	this.ERROR.setTransform(272.2,293.45,1.0085,1.2953,0,0,0,-0.5,0.4);
 	new cjs.ButtonHelper(this.ERROR, 0, 1, 1);
 
-	this.instance_7 = new lib.Picture7();
-	this.instance_7.setTransform(76,70);
+	this.instance_6 = new lib.Picture7();
+	this.instance_6.setTransform(76,70);
 
 	this.EXE = new lib.GoHome();
 	this.EXE.name = "EXE";
@@ -17141,224 +17145,224 @@ if (reversed == null) { reversed = false; }
 	this.OK.setTransform(275.35,295);
 	new cjs.ButtonHelper(this.OK, 0, 1, 1);
 
-	this.instance_8 = new lib.Picture8();
-	this.instance_8.setTransform(76,70);
+	this.instance_7 = new lib.Picture8();
+	this.instance_7.setTransform(76,70);
 
-	this.instance_9 = new lib.Bitmap303();
-	this.instance_9.setTransform(436,96,0.6266,0.6265);
+	this.instance_8 = new lib.Bitmap303();
+	this.instance_8.setTransform(436,96,0.6266,0.6265);
 
-	this.instance_10 = new lib.AGeary("synched",0);
-	this.instance_10.setTransform(1153.2,546.6,1,1,0,0,0,200,200);
+	this.instance_9 = new lib.AGeary("synched",0);
+	this.instance_9.setTransform(1153.2,546.6,1,1,0,0,0,200,200);
 
-	this.instance_11 = new lib.Picture9();
-	this.instance_11.setTransform(76,68);
+	this.instance_10 = new lib.Picture9();
+	this.instance_10.setTransform(76,68);
 
-	this.instance_12 = new lib.Bitmap304();
-	this.instance_12.setTransform(441,83,0.6266,0.6266);
+	this.instance_11 = new lib.Bitmap304();
+	this.instance_11.setTransform(441,83,0.6266,0.6266);
 
-	this.instance_13 = new lib.calculatorbase();
-	this.instance_13.setTransform(74,209);
+	this.instance_12 = new lib.calculatorbase();
+	this.instance_12.setTransform(74,209);
 
-	this.instance_14 = new lib.Picture10();
-	this.instance_14.setTransform(77,69);
+	this.instance_13 = new lib.Picture10();
+	this.instance_13.setTransform(77,69);
 
-	this.instance_15 = new lib.Bitmap305();
-	this.instance_15.setTransform(435,69,0.6266,0.6266);
+	this.instance_14 = new lib.Bitmap305();
+	this.instance_14.setTransform(435,69,0.6266,0.6266);
 
 	this.UP = new lib.GoHome();
 	this.UP.name = "UP";
 	this.UP.setTransform(271.25,243.6);
 	new cjs.ButtonHelper(this.UP, 0, 1, 1);
 
-	this.instance_16 = new lib.Picture11();
-	this.instance_16.setTransform(76,69);
+	this.instance_15 = new lib.Picture11();
+	this.instance_15.setTransform(76,69);
 
-	this.instance_17 = new lib.Bitmap306();
-	this.instance_17.setTransform(440,89,0.6266,0.601);
+	this.instance_16 = new lib.Bitmap306();
+	this.instance_16.setTransform(440,89,0.6266,0.601);
 
-	this.instance_18 = new lib.Picture12();
-	this.instance_18.setTransform(77,69);
+	this.instance_17 = new lib.Picture12();
+	this.instance_17.setTransform(77,69);
 
-	this.instance_19 = new lib.Bitmap307();
-	this.instance_19.setTransform(431,67,0.6266,0.6265);
+	this.instance_18 = new lib.Bitmap307();
+	this.instance_18.setTransform(431,67,0.6266,0.6265);
 
-	this.instance_20 = new lib.Picture13();
-	this.instance_20.setTransform(77,67);
+	this.instance_19 = new lib.Picture13();
+	this.instance_19.setTransform(77,67);
 
-	this.instance_21 = new lib.Bitmap308();
-	this.instance_21.setTransform(434,68,0.6266,0.6266);
+	this.instance_20 = new lib.Bitmap308();
+	this.instance_20.setTransform(434,68,0.6266,0.6266);
 
-	this.instance_22 = new lib.Picture14();
-	this.instance_22.setTransform(77,68);
+	this.instance_21 = new lib.Picture14();
+	this.instance_21.setTransform(77,68);
 
-	this.instance_23 = new lib.Bitmap309();
-	this.instance_23.setTransform(449,63,0.5517,0.513);
+	this.instance_22 = new lib.Bitmap309();
+	this.instance_22.setTransform(449,63,0.5517,0.513);
 
-	this.instance_24 = new lib.Picture15();
-	this.instance_24.setTransform(77,68);
+	this.instance_23 = new lib.Picture15();
+	this.instance_23.setTransform(77,68);
 
-	this.instance_25 = new lib.Bitmap310();
-	this.instance_25.setTransform(435,50,0.6096,0.6097);
+	this.instance_24 = new lib.Bitmap310();
+	this.instance_24.setTransform(435,50,0.6096,0.6097);
 
-	this.instance_26 = new lib.Picture16();
-	this.instance_26.setTransform(75,70);
+	this.instance_25 = new lib.Picture16();
+	this.instance_25.setTransform(75,70);
 
-	this.instance_27 = new lib.Bitmap311();
-	this.instance_27.setTransform(429,67,0.5859,0.5859);
+	this.instance_26 = new lib.Bitmap311();
+	this.instance_26.setTransform(429,67,0.5859,0.5859);
 
-	this.instance_28 = new lib.Picture17();
-	this.instance_28.setTransform(74,67);
+	this.instance_27 = new lib.Picture17();
+	this.instance_27.setTransform(74,67);
 
-	this.instance_29 = new lib.Bitmap312();
-	this.instance_29.setTransform(434,83,0.6515,0.6515);
+	this.instance_28 = new lib.Bitmap312();
+	this.instance_28.setTransform(434,83,0.6515,0.6515);
 
-	this.instance_30 = new lib.Picture18();
-	this.instance_30.setTransform(75,67);
+	this.instance_29 = new lib.Picture18();
+	this.instance_29.setTransform(75,67);
 
-	this.instance_31 = new lib.Bitmap313();
-	this.instance_31.setTransform(440,66,0.761,0.761);
+	this.instance_30 = new lib.Bitmap313();
+	this.instance_30.setTransform(440,66,0.761,0.761);
 
-	this.instance_32 = new lib.Picture19();
-	this.instance_32.setTransform(75,66);
+	this.instance_31 = new lib.Picture19();
+	this.instance_31.setTransform(75,66);
 
-	this.instance_33 = new lib.Bitmap314();
-	this.instance_33.setTransform(428,114,0.7099,0.7099);
+	this.instance_32 = new lib.Bitmap314();
+	this.instance_32.setTransform(428,114,0.7099,0.7099);
 
-	this.instance_34 = new lib.Picture20();
-	this.instance_34.setTransform(75,68);
+	this.instance_33 = new lib.Picture20();
+	this.instance_33.setTransform(75,68);
 
-	this.instance_35 = new lib.Picture21();
-	this.instance_35.setTransform(73,66);
+	this.instance_34 = new lib.Picture21();
+	this.instance_34.setTransform(73,66);
 
 	this.NEXT = new lib.GoHome();
 	this.NEXT.name = "NEXT";
 	this.NEXT.setTransform(265.6,334.15);
 	new cjs.ButtonHelper(this.NEXT, 0, 1, 1);
 
-	this.instance_36 = new lib.Picture22();
-	this.instance_36.setTransform(75,67);
+	this.instance_35 = new lib.Picture22();
+	this.instance_35.setTransform(75,67);
 
-	this.instance_37 = new lib.Picture23();
-	this.instance_37.setTransform(79,66);
+	this.instance_36 = new lib.Picture23();
+	this.instance_36.setTransform(79,66);
 
 	this.NEXT2 = new lib.GoHome();
 	this.NEXT2.name = "NEXT2";
 	this.NEXT2.setTransform(369.25,619.9);
 	new cjs.ButtonHelper(this.NEXT2, 0, 1, 1);
 
-	this.instance_38 = new lib.Picture24();
-	this.instance_38.setTransform(77,66);
+	this.instance_37 = new lib.Picture24();
+	this.instance_37.setTransform(77,66);
 
-	this.instance_39 = new lib.Picture25();
-	this.instance_39.setTransform(72,68);
+	this.instance_38 = new lib.Picture25();
+	this.instance_38.setTransform(72,68);
 
-	this.instance_40 = new lib.Picture26();
-	this.instance_40.setTransform(75,66);
+	this.instance_39 = new lib.Picture26();
+	this.instance_39.setTransform(75,66);
 
-	this.instance_41 = new lib.Picture27();
-	this.instance_41.setTransform(76,69);
+	this.instance_40 = new lib.Picture27();
+	this.instance_40.setTransform(76,69);
 
-	this.instance_42 = new lib.Picture28();
-	this.instance_42.setTransform(76,66);
+	this.instance_41 = new lib.Picture28();
+	this.instance_41.setTransform(76,66);
 
-	this.instance_43 = new lib.Picture29();
-	this.instance_43.setTransform(72,67);
+	this.instance_42 = new lib.Picture29();
+	this.instance_42.setTransform(72,67);
 
-	this.instance_44 = new lib.Picture30();
-	this.instance_44.setTransform(73,70);
+	this.instance_43 = new lib.Picture30();
+	this.instance_43.setTransform(73,70);
 
-	this.instance_45 = new lib.Picture31();
-	this.instance_45.setTransform(76,68);
+	this.instance_44 = new lib.Picture31();
+	this.instance_44.setTransform(76,68);
 
-	this.instance_46 = new lib.image20240111_085426();
-	this.instance_46.setTransform(73,68);
+	this.instance_45 = new lib.image20240111_085426();
+	this.instance_45.setTransform(73,68);
 
-	this.instance_47 = new lib.image20240111_085435();
-	this.instance_47.setTransform(74,67);
+	this.instance_46 = new lib.image20240111_085435();
+	this.instance_46.setTransform(74,67);
 
-	this.instance_48 = new lib.thirdpiece();
-	this.instance_48.setTransform(665,88);
+	this.instance_47 = new lib.thirdpiece();
+	this.instance_47.setTransform(665,88);
 
-	this.instance_49 = new lib.image20240111_085443();
-	this.instance_49.setTransform(73,68);
+	this.instance_48 = new lib.image20240111_085443();
+	this.instance_48.setTransform(73,68);
 
-	this.instance_50 = new lib.image20240111_085446();
-	this.instance_50.setTransform(74,67);
+	this.instance_49 = new lib.image20240111_085446();
+	this.instance_49.setTransform(74,67);
 
-	this.instance_51 = new lib.image20240111_085448();
-	this.instance_51.setTransform(74,69);
+	this.instance_50 = new lib.image20240111_085448();
+	this.instance_50.setTransform(74,69);
 
-	this.instance_52 = new lib.image20240111_085658();
-	this.instance_52.setTransform(75,68);
+	this.instance_51 = new lib.image20240111_085658();
+	this.instance_51.setTransform(75,68);
 
-	this.instance_53 = new lib.image20240111_085701();
-	this.instance_53.setTransform(76,67);
+	this.instance_52 = new lib.image20240111_085701();
+	this.instance_52.setTransform(76,67);
 
-	this.instance_54 = new lib.image20240111_085706();
-	this.instance_54.setTransform(74,67);
+	this.instance_53 = new lib.image20240111_085706();
+	this.instance_53.setTransform(74,67);
 
-	this.instance_55 = new lib.image20240111_085708();
-	this.instance_55.setTransform(74,69);
+	this.instance_54 = new lib.image20240111_085708();
+	this.instance_54.setTransform(74,69);
 
-	this.instance_56 = new lib.image20240111_085710();
-	this.instance_56.setTransform(74,68);
+	this.instance_55 = new lib.image20240111_085710();
+	this.instance_55.setTransform(74,68);
 
-	this.instance_57 = new lib.image20240111_085712();
-	this.instance_57.setTransform(79,69);
+	this.instance_56 = new lib.image20240111_085712();
+	this.instance_56.setTransform(79,69);
 
-	this.instance_58 = new lib.image20240111_085715();
+	this.instance_57 = new lib.image20240111_085715();
+	this.instance_57.setTransform(74,67);
+
+	this.instance_58 = new lib.image20240111_092751();
 	this.instance_58.setTransform(74,67);
 
-	this.instance_59 = new lib.image20240111_092751();
-	this.instance_59.setTransform(74,67);
+	this.instance_59 = new lib.image20240111_092754();
+	this.instance_59.setTransform(75,65);
 
-	this.instance_60 = new lib.image20240111_092754();
-	this.instance_60.setTransform(75,65);
+	this.instance_60 = new lib.image20240111_092755();
+	this.instance_60.setTransform(74,65);
 
-	this.instance_61 = new lib.image20240111_092755();
-	this.instance_61.setTransform(74,65);
+	this.instance_61 = new lib.image20240111_092759();
+	this.instance_61.setTransform(78,70);
 
-	this.instance_62 = new lib.image20240111_092759();
-	this.instance_62.setTransform(78,70);
+	this.instance_62 = new lib.image20240111_092802();
+	this.instance_62.setTransform(74,66);
 
-	this.instance_63 = new lib.image20240111_092802();
-	this.instance_63.setTransform(74,66);
+	this.instance_63 = new lib.image20240111_092805();
+	this.instance_63.setTransform(74,67);
 
-	this.instance_64 = new lib.image20240111_092805();
-	this.instance_64.setTransform(74,67);
+	this.instance_64 = new lib.image20240111_092807();
+	this.instance_64.setTransform(77,67);
 
-	this.instance_65 = new lib.image20240111_092807();
-	this.instance_65.setTransform(77,67);
+	this.instance_65 = new lib.image20240111_092810();
+	this.instance_65.setTransform(78,68);
 
-	this.instance_66 = new lib.image20240111_092810();
-	this.instance_66.setTransform(78,68);
+	this.instance_66 = new lib.image20240111_092813();
+	this.instance_66.setTransform(76,69);
 
-	this.instance_67 = new lib.image20240111_092813();
-	this.instance_67.setTransform(76,69);
+	this.instance_67 = new lib.image20240111_092818();
+	this.instance_67.setTransform(76,70);
 
-	this.instance_68 = new lib.image20240111_092818();
-	this.instance_68.setTransform(76,70);
+	this.instance_68 = new lib.image20240111_092825();
+	this.instance_68.setTransform(75,66);
 
-	this.instance_69 = new lib.image20240111_092825();
-	this.instance_69.setTransform(75,66);
+	this.instance_69 = new lib.image20240111_092828();
+	this.instance_69.setTransform(73,69);
 
-	this.instance_70 = new lib.image20240111_092828();
-	this.instance_70.setTransform(73,69);
+	this.instance_70 = new lib.image20240111_092831();
+	this.instance_70.setTransform(74,69);
 
-	this.instance_71 = new lib.image20240111_092831();
-	this.instance_71.setTransform(74,69);
+	this.instance_71 = new lib.image20240111_092839();
+	this.instance_71.setTransform(75,69);
 
-	this.instance_72 = new lib.image20240111_092839();
-	this.instance_72.setTransform(75,69);
+	this.instance_72 = new lib.image20240111_092841();
+	this.instance_72.setTransform(75,67);
 
-	this.instance_73 = new lib.image20240111_092841();
-	this.instance_73.setTransform(75,67);
+	this.instance_73 = new lib.image20240111_092858();
+	this.instance_73.setTransform(74,67);
 
-	this.instance_74 = new lib.image20240111_092858();
-	this.instance_74.setTransform(74,67);
-
-	this.instance_75 = new lib.image20240111_092900();
-	this.instance_75.setTransform(77,67);
+	this.instance_74 = new lib.image20240111_092900();
+	this.instance_74.setTransform(77,67);
 
 	this.example3 = new lib.example3();
 	this.example3.name = "example3";
@@ -17375,20 +17379,20 @@ if (reversed == null) { reversed = false; }
 	this.example1.setTransform(823.45,359.55,1,1,0,0,0,351.2,55.2);
 	new cjs.ButtonHelper(this.example1, 0, 1, 1);
 
-	this.instance_76 = new lib.image20240111_092903();
-	this.instance_76.setTransform(75,69);
+	this.instance_75 = new lib.image20240111_092903();
+	this.instance_75.setTransform(75,69);
 
-	this.instance_77 = new lib.fourthpiece();
-	this.instance_77.setTransform(529,398);
+	this.instance_76 = new lib.fourthpiece();
+	this.instance_76.setTransform(529,398);
 
-	this.instance_78 = new lib.image20240111_092905();
-	this.instance_78.setTransform(75,68);
+	this.instance_77 = new lib.image20240111_092905();
+	this.instance_77.setTransform(75,68);
 
-	this.instance_79 = new lib.image20240111_092908();
-	this.instance_79.setTransform(76,66);
+	this.instance_78 = new lib.image20240111_092908();
+	this.instance_78.setTransform(76,66);
 
-	this.instance_80 = new lib.image20240111_092911();
-	this.instance_80.setTransform(75,67);
+	this.instance_79 = new lib.image20240111_092911();
+	this.instance_79.setTransform(75,67);
 
 	this.example2_1 = new lib.example2();
 	this.example2_1.name = "example2_1";
@@ -17400,134 +17404,134 @@ if (reversed == null) { reversed = false; }
 	this.example1_1.setTransform(786.45,510.4,1,1,0,0,0,310.1,27.6);
 	new cjs.ButtonHelper(this.example1_1, 0, 1, 1);
 
-	this.instance_81 = new lib.image20240111_092914();
-	this.instance_81.setTransform(75,67);
+	this.instance_80 = new lib.image20240111_092914();
+	this.instance_80.setTransform(75,67);
 
-	this.instance_82 = new lib.image20240111_092917();
-	this.instance_82.setTransform(75,68);
+	this.instance_81 = new lib.image20240111_092917();
+	this.instance_81.setTransform(75,68);
 
-	this.instance_83 = new lib.image20240111_092920();
-	this.instance_83.setTransform(75,70);
+	this.instance_82 = new lib.image20240111_092920();
+	this.instance_82.setTransform(75,70);
 
-	this.instance_84 = new lib.image20240111_092923();
+	this.instance_83 = new lib.image20240111_092923();
+	this.instance_83.setTransform(74,69);
+
+	this.instance_84 = new lib.image20240111_093227();
 	this.instance_84.setTransform(74,69);
 
-	this.instance_85 = new lib.image20240111_093227();
-	this.instance_85.setTransform(74,69);
+	this.instance_85 = new lib.image20240111_093248();
+	this.instance_85.setTransform(74,67);
 
-	this.instance_86 = new lib.image20240111_093248();
-	this.instance_86.setTransform(74,67);
+	this.instance_86 = new lib.image20240111_093249();
+	this.instance_86.setTransform(74,68);
 
-	this.instance_87 = new lib.image20240111_093249();
-	this.instance_87.setTransform(74,68);
+	this.instance_87 = new lib.image20240111_093251();
+	this.instance_87.setTransform(77,69);
 
-	this.instance_88 = new lib.image20240111_093251();
-	this.instance_88.setTransform(77,69);
+	this.instance_88 = new lib.image20240111_093253();
+	this.instance_88.setTransform(73,65);
 
-	this.instance_89 = new lib.image20240111_093253();
-	this.instance_89.setTransform(73,65);
+	this.instance_89 = new lib.image20240111_093256();
+	this.instance_89.setTransform(75,69);
 
-	this.instance_90 = new lib.image20240111_093256();
-	this.instance_90.setTransform(75,69);
+	this.instance_90 = new lib.image20240111_093258();
+	this.instance_90.setTransform(76,69);
 
-	this.instance_91 = new lib.image20240111_093258();
+	this.instance_91 = new lib.image20240111_093300();
 	this.instance_91.setTransform(76,69);
 
-	this.instance_92 = new lib.image20240111_093300();
-	this.instance_92.setTransform(76,69);
+	this.instance_92 = new lib.image20240111_093302();
+	this.instance_92.setTransform(71,66);
 
-	this.instance_93 = new lib.image20240111_093302();
-	this.instance_93.setTransform(71,66);
+	this.instance_93 = new lib.image20240111_093310();
+	this.instance_93.setTransform(76,66);
 
-	this.instance_94 = new lib.image20240111_093310();
-	this.instance_94.setTransform(76,66);
+	this.instance_94 = new lib.image20240111_093312();
+	this.instance_94.setTransform(75,67);
 
-	this.instance_95 = new lib.image20240111_093312();
-	this.instance_95.setTransform(75,67);
+	this.instance_95 = new lib.image20240111_093314();
+	this.instance_95.setTransform(78,66);
 
-	this.instance_96 = new lib.image20240111_093314();
-	this.instance_96.setTransform(78,66);
+	this.instance_96 = new lib.image20240111_093315();
+	this.instance_96.setTransform(78,65);
 
-	this.instance_97 = new lib.image20240111_093315();
-	this.instance_97.setTransform(78,65);
+	this.instance_97 = new lib.image20240111_093317();
+	this.instance_97.setTransform(73,68);
 
-	this.instance_98 = new lib.image20240111_093317();
-	this.instance_98.setTransform(73,68);
+	this.instance_98 = new lib.image20240111_093321();
+	this.instance_98.setTransform(77,69);
 
-	this.instance_99 = new lib.image20240111_093321();
-	this.instance_99.setTransform(77,69);
+	this.instance_99 = new lib.image20240111_093323();
+	this.instance_99.setTransform(76,69);
 
-	this.instance_100 = new lib.image20240111_093323();
-	this.instance_100.setTransform(76,69);
+	this.instance_100 = new lib.image20240111_093326();
+	this.instance_100.setTransform(80,69);
 
-	this.instance_101 = new lib.image20240111_093326();
-	this.instance_101.setTransform(80,69);
+	this.instance_101 = new lib.image20240111_093327();
+	this.instance_101.setTransform(77,69);
 
-	this.instance_102 = new lib.image20240111_093327();
-	this.instance_102.setTransform(77,69);
+	this.instance_102 = new lib.image20240111_093330();
+	this.instance_102.setTransform(77,71);
 
-	this.instance_103 = new lib.image20240111_093330();
-	this.instance_103.setTransform(77,71);
+	this.instance_103 = new lib.image20240111_093332();
+	this.instance_103.setTransform(75,68);
 
-	this.instance_104 = new lib.image20240111_093332();
-	this.instance_104.setTransform(75,68);
+	this.instance_104 = new lib.image20240111_093334();
+	this.instance_104.setTransform(77,69);
 
-	this.instance_105 = new lib.image20240111_093334();
-	this.instance_105.setTransform(77,69);
+	this.instance_105 = new lib.image20240111_153817();
+	this.instance_105.setTransform(75,70);
 
-	this.instance_106 = new lib.image20240111_153817();
-	this.instance_106.setTransform(75,70);
+	this.instance_106 = new lib.image20240111_093339();
+	this.instance_106.setTransform(76,67);
 
-	this.instance_107 = new lib.image20240111_093339();
-	this.instance_107.setTransform(76,67);
+	this.instance_107 = new lib.image20240111_093343();
+	this.instance_107.setTransform(75,71);
 
-	this.instance_108 = new lib.image20240111_093343();
-	this.instance_108.setTransform(75,71);
+	this.instance_108 = new lib.image20240111_153910();
+	this.instance_108.setTransform(76,69);
 
-	this.instance_109 = new lib.image20240111_153910();
-	this.instance_109.setTransform(76,69);
+	this.instance_109 = new lib.image20240111_093348();
+	this.instance_109.setTransform(74,66);
 
-	this.instance_110 = new lib.image20240111_093348();
-	this.instance_110.setTransform(74,66);
+	this.instance_110 = new lib.Bitmap364();
+	this.instance_110.setTransform(434,124,0.6814,0.6814);
 
-	this.instance_111 = new lib.Bitmap364();
-	this.instance_111.setTransform(434,124,0.6814,0.6814);
+	this.instance_111 = new lib.image20240111_093350();
+	this.instance_111.setTransform(75,68);
 
-	this.instance_112 = new lib.image20240111_093350();
-	this.instance_112.setTransform(75,68);
+	this.instance_112 = new lib.Bitmap365();
+	this.instance_112.setTransform(430,124,0.7201,0.7201);
 
-	this.instance_113 = new lib.Bitmap365();
-	this.instance_113.setTransform(430,124,0.7201,0.7201);
+	this.instance_113 = new lib.image20240111_093353();
+	this.instance_113.setTransform(78,69);
 
-	this.instance_114 = new lib.image20240111_093353();
-	this.instance_114.setTransform(78,69);
+	this.instance_114 = new lib.image20240111_093354();
+	this.instance_114.setTransform(73,68);
 
-	this.instance_115 = new lib.image20240111_093354();
-	this.instance_115.setTransform(73,68);
+	this.instance_115 = new lib.image20240111_093356();
+	this.instance_115.setTransform(77,72);
 
-	this.instance_116 = new lib.image20240111_093356();
-	this.instance_116.setTransform(77,72);
+	this.instance_116 = new lib.image20240111_093400();
+	this.instance_116.setTransform(76,67);
 
-	this.instance_117 = new lib.image20240111_093400();
-	this.instance_117.setTransform(76,67);
+	this.instance_117 = new lib.image20240111_093402();
+	this.instance_117.setTransform(72,68);
 
-	this.instance_118 = new lib.image20240111_093402();
-	this.instance_118.setTransform(72,68);
+	this.instance_118 = new lib.image20240111_093403();
+	this.instance_118.setTransform(72,69);
 
-	this.instance_119 = new lib.image20240111_093403();
-	this.instance_119.setTransform(72,69);
+	this.instance_119 = new lib.image20240111_093406();
+	this.instance_119.setTransform(76,68);
 
-	this.instance_120 = new lib.image20240111_093406();
-	this.instance_120.setTransform(76,68);
+	this.instance_120 = new lib.image20240111_093407();
+	this.instance_120.setTransform(79,68);
 
-	this.instance_121 = new lib.image20240111_093407();
-	this.instance_121.setTransform(79,68);
+	this.instance_121 = new lib.image20240111_093409();
+	this.instance_121.setTransform(74,68);
 
-	this.instance_122 = new lib.image20240111_093409();
+	this.instance_122 = new lib.image20240111_093411();
 	this.instance_122.setTransform(74,68);
-
-	this.instance_123 = new lib.image20240111_093411();
-	this.instance_123.setTransform(74,68);
 
 	this.MOVE = new lib.NEXT();
 	this.MOVE.name = "MOVE";
@@ -17535,26 +17539,29 @@ if (reversed == null) { reversed = false; }
 	new cjs.ButtonHelper(this.MOVE, 0, 1, 1);
 
 	this.shape_2 = new cjs.Shape();
-	var sprImg_shape_2 = cjs.SpriteSheetUtils.extractFrame(ss["Calculator_atlas_3"],186);
+	var sprImg_shape_2 = cjs.SpriteSheetUtils.extractFrame(ss["Calculator_atlas_3"],187);
 	sprImg_shape_2.onload = function(){
 		this.shape_2.graphics.bf(sprImg_shape_2, null, new cjs.Matrix2D(1,0,0,1,-171.5,-72)).s().p("A6yLQIAA2fMA1lAAAIAAWfg")
 	}.bind(this);
 	this.shape_2.setTransform(245.5,142);
 
-	this.instance_124 = new lib.Bitmap383();
-	this.instance_124.setTransform(720,146);
+	this.instance_123 = new lib.Bitmap383();
+	this.instance_123.setTransform(720,146);
 
-	this.instance_125 = new lib.Bitmap272();
-	this.instance_125.setTransform(467,105);
+	this.instance_124 = new lib.Bitmap272();
+	this.instance_124.setTransform(467,105);
 
-	this.instance_126 = new lib.image20240111_093416();
-	this.instance_126.setTransform(72,68);
+	this.instance_125 = new lib.image20240111_093416();
+	this.instance_125.setTransform(72,68);
 
-	this.instance_127 = new lib.image20240111_093418();
-	this.instance_127.setTransform(74,68);
+	this.instance_126 = new lib.image20240111_093418();
+	this.instance_126.setTransform(74,68);
 
-	this.instance_128 = new lib.image20240111_093420();
-	this.instance_128.setTransform(77,67);
+	this.instance_127 = new lib.image20240111_093420();
+	this.instance_127.setTransform(77,67);
+
+	this.instance_128 = new lib.firstpiece();
+	this.instance_128.setTransform(467,537);
 
 	this.instance_129 = new lib.image20240111_093422();
 	this.instance_129.setTransform(76,69);
@@ -18276,7 +18283,7 @@ if (reversed == null) { reversed = false; }
 	this.instance_348 = new lib.image20240111_133748();
 	this.instance_348.setTransform(74,67);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.home,p:{regX:15.4,regY:15.4,x:194.55,y:301.8}}]}).to({state:[{t:this.instance},{t:this.okay,p:{x:270.9,y:292.6}},{t:this.RIGHT,p:{x:320.4,y:292.6}},{t:this.DOWN,p:{x:270.9,y:336.05}},{t:this.okay2,p:{x:371.15,y:623.9}}]},1).to({state:[{t:this.instance_1},{t:this.home,p:{regX:0,regY:0,x:169.8,y:254.15}},{t:this.Shift3},{t:this.settings},{t:this.Variable},{t:this.FUN},{t:this.cat},{t:this.trig,p:{regX:0,regY:0,x:152.4,y:406.1}},{t:this.xbutton},{t:this.FRACTION},{t:this.SURD},{t:this.INDEX,p:{x:270.65,y:382.55}},{t:this.INDEX2},{t:this.LOG},{t:this.ANS,p:{x:121.05,y:424.25}},{t:this.BRACKET},{t:this.TOOLS},{t:this.TIMESTEN},{t:this.FORMAT},{t:this.MINUS,p:{x:346.8,y:552.55}},{t:this.DIVIDE},{t:this.SUM},{t:this.MULTIPLY},{t:this.back,p:{x:171.1,y:291.45,regX:0,regY:0}}]},1).to({state:[{t:this.shape_1},{t:this.shape},{t:this.instance_3},{t:this.shift4},{t:this.home,p:{regX:0,regY:0,x:175.45,y:253.3}},{t:this.intrig},{t:this.ROOT2},{t:this.INDEX,p:{x:273.55,y:379.75}},{t:this.LOG_1},{t:this.MIXED},{t:this.ANS,p:{x:125.35,y:421.55}},{t:this.EQUALS},{t:this.COMMA},{t:this.MINUS_1},{t:this.NATURAL},{t:this.IMAGINARY},{t:this.PI},{t:this.DEGREE},{t:this.APPROX},{t:this.MINUS,p:{x:349.45,y:549.7}},{t:this.VARIABLE},{t:this.instance_2}]},1).to({state:[{t:this.instance_4},{t:this.down,p:{x:269.55,y:334}},{t:this.okay1},{t:this.back,p:{x:167.45,y:292.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:167.45,y:249.3}},{t:this.superup,p:{x:368.4,y:245.4}},{t:this.superdown,p:{x:368.4,y:291.65}},{t:this.okay,p:{x:368.4,y:619.7}}]},1).to({state:[{t:this.instance_5},{t:this.superup,p:{x:374.35,y:250.45}},{t:this.superdown,p:{x:374.35,y:294.15}},{t:this.up,p:{x:274.2,y:250.45}},{t:this.down,p:{x:274.2,y:333.95}},{t:this.home,p:{regX:0,regY:0,x:172.45,y:250.45}},{t:this.back,p:{x:172.45,y:294.15,regX:0,regY:0}}]},1).to({state:[{t:this.instance_6},{t:this.back,p:{x:168.2,y:292.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.2,y:248.75}},{t:this.superup,p:{x:370.6,y:244.85}},{t:this.superdown,p:{x:370.6,y:291.1}},{t:this.up,p:{x:272.75,y:248.75}},{t:this.down,p:{x:272.75,y:332.25}}]},1).to({state:[{t:this.instance_7},{t:this.back,p:{x:175.5,y:296.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.5,y:252.6}},{t:this.superup,p:{x:370.65,y:248.7}},{t:this.superdown,p:{x:370.65,y:294.95}},{t:this.up,p:{x:274.05,y:248.7}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_8},{t:this.back,p:{x:176.8,y:296.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:176.8,y:252.65}},{t:this.superup,p:{x:371.95,y:248.75}},{t:this.superdown,p:{x:371.95,y:295}},{t:this.down,p:{x:275.35,y:332.25}},{t:this.OK,p:{x:275.35,y:295}},{t:this.EXE,p:{x:371.95,y:626.85}}]},1).to({state:[{t:this.instance_11},{t:this.back,p:{x:173.85,y:294.85,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.85,y:251.2}},{t:this.superup,p:{x:369,y:247.3}},{t:this.superdown,p:{x:369,y:293.55}},{t:this.up,p:{x:272.4,y:247.3}},{t:this.down,p:{x:272.4,y:330.8}},{t:this.OK,p:{x:272.4,y:294.85}},{t:this.EXE,p:{x:369,y:623.45}},{t:this.instance_10,p:{x:1153.2,y:546.6,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_9}]},1).to({state:[{t:this.instance_14},{t:this.back,p:{x:172.7,y:293.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.7,y:250}},{t:this.superup,p:{x:367.85,y:246.1}},{t:this.superdown,p:{x:367.85,y:292.35}},{t:this.up,p:{x:271.25,y:246.1}},{t:this.DOWN,p:{x:271.25,y:329.6}},{t:this.OK,p:{x:271.25,y:292.35}},{t:this.EXE,p:{x:367.85,y:617.15}},{t:this.instance_13},{t:this.instance_10,p:{x:1141,y:538.5,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_12}]},1).to({state:[{t:this.instance_16},{t:this.back,p:{x:172.7,y:291.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.7,y:247.5}},{t:this.superup,p:{x:373.05,y:247.5}},{t:this.superdown,p:{x:367.85,y:289.85}},{t:this.UP,p:{x:271.25,y:243.6}},{t:this.DOWN,p:{x:271.25,y:327.1}},{t:this.OK,p:{x:271.25,y:289.85}},{t:this.EXE,p:{x:367.85,y:615.9}},{t:this.instance_10,p:{x:1135,y:530.25,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_15}]},1).to({state:[{t:this.instance_18},{t:this.back,p:{x:166.8,y:289.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:166.8,y:246.15}},{t:this.superup,p:{x:367.75,y:249.5}},{t:this.superdown,p:{x:367.75,y:295.75}},{t:this.up,p:{x:271.15,y:249.5}},{t:this.down,p:{x:271.15,y:333}},{t:this.OK,p:{x:271.15,y:295.75}},{t:this.EXE,p:{x:367.75,y:628.15}},{t:this.instance_10,p:{x:1147.6,y:518,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_17}]},1).to({state:[{t:this.instance_20},{t:this.back,p:{x:172.65,y:296.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.65,y:252.7}},{t:this.superup,p:{x:367.8,y:248.8}},{t:this.superdown,p:{x:367.8,y:295.05}},{t:this.up,p:{x:271.2,y:248.8}},{t:this.down,p:{x:271.2,y:332.3}},{t:this.instance_10,p:{x:1152.55,y:566,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_19}]},1).to({state:[{t:this.instance_22},{t:this.back,p:{x:172.65,y:296.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.65,y:252.6}},{t:this.superup,p:{x:367.8,y:248.7}},{t:this.superdown,p:{x:367.8,y:294.95}},{t:this.up,p:{x:271.2,y:248.7}},{t:this.down,p:{x:271.2,y:332.2}},{t:this.instance_10,p:{x:1143,y:534.05,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_21}]},1).to({state:[{t:this.instance_24},{t:this.back,p:{x:165.4,y:292.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:165.4,y:248.65}},{t:this.instance_10,p:{x:1079.75,y:600.45,scaleX:0.7442,scaleY:0.7441,regX:200,regY:200}},{t:this.instance_23}]},1).to({state:[{t:this.instance_26},{t:this.back,p:{x:170,y:292.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:248.85}},{t:this.instance_10,p:{x:1103.7,y:610.9,scaleX:0.5581,scaleY:0.5581,regX:200.1,regY:200}},{t:this.instance_25}]},1).to({state:[{t:this.instance_28},{t:this.back,p:{x:170.1,y:294.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.1,y:251.25}},{t:this.instance_10,p:{x:1158,y:599.1,scaleX:0.5581,scaleY:0.5581,regX:200.1,regY:200.1}},{t:this.instance_27}]},1).to({state:[{t:this.instance_30},{t:this.back,p:{x:171.2,y:294.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.2,y:250.9}},{t:this.instance_10,p:{x:1182.85,y:570.65,scaleX:0.7442,scaleY:0.7441,regX:200,regY:200}},{t:this.instance_29}]},1).to({state:[{t:this.instance_32},{t:this.back,p:{x:169.9,y:294.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.9,y:251.25}},{t:this.instance_10,p:{x:1155.3,y:559.65,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_31}]},1).to({state:[{t:this.instance_34},{t:this.back,p:{x:168.95,y:294.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.95,y:250.7}},{t:this.OK,p:{x:267.5,y:293.05}},{t:this.EXE,p:{x:364.1,y:625.45}},{t:this.instance_33}]},1).to({state:[{t:this.instance_35},{t:this.back,p:{x:168.25,y:294.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.25,y:250.7}}]},1).to({state:[{t:this.instance_36},{t:this.back,p:{x:167.05,y:295.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:167.05,y:252}},{t:this.NEXT,p:{x:265.6,y:334.15,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_37},{t:this.back,p:{x:170.9,y:296.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.9,y:253.25}},{t:this.NEXT,p:{x:269.45,y:335.4,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_38},{t:this.back,p:{x:172.3,y:295.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.3,y:251.45}},{t:this.NEXT,p:{x:270.85,y:295.1,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.25,y:619.9,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_39},{t:this.back,p:{x:167.85,y:293,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:167.85,y:249.35}},{t:this.NEXT,p:{x:118.75,y:382.9,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_40},{t:this.back,p:{x:173,y:291.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173,y:248.05}},{t:this.NEXT,p:{x:271.55,y:291.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:364.75,y:604.95,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_41},{t:this.home,p:{regX:0,regY:0,x:169.85,y:252.6}},{t:this.NEXT,p:{x:222.5,y:342.5,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_42},{t:this.back,p:{x:169.95,y:291.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.95,y:248.05}},{t:this.NEXT,p:{x:268.5,y:291.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:361.7,y:604.95,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_43},{t:this.back,p:{x:169.35,y:293.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.35,y:250}},{t:this.NEXT,p:{x:219.1,y:338.6,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_44},{t:this.back,p:{x:168.7,y:287.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.7,y:244.15}},{t:this.NEXT,p:{x:267.25,y:287.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:360.45,y:601.05,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_45},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:248.15}},{t:this.NEXT,p:{x:185.05,y:565.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_46},{t:this.back,p:{x:173.8,y:294.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.05,y:255.9}},{t:this.NEXT,p:{x:364.9,y:419,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_47},{t:this.back,p:{x:170.55,y:293.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.55,y:249.85}},{t:this.NEXT,p:{x:270.05,y:293.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.EXE,p:{x:368.75,y:622.4}}]},1).to({state:[{t:this.instance_49},{t:this.back,p:{x:171,y:289.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171,y:246.05}},{t:this.NEXT,p:{x:268.25,y:289.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:366.7,y:623.6,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_48}]},1).to({state:[{t:this.instance_50},{t:this.back,p:{x:170,y:292.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:249.3}}]},1).to({state:[{t:this.instance_51},{t:this.back,p:{x:172.3,y:298.6,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.3,y:254.95}},{t:this.superup,p:{x:367.45,y:251.05}},{t:this.superdown,p:{x:367.45,y:297.3}},{t:this.down,p:{x:270.85,y:334.55}},{t:this.OK,p:{x:270.85,y:297.3}},{t:this.EXE,p:{x:366.15,y:620.6}}]},1).to({state:[{t:this.instance_52},{t:this.back,p:{x:170.5,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.5,y:248.8}},{t:this.superup,p:{x:365.65,y:244.9}},{t:this.superdown,p:{x:365.65,y:291.15}},{t:this.up,p:{x:269.05,y:244.9}},{t:this.down,p:{x:269.05,y:328.4}},{t:this.OK,p:{x:269.05,y:291.15}},{t:this.EXE,p:{x:366.95,y:622.3}}]},1).to({state:[{t:this.instance_53},{t:this.back,p:{x:170.85,y:292.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.85,y:248.85}},{t:this.superup,p:{x:366,y:244.95}},{t:this.superdown,p:{x:366,y:291.2}},{t:this.up,p:{x:269.4,y:244.95}},{t:this.down,p:{x:269.4,y:328.45}},{t:this.OK,p:{x:269.4,y:291.2}},{t:this.EXE,p:{x:369.5,y:620.9}}]},1).to({state:[{t:this.instance_54},{t:this.back,p:{x:169.6,y:291.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.6,y:247.5}},{t:this.superup,p:{x:364.75,y:243.6}},{t:this.superdown,p:{x:364.75,y:289.85}},{t:this.up,p:{x:268.15,y:243.6}},{t:this.down,p:{x:268.15,y:327.1}},{t:this.OK,p:{x:268.15,y:289.85}},{t:this.EXE,p:{x:366.2,y:623.9}}]},1).to({state:[{t:this.instance_55},{t:this.back,p:{x:173.6,y:291.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.6,y:247.55}},{t:this.superup,p:{x:368.75,y:243.65}},{t:this.superdown,p:{x:368.75,y:289.9}},{t:this.up,p:{x:272.15,y:243.65}},{t:this.down,p:{x:272.15,y:327.15}},{t:this.OK,p:{x:272.15,y:289.9}},{t:this.EXE,p:{x:371.35,y:621.7}}]},1).to({state:[{t:this.instance_56},{t:this.back,p:{x:169.55,y:293.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.55,y:250.15}},{t:this.superup,p:{x:364.7,y:246.25}},{t:this.superdown,p:{x:364.7,y:292.5}},{t:this.up,p:{x:268.1,y:246.25}},{t:this.OK,p:{x:268.1,y:292.5}},{t:this.EXE,p:{x:364.7,y:622.9}}]},1).to({state:[{t:this.instance_57},{t:this.back,p:{x:172.15,y:291.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:247.55}},{t:this.superup,p:{x:367.3,y:243.65}},{t:this.superdown,p:{x:367.3,y:289.9}},{t:this.up,p:{x:270.7,y:243.65}},{t:this.down,p:{x:270.7,y:327.15}},{t:this.OK,p:{x:270.7,y:289.9}},{t:this.EXE,p:{x:367,y:623.15}}]},1).to({state:[{t:this.back,p:{x:172.6,y:293.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.6,y:249.5}},{t:this.superup,p:{x:367.75,y:245.6}},{t:this.superdown,p:{x:367.75,y:291.85}},{t:this.up,p:{x:271.15,y:245.6}},{t:this.down,p:{x:271.15,y:329.1}},{t:this.OK,p:{x:271.15,y:291.85}},{t:this.EXE,p:{x:365.25,y:622.9}},{t:this.instance_58}]},1).to({state:[{t:this.instance_59},{t:this.back,p:{x:172.45,y:292.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.45,y:249.1}},{t:this.superup,p:{x:367.6,y:245.2}},{t:this.superdown,p:{x:367.6,y:291.45}},{t:this.up,p:{x:271,y:245.2}},{t:this.down,p:{x:271,y:328.7}},{t:this.OK,p:{x:271,y:291.45}},{t:this.EXE,p:{x:367.3,y:623.25}}]},1).to({state:[{t:this.instance_60},{t:this.back,p:{x:172.4,y:294.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.4,y:250.55}},{t:this.superup,p:{x:367.55,y:246.65}},{t:this.superdown,p:{x:367.55,y:292.9}},{t:this.up,p:{x:270.95,y:246.65}},{t:this.down,p:{x:270.95,y:330.15}},{t:this.OK,p:{x:270.95,y:292.9}},{t:this.EXE,p:{x:365.8,y:620.35}}]},1).to({state:[{t:this.instance_61},{t:this.back,p:{x:172.8,y:298.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:254.5}},{t:this.superup,p:{x:367.95,y:250.6}},{t:this.superdown,p:{x:367.95,y:296.85}},{t:this.up,p:{x:271.35,y:250.6}},{t:this.OK,p:{x:271.35,y:296.85}},{t:this.EXE,p:{x:368.05,y:620.95}}]},1).to({state:[{t:this.instance_62},{t:this.back,p:{x:172.75,y:295.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.75,y:251.7}},{t:this.OK,p:{x:271.3,y:294.05}},{t:this.EXE,p:{x:368,y:622.05}}]},1).to({state:[{t:this.instance_63},{t:this.back,p:{x:171.05,y:292.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.05,y:248.85}}]},1).to({state:[{t:this.instance_64},{t:this.back,p:{x:169.5,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.5,y:248.8}},{t:this.OK,p:{x:268.05,y:291.15}},{t:this.EXE,p:{x:367.95,y:620.9}}]},1).to({state:[{t:this.instance_65},{t:this.back,p:{x:169.75,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.75,y:248.8}}]},1).to({state:[{t:this.instance_66},{t:this.back,p:{x:172.3,y:296.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.3,y:252.85}},{t:this.OK,p:{x:270.85,y:295.2}},{t:this.EXE,p:{x:366.7,y:622.9}}]},1).to({state:[{t:this.instance_67},{t:this.back,p:{x:169.55,y:291.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.55,y:247.5}}]},1).to({state:[{t:this.instance_68},{t:this.back,p:{x:172.6,y:292.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.6,y:248.85}},{t:this.superup,p:{x:367.75,y:244.95}},{t:this.superdown,p:{x:367.75,y:291.2}},{t:this.up,p:{x:271.15,y:244.95}},{t:this.down,p:{x:271.15,y:328.45}},{t:this.OK,p:{x:271.15,y:291.2}},{t:this.EXE,p:{x:365.25,y:622.55}}]},1).to({state:[{t:this.instance_69},{t:this.back,p:{x:171,y:295.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171,y:251.7}},{t:this.superup,p:{x:366.15,y:247.8}},{t:this.superdown,p:{x:366.15,y:294.05}},{t:this.up,p:{x:269.55,y:247.8}},{t:this.down,p:{x:269.55,y:331.3}},{t:this.OK,p:{x:269.55,y:294.05}},{t:this.EXE,p:{x:366.55,y:622.35}}]},1).to({state:[{t:this.instance_70},{t:this.back,p:{x:172,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172,y:250.1}},{t:this.superup,p:{x:367.15,y:246.2}},{t:this.superdown,p:{x:367.15,y:292.45}},{t:this.up,p:{x:270.55,y:246.2}},{t:this.down,p:{x:270.55,y:329.7}},{t:this.OK,p:{x:270.55,y:292.45}},{t:this.EXE,p:{x:366.1,y:621.55}}]},1).to({state:[{t:this.instance_71},{t:this.back,p:{x:172.05,y:292.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.05,y:248.9}},{t:this.superup,p:{x:367.2,y:245}},{t:this.superdown,p:{x:367.2,y:291.25}},{t:this.up,p:{x:270.6,y:245}},{t:this.down,p:{x:270.6,y:328.5}},{t:this.OK,p:{x:270.6,y:291.25}},{t:this.EXE,p:{x:364.8,y:620.3}}]},1).to({state:[{t:this.instance_72},{t:this.back,p:{x:174.85,y:292.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:248.75}},{t:this.superup,p:{x:370,y:244.85}},{t:this.superdown,p:{x:370,y:291.1}},{t:this.up,p:{x:273.4,y:244.85}},{t:this.down,p:{x:273.4,y:328.35}},{t:this.OK,p:{x:273.4,y:291.1}},{t:this.EXE,p:{x:366.25,y:621.55}}]},1).to({state:[{t:this.instance_73},{t:this.back,p:{x:172.05,y:295,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.05,y:251.35}},{t:this.superup,p:{x:367.2,y:247.45}},{t:this.superdown,p:{x:367.2,y:293.7}},{t:this.up,p:{x:270.6,y:247.45}},{t:this.down,p:{x:270.6,y:330.95}},{t:this.OK,p:{x:270.6,y:293.7}},{t:this.EXE,p:{x:367.65,y:621.6}}]},1).to({state:[{t:this.instance_74},{t:this.back,p:{x:173.45,y:297.85,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.45,y:254.2}},{t:this.OK,p:{x:272,y:296.55}},{t:this.EXE,p:{x:364.9,y:621.55}}]},1).to({state:[{t:this.instance_75},{t:this.back,p:{x:172.15,y:293.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:250.15}}]},1).to({state:[{t:this.instance_76},{t:this.back,p:{x:170.75,y:288.6,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.05,y:252.75}},{t:this.example1,p:{regX:351.2,regY:55.2,x:823.45,y:359.55}},{t:this.example2,p:{regX:346.7,regY:55.2,x:818.95,y:469.95}},{t:this.example3}]},1).to({state:[{t:this.instance_78},{t:this.back,p:{x:169.4,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.4,y:250.1}},{t:this.instance_77}]},1).to({state:[{t:this.instance_79},{t:this.back,p:{x:170.85,y:296.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.85,y:252.65}}]},1).to({state:[{t:this.instance_80},{t:this.back,p:{x:170.7,y:296.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.7,y:252.75}}]},1).to({state:[{t:this.instance_81},{t:this.back,p:{x:174.85,y:295.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:251.4}},{t:this.example1_1},{t:this.example2_1}]},1).to({state:[{t:this.instance_82},{t:this.back,p:{x:170.75,y:295.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.75,y:251.45}}]},1).to({state:[{t:this.instance_83},{t:this.back,p:{x:169.35,y:293.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.35,y:250.15}}]},1).to({state:[{t:this.instance_84},{t:this.back,p:{x:174.9,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.9,y:250.1}},{t:this.superup,p:{x:370.05,y:246.2}},{t:this.superdown,p:{x:370.05,y:292.45}},{t:this.up,p:{x:273.45,y:246.2}},{t:this.down,p:{x:273.45,y:329.7}},{t:this.OK,p:{x:273.45,y:292.45}},{t:this.EXE,p:{x:366.45,y:620.35}}]},1).to({state:[{t:this.instance_85},{t:this.back,p:{x:174.85,y:292.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:248.85}},{t:this.superup,p:{x:370,y:244.95}},{t:this.superdown,p:{x:370,y:291.2}},{t:this.up,p:{x:273.4,y:244.95}},{t:this.down,p:{x:273.4,y:328.45}},{t:this.OK,p:{x:273.4,y:291.2}},{t:this.EXE,p:{x:365.05,y:621.8}}]},1).to({state:[{t:this.instance_86},{t:this.back,p:{x:173.55,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.55,y:250.1}},{t:this.superup,p:{x:368.7,y:246.2}},{t:this.superdown,p:{x:368.7,y:292.45}},{t:this.up,p:{x:272.1,y:246.2}},{t:this.down,p:{x:272.1,y:329.7}},{t:this.OK,p:{x:272.1,y:292.45}},{t:this.EXE,p:{x:366.45,y:621.7}}]},1).to({state:[{t:this.instance_87},{t:this.back,p:{x:173.6,y:297.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.6,y:254}},{t:this.superup,p:{x:368.75,y:250.1}},{t:this.superdown,p:{x:368.75,y:296.35}},{t:this.up,p:{x:272.15,y:250.1}},{t:this.down,p:{x:272.15,y:333.6}},{t:this.OK,p:{x:272.15,y:296.35}},{t:this.EXE,p:{x:366.5,y:620.2}}]},1).to({state:[{t:this.instance_88},{t:this.back,p:{x:172.1,y:295.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.1,y:251.45}},{t:this.superup,p:{x:367.25,y:247.55}},{t:this.superdown,p:{x:367.25,y:293.8}},{t:this.up,p:{x:270.65,y:247.55}},{t:this.down,p:{x:270.65,y:331.05}},{t:this.OK,p:{x:270.65,y:293.8}},{t:this.EXE,p:{x:367.7,y:621.7}}]},1).to({state:[{t:this.instance_89},{t:this.back,p:{x:177.15,y:289.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:177.15,y:246.25}},{t:this.EXE,p:{x:368.7,y:621.9}},{t:this.OK,p:{x:274.7,y:289.9}}]},1).to({state:[{t:this.instance_90},{t:this.back,p:{x:174.85,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:250.1}}]},1).to({state:[{t:this.instance_91},{t:this.back,p:{x:175.85,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.85,y:248.8}},{t:this.OK,p:{x:274.4,y:291.15}},{t:this.EXE,p:{x:368.75,y:621.75}}]},1).to({state:[{t:this.instance_92},{t:this.back,p:{x:174.85,y:295.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:251.4}}]},1).to({state:[{t:this.instance_93},{t:this.back,p:{x:176.15,y:291.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:176.15,y:247.5}},{t:this.OK,p:{x:274.7,y:289.85}},{t:this.EXE,p:{x:366.35,y:620.45}}]},1).to({state:[{t:this.instance_94},{t:this.back,p:{x:174.9,y:295.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.9,y:251.4}}]},1).to({state:[{t:this.instance_95},{t:this.back,p:{x:169.4,y:293.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.4,y:250.15}},{t:this.NEXT,p:{x:220.7,y:295.6,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_96},{t:this.back,p:{x:174.85,y:301.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:257.5}},{t:this.NEXT,p:{x:128.6,y:476.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_97},{t:this.back,p:{x:174.9,y:295.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.9,y:252.3}},{t:this.NEXT,p:{x:192.8,y:613.6,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_98},{t:this.back,p:{x:171.85,y:293.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.85,y:249.55}},{t:this.NEXT,p:{x:314.3,y:293.2,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.back,p:{x:170.8,y:294.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.8,y:251.05}},{t:this.NEXT,p:{x:250.35,y:514.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_99},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_100},{t:this.back,p:{x:172,y:294.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172,y:251.1}},{t:this.NEXT,p:{x:127,y:617.55,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_101},{t:this.back,p:{x:170.8,y:297.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.8,y:253.7}},{t:this.NEXT,p:{x:245.2,y:522.6,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_102},{t:this.back,p:{x:169.3,y:294.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.3,y:251.05}},{t:this.NEXT,p:{x:269.7,y:294.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:367.9,y:622.4,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_103},{t:this.back,p:{x:168.85,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.85,y:251.9}}]},1).to({state:[{t:this.instance_104},{t:this.back,p:{x:172.15,y:290.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:246.7}}]},1).to({state:[{t:this.instance_105},{t:this.back,p:{x:169.35,y:293.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.7,y:254.1}},{t:this.superup,p:{x:371.25,y:247.5}},{t:this.superdown,p:{x:371.25,y:293.75}},{t:this.up,p:{x:274.65,y:247.5}},{t:this.down,p:{x:274.65,y:331}},{t:this.OK,p:{x:274.65,y:293.75}},{t:this.EXE,p:{x:366.3,y:620.3}}]},1).to({state:[{t:this.instance_106},{t:this.back,p:{x:169.45,y:296.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.45,y:252.7}},{t:this.superup,p:{x:368.65,y:247.45}},{t:this.superdown,p:{x:368.65,y:293.7}},{t:this.up,p:{x:268,y:248.8}},{t:this.down,p:{x:268,y:332.3}},{t:this.OK,p:{x:268,y:295.05}},{t:this.EXE,p:{x:374.5,y:618.9}}]},1).to({state:[{t:this.instance_107},{t:this.back,p:{x:173.5,y:296.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.5,y:252.55}},{t:this.superup,p:{x:368.65,y:248.65}},{t:this.superdown,p:{x:368.65,y:294.9}},{t:this.up,p:{x:272.05,y:248.65}},{t:this.down,p:{x:272.05,y:332.15}},{t:this.OK,p:{x:272.05,y:294.9}},{t:this.EXE,p:{x:369.1,y:620.1}}]},1).to({state:[{t:this.instance_108},{t:this.back,p:{x:173.55,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.55,y:248.8}},{t:this.superup,p:{x:368.7,y:244.9}},{t:this.superdown,p:{x:368.7,y:291.15}},{t:this.up,p:{x:272.1,y:244.9}},{t:this.down,p:{x:272.1,y:328.4}},{t:this.OK,p:{x:272.1,y:291.15}},{t:this.EXE,p:{x:369.15,y:620.4}}]},1).to({state:[{t:this.instance_109},{t:this.back,p:{x:174.9,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.9,y:250.1}},{t:this.superup,p:{x:370.05,y:246.2}},{t:this.superdown,p:{x:370.05,y:292.45}},{t:this.up,p:{x:273.45,y:246.2}},{t:this.down,p:{x:273.45,y:329.7}},{t:this.OK,p:{x:273.45,y:292.45}},{t:this.EXE,p:{x:367.8,y:619}}]},1).to({state:[{t:this.instance_110},{t:this.back,p:{x:174.85,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:248.8}},{t:this.superup,p:{x:370,y:244.9}},{t:this.superdown,p:{x:370,y:291.15}},{t:this.up,p:{x:273.4,y:244.9}},{t:this.down,p:{x:273.4,y:328.4}},{t:this.OK,p:{x:273.4,y:291.15}},{t:this.EXE,p:{x:366.4,y:619.05}}]},1).to({state:[{t:this.instance_112},{t:this.back,p:{x:171.95,y:295.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.95,y:251.85}},{t:this.instance_111}]},1).to({state:[{t:this.instance_114},{t:this.back,p:{x:170.65,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.65,y:250.65}},{t:this.instance_113}]},1).to({state:[{t:this.instance_115},{t:this.back,p:{x:173.35,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.35,y:251.9}}]},1).to({state:[{t:this.instance_116},{t:this.back,p:{x:170.85,y:298.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.85,y:254.45}}]},1).to({state:[{t:this.instance_117},{t:this.back,p:{x:170.9,y:299.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.9,y:255.75}}]},1).to({state:[{t:this.instance_118},{t:this.back,p:{x:172.15,y:296.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:253.05}},{t:this.example1,p:{regX:0,regY:0,x:453.55,y:409.15}},{t:this.example2,p:{regX:0,regY:0,x:468,y:519.55}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_119},{t:this.back,p:{x:173.55,y:299.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.55,y:255.75}},{t:this.NEXT,p:{x:305.8,y:620.95,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_120},{t:this.back,p:{x:170.35,y:297.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.35,y:253.85}},{t:this.NEXT,p:{x:267.95,y:297.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.2,y:619.65,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_121},{t:this.back,p:{x:172.15,y:299.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:255.75}}]},1).to({state:[{t:this.instance_122},{t:this.back,p:{x:173.6,y:300.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.6,y:257}}]},1).to({state:[{t:this.instance_123},{t:this.trig,p:{regX:70,regY:18.6,x:220.25,y:426.1}},{t:this.back,p:{x:174.2,y:294.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.2,y:250.75}},{t:this.OK,p:{x:272.75,y:293.1}},{t:this.EXE,p:{x:364.4,y:619.65}}]},1).to({state:[{t:this.shape_2},{t:this.back,p:{x:174.2,y:294.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.2,y:250.75}},{t:this.MOVE}]},1).to({state:[{t:this.instance_126},{t:this.back,p:{x:170,y:295.5,regX:-0.6,regY:0.4}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:254.55}},{t:this.instance_125},{t:this.instance_124}]},1).to({state:[{t:this.instance_127},{t:this.back,p:{x:174.2,y:294.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.2,y:250.7}},{t:this.NEXT,p:{x:736.55,y:531.95,scaleX:16.2342,scaleY:7.6624,regX:0,regY:0}}]},1).to({state:[{t:this.instance_128},{t:this.back,p:{x:172.9,y:298.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.9,y:254.65}}]},1).to({state:[{t:this.instance_129},{t:this.back,p:{x:175.5,y:293.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.5,y:249.45}}]},1).to({state:[{t:this.instance_130},{t:this.back,p:{x:171.8,y:295.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.8,y:252}},{t:this.down,p:{x:268.65,y:334.05}}]},1).to({state:[{t:this.instance_131},{t:this.back,p:{x:172.85,y:295.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.85,y:252}},{t:this.OK,p:{x:271.4,y:294.35}},{t:this.EXE,p:{x:368.45,y:620.9}},{t:this.up,p:{x:271.4,y:252}}]},1).to({state:[{t:this.instance_132},{t:this.back,p:{x:173.2,y:295.6,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.2,y:251.95}},{t:this.OK,p:{x:271.75,y:294.3}},{t:this.EXE,p:{x:367.45,y:620.85}}]},1).to({state:[{t:this.instance_133},{t:this.back,p:{x:171.65,y:296.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.65,y:253.3}}]},1).to({state:[{t:this.instance_135},{t:this.back,p:{x:172.8,y:294.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:250.4}},{t:this.instance_134,p:{scaleX:0.7407,scaleY:0.7406,x:764.9,y:558.85}}]},1).to({state:[{t:this.instance_137},{t:this.back,p:{x:171.55,y:294.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:250.55}},{t:this.instance_136}]},1).to({state:[{t:this.instance_138},{t:this.back,p:{x:171.8,y:296.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.8,y:253.25}},{t:this.example1,p:{regX:0,regY:0,x:427.1,y:124.65}},{t:this.example2_2},{t:this.example3_1},{t:this.example4},{t:this.example5}]},1).to({state:[{t:this.instance_139},{t:this.back,p:{x:171.35,y:296.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.35,y:253.3}}]},1).to({state:[{t:this.instance_140},{t:this.back,p:{x:172.65,y:296.85,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.65,y:253.2}}]},1).to({state:[{t:this.instance_141},{t:this.back,p:{x:171.8,y:299.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.8,y:255.7}}]},1).to({state:[{t:this.instance_142},{t:this.back,p:{x:171.5,y:294.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.5,y:250.45}}]},1).to({state:[{t:this.instance_143},{t:this.back,p:{x:172.7,y:299.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.7,y:255.85}}]},1).to({state:[{t:this.instance_144},{t:this.back,p:{x:170.2,y:296.85,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.2,y:253.2}},{t:this.OK,p:{x:268.75,y:295.55}},{t:this.EXE,p:{x:365.8,y:620.75}}]},1).to({state:[{t:this.instance_145},{t:this.back,p:{x:172.9,y:296.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.9,y:253.15}}]},1).to({state:[{t:this.instance_147},{t:this.back,p:{x:173,y:298.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173,y:254.6}},{t:this.OK,p:{x:271.55,y:296.95}},{t:this.EXE,p:{x:368.6,y:622.15}},{t:this.instance_146}]},1).to({state:[{t:this.instance_149},{t:this.back,p:{x:173,y:295.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173,y:251.8}},{t:this.instance_148}]},1).to({state:[{t:this.instance_151},{t:this.back,p:{x:175.5,y:295.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.5,y:252.05}},{t:this.instance_150,p:{x:1157.55,y:468.55}}]},1).to({state:[{t:this.instance_153},{t:this.back,p:{x:171.5,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.5,y:251.9}},{t:this.instance_152},{t:this.ERROR,p:{regX:0.2,scaleX:7.1012,x:724.15,y:418.55}}]},1).to({state:[{t:this.instance_155},{t:this.back,p:{x:173.2,y:298.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.2,y:254.5}},{t:this.instance_154,p:{x:1072,y:490.35}}]},1).to({state:[{t:this.instance_156},{t:this.back,p:{x:170.2,y:298.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.2,y:254.5}},{t:this.instance_150,p:{x:1155.9,y:481.25}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_158},{t:this.back,p:{x:173.05,y:295.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.05,y:251.8}},{t:this.NEXT,p:{x:307.45,y:622.65,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_157}]},1).to({state:[{t:this.instance_159},{t:this.back,p:{x:170.65,y:292.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.65,y:249.3}},{t:this.instance_154,p:{x:1123.55,y:510.55}}]},1).to({state:[{t:this.instance_160},{t:this.back,p:{x:171.65,y:298.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.65,y:254.55}}]},1).to({state:[{t:this.instance_161},{t:this.back,p:{x:170.15,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.15,y:249.4}},{t:this.instance_154,p:{x:1105.85,y:459}}]},1).to({state:[{t:this.instance_163},{t:this.back,p:{x:170.2,y:296.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.2,y:253.15}},{t:this.instance_162,p:{regX:900,regY:1050,x:993.05,y:421.4}}]},1).to({state:[{t:this.instance_165},{t:this.back,p:{x:170.25,y:295.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.25,y:252}},{t:this.instance_164}]},1).to({state:[{t:this.instance_166},{t:this.back,p:{x:171.55,y:294.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:250.4}},{t:this.instance_162,p:{regX:1002,regY:1140,x:1060.95,y:478}}]},1).to({state:[{t:this.instance_167},{t:this.back,p:{x:171.55,y:298.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:254.45}},{t:this.instance_162,p:{regX:1002,regY:1140,x:1139.35,y:473.7}}]},1).to({state:[{t:this.instance_168},{t:this.back,p:{x:172.4,y:293.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.4,y:249.75}},{t:this.superup,p:{x:367.55,y:245.85}},{t:this.superdown,p:{x:367.55,y:292.1}},{t:this.up,p:{x:270.95,y:245.85}},{t:this.down,p:{x:270.95,y:329.35}},{t:this.OK,p:{x:270.95,y:292.1}},{t:this.EXE,p:{x:366.65,y:621.35}},{t:this.prime}]},1).to({state:[{t:this.instance_169},{t:this.back,p:{x:172.55,y:294.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.55,y:251.25}},{t:this.superup,p:{x:367.7,y:247.35}},{t:this.superdown,p:{x:367.7,y:293.6}},{t:this.up,p:{x:271.1,y:247.35}},{t:this.down,p:{x:271.1,y:330.85}},{t:this.OK,p:{x:271.1,y:293.6}},{t:this.EXE,p:{x:368.15,y:620.15}},{t:this.prime}]},1).to({state:[{t:this.instance_170},{t:this.back,p:{x:171.2,y:294.85,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.2,y:251.2}},{t:this.superup,p:{x:366.35,y:247.3}},{t:this.superdown,p:{x:366.35,y:293.55}},{t:this.up,p:{x:269.75,y:247.3}},{t:this.down,p:{x:269.75,y:330.8}},{t:this.OK,p:{x:269.75,y:293.55}},{t:this.EXE,p:{x:361.4,y:620.1}},{t:this.prime}]},1).to({state:[{t:this.instance_171},{t:this.back,p:{x:175.15,y:296.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.15,y:252.5}},{t:this.superup,p:{x:370.3,y:248.6}},{t:this.superdown,p:{x:370.3,y:294.85}},{t:this.up,p:{x:273.7,y:248.6}},{t:this.down,p:{x:273.7,y:332.1}},{t:this.OK,p:{x:273.7,y:294.85}},{t:this.EXE,p:{x:366.7,y:620.05}},{t:this.prime}]},1).to({state:[{t:this.instance_172},{t:this.back,p:{x:173.7,y:296.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.7,y:252.55}},{t:this.superup,p:{x:368.85,y:248.65}},{t:this.superdown,p:{x:368.85,y:294.9}},{t:this.up,p:{x:272.25,y:248.65}},{t:this.down,p:{x:272.25,y:332.15}},{t:this.OK,p:{x:272.25,y:294.9}},{t:this.EXE,p:{x:363.9,y:620.1}},{t:this.prime}]},1).to({state:[{t:this.instance_173},{t:this.back,p:{x:175.3,y:296.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.3,y:252.65}},{t:this.superup,p:{x:370.45,y:248.75}},{t:this.superdown,p:{x:370.45,y:295}},{t:this.up,p:{x:273.85,y:248.75}},{t:this.down,p:{x:273.85,y:332.25}},{t:this.OK,p:{x:273.85,y:295}},{t:this.EXE,p:{x:362.8,y:620.2}},{t:this.prime}]},1).to({state:[{t:this.instance_174},{t:this.back,p:{x:176.65,y:297.6,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:176.65,y:253.95}},{t:this.superup,p:{x:371.8,y:250.05}},{t:this.superdown,p:{x:371.8,y:296.3}},{t:this.up,p:{x:275.2,y:250.05}},{t:this.down,p:{x:275.2,y:333.55}},{t:this.OK,p:{x:275.2,y:296.3}},{t:this.EXE,p:{x:366.85,y:620.15}},{t:this.prime}]},1).to({state:[{t:this.instance_175},{t:this.back,p:{x:174.55,y:296.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.55,y:253.1}}]},1).to({state:[{t:this.instance_176},{t:this.back,p:{x:172.25,y:299.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.25,y:255.75}},{t:this.instance_162,p:{regX:1002,regY:1140,x:1090.35,y:510.85}}]},1).to({state:[{t:this.instance_177},{t:this.back,p:{x:172.1,y:295.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.1,y:251.55}}]},1).to({state:[{t:this.instance_178},{t:this.back,p:{x:172.65,y:299.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.65,y:255.75}}]},1).to({state:[{t:this.instance_179},{t:this.back,p:{x:172.15,y:292.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:249.1}},{t:this.instance_134,p:{scaleX:0.5305,scaleY:0.5304,x:1115.8,y:642.3}}]},1).to({state:[{t:this.instance_181},{t:this.back,p:{x:174.85,y:291.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:248}},{t:this.right,p:{x:318.2,y:296.35}},{t:this.instance_180}]},1).to({state:[{t:this.instance_183},{t:this.back,p:{x:173.1,y:297.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.1,y:254.3}},{t:this.left,p:{x:225.2,y:295.25}},{t:this.right,p:{x:313.5,y:295}},{t:this.instance_182}]},1).to({state:[{t:this.instance_185},{t:this.back,p:{x:173.5,y:296.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.5,y:253.1}},{t:this.left,p:{x:224.4,y:297.2}},{t:this.right,p:{x:312.7,y:296.95}},{t:this.instance_184}]},1).to({state:[{t:this.instance_187},{t:this.back,p:{x:170.9,y:294.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.9,y:250.4}},{t:this.left,p:{x:221.7,y:294.5}},{t:this.instance_186}]},1).to({state:[{t:this.instance_188},{t:this.back,p:{x:172.15,y:296.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:252.9}},{t:this.instance_150,p:{x:1123.8,y:523.3}}]},1).to({state:[{t:this.instance_189},{t:this.back,p:{x:172.05,y:294.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.05,y:250.6}}]},1).to({state:[{t:this.instance_190},{t:this.back,p:{x:172.45,y:294.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.45,y:250.55}}]},1).to({state:[{t:this.instance_191},{t:this.NEXT,p:{x:271.6,y:292.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.RIGHT,p:{x:321.1,y:292.55}},{t:this.DOWN,p:{x:271.6,y:336}},{t:this.LEFT,p:{x:222.15,y:292.55}},{t:this.NEXT2,p:{x:367.15,y:624.15,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_192},{t:this.back,p:{x:171.2,y:293.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.2,y:253.45}},{t:this.NEXT,p:{x:270.95,y:293.35,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.DOWN,p:{x:270.95,y:336.8}},{t:this.NEXT2,p:{x:366.5,y:624.95,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_194},{t:this.back,p:{x:172.3,y:295,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.3,y:255.1}},{t:this.NEXT,p:{x:372,y:338.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_193}]},1).to({state:[{t:this.instance_196},{t:this.back,p:{x:171.3,y:293.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.3,y:253.55}},{t:this.NEXT,p:{x:271.05,y:336.9,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_195}]},1).to({state:[{t:this.instance_198},{t:this.back,p:{x:169.05,y:293.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.05,y:253.55}},{t:this.NEXT,p:{x:275.05,y:293.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:368.9,y:620.15,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_197}]},1).to({state:[{t:this.instance_200},{t:this.back,p:{x:168.75,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.75,y:254.4}},{t:this.NEXT,p:{x:274.75,y:294.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:368.6,y:621,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_199}]},1).to({state:[{t:this.instance_203},{t:this.back,p:{x:171.25,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:253.15}},{t:this.NEXT,p:{x:247.25,y:575.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_202},{t:this.instance_201}]},1).to({state:[{t:this.instance_204},{t:this.back,p:{x:171.25,y:296.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:256.9}},{t:this.NEXT,p:{x:271,y:249.3,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_205},{t:this.back,p:{x:172.5,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:254.4}},{t:this.NEXT,p:{x:321,y:294.3,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_206},{t:this.back,p:{x:170,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:255.65}},{t:this.NEXT,p:{x:188.5,y:524.25,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_207},{t:this.back,p:{x:168.75,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.75,y:254.4}},{t:this.NEXT,p:{x:271,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:368.6,y:621,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_208},{t:this.back,p:{x:171.25,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:255.65}},{t:this.NEXT,p:{x:273.5,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:272.25,y:335.2}}]},1).to({state:[{t:this.instance_209},{t:this.back,p:{x:170,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:255.65}},{t:this.NEXT,p:{x:272.25,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.85,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.UP,p:{x:271,y:250.65}}]},1).to({state:[{t:this.instance_210},{t:this.back,p:{x:170.05,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.05,y:254.4}},{t:this.NEXT,p:{x:271.05,y:336.75,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_211},{t:this.back,p:{x:170,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:255.65}}]},1).to({state:[{t:this.instance_212},{t:this.back,p:{x:171.25,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:254.4}},{t:this.NEXT,p:{x:321,y:336.75,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_213},{t:this.back,p:{x:171.25,y:299.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:259.35}}]},1).to({state:[{t:this.instance_214},{t:this.back,p:{x:272.25,y:248.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:255.65}},{t:this.NEXT,p:{x:272.25,y:291.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_215},{t:this.back,p:{x:172.5,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:251.9}},{t:this.NEXT,p:{x:273.5,y:291.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:618.5,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_216},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}},{t:this.NEXT,p:{x:268.5,y:291.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:618.5,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_217},{t:this.back,p:{x:173.75,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.75,y:253.15}},{t:this.NEXT,p:{x:274.75,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:373.6,y:619.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:273.5,y:335.2}}]},1).to({state:[{t:this.instance_218},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}}]},1).to({state:[{t:this.instance_219},{t:this.back,p:{x:170.05,y:294.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.05,y:254.35}},{t:this.NEXT,p:{x:271.05,y:294.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.9,y:620.95,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.UP,p:{x:266.25,y:251.85}}]},1).to({state:[{t:this.instance_220},{t:this.back,p:{x:175,y:290.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175,y:250.65}},{t:this.NEXT,p:{x:276,y:290.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.15,y:622.95,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_221},{t:this.back,p:{x:172.5,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:255.65}}]},1).to({state:[{t:this.instance_222},{t:this.okay,p:{x:271.55,y:292.55}},{t:this.DOWN,p:{x:271.55,y:336}},{t:this.LEFT,p:{x:222.1,y:292.55}},{t:this.okay2,p:{x:369.1,y:623.65}}]},1).to({state:[{t:this.instance_223},{t:this.back,p:{x:172.5,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:253.15}},{t:this.NEXT,p:{x:273.5,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:619.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:273.5,y:336.45}}]},1).to({state:[{t:this.instance_224},{t:this.back,p:{x:171.3,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.3,y:251.9}},{t:this.NEXT,p:{x:272.3,y:291.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.15,y:618.5,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_225},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}},{t:this.NEXT,p:{x:122.25,y:570.45,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_226},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}},{t:this.NEXT,p:{x:184.75,y:525.5,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_227},{t:this.back,p:{x:172.5,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:254.4}},{t:this.NEXT,p:{x:273.5,y:294.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:621,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_228},{t:this.back,p:{x:171.25,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:255.65}},{t:this.NEXT,p:{x:272.25,y:295.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_229},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}},{t:this.NEXT,p:{x:272.25,y:291.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:618.5,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_230},{t:this.back,p:{x:171.25,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:253.15}}]},1).to({state:[{t:this.instance_231},{t:this.back,p:{x:168.75,y:288.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.75,y:248.15}},{t:this.NEXT,p:{x:269.75,y:288.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:368.6,y:621,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:269.75,y:331.45}},{t:this.UP,p:{x:269.75,y:248.15}}]},1).to({state:[{t:this.instance_232},{t:this.back,p:{x:171.25,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:255.65}},{t:this.NEXT,p:{x:272.25,y:295.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_233},{t:this.back,p:{x:171.25,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:254.4}},{t:this.NEXT,p:{x:272.25,y:294.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:621,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_234},{t:this.back,p:{x:171.25,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:255.65}}]},1).to({state:[{t:this.instance_235},{t:this.back,p:{x:172.5,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:254.4}},{t:this.UP,p:{x:271,y:250.65}},{t:this.DOWN,p:{x:271,y:337.7}}]},1).to({state:[{t:this.instance_236},{t:this.back,p:{x:170.05,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.05,y:252.55}},{t:this.NEXT,p:{x:271.05,y:292.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.9,y:619.15,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.UP,p:{x:268.55,y:248.8}},{t:this.DOWN,p:{x:268.55,y:335.85}}]},1).to({state:[{t:this.instance_237},{t:this.back,p:{x:171.25,y:291.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.3}},{t:this.NEXT,p:{x:272.25,y:291.2,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.85,y:621.65,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_238},{t:this.back,p:{x:172.5,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:251.9}},{t:this.NEXT,p:{x:273.5,y:291.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:618.5,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_239},{t:this.back,p:{x:172.5,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:253.15}},{t:this.NEXT,p:{x:273.5,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:619.75,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_240},{t:this.back,p:{x:171.25,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:255.65}}]},1).to({state:[{t:this.instance_241},{t:this.back,p:{x:172.5,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:254.4}},{t:this.NEXT,p:{x:273.5,y:294.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:621,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.UP,p:{x:273.5,y:254.4}}]},1).to({state:[{t:this.instance_243},{t:this.back,p:{x:172.5,y:298.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:258.15}},{t:this.NEXT,p:{x:273.5,y:298.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:624.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_242}]},1).to({state:[{t:this.instance_245},{t:this.back,p:{x:172.5,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:255.65}},{t:this.NEXT,p:{x:273.5,y:295.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_244}]},1).to({state:[{t:this.instance_247},{t:this.back,p:{x:172.5,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:253.15}},{t:this.instance_246}]},1).to({state:[{t:this.instance_249},{t:this.okay,p:{x:270.35,y:292.6}},{t:this.RIGHT,p:{x:319.85,y:292.6}},{t:this.UP,p:{x:270.35,y:251.3}},{t:this.okay2,p:{x:369.9,y:622.65}},{t:this.instance_10,p:{x:641.3,y:467.1,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_248}]},1).to({state:[{t:this.instance_251},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}},{t:this.NEXT,p:{x:219.75,y:340.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_250}]},1).to({state:[{t:this.instance_253},{t:this.back,p:{x:170,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:254.4}},{t:this.NEXT,p:{x:271,y:339.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_252}]},1).to({state:[{t:this.instance_255},{t:this.back,p:{x:170.7,y:292.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.7,y:252.8}},{t:this.NEXT,p:{x:271.7,y:337.65,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_254}]},1).to({state:[{t:this.instance_257},{t:this.back,p:{x:171.95,y:292.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.95,y:252.8}},{t:this.NEXT,p:{x:272.95,y:292.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:364.9,y:626.4,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_256}]},1).to({state:[{t:this.instance_259},{t:this.back,p:{x:172.2,y:289.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.2,y:249.65}},{t:this.NEXT,p:{x:123.2,y:383.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_258}]},1).to({state:[{t:this.instance_261},{t:this.back,p:{x:170.95,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:252.15}},{t:this.NEXT,p:{x:271.95,y:292.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:363.9,y:625.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_260}]},1).to({state:[{t:this.instance_263},{t:this.back,p:{x:169.7,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:252.15}},{t:this.NEXT,p:{x:186.95,y:570.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_262}]},1).to({state:[{t:this.instance_265},{t:this.back,p:{x:173.45,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.45,y:253.4}},{t:this.NEXT,p:{x:370.15,y:337,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_264}]},1).to({state:[{t:this.instance_267},{t:this.back,p:{x:173.45,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.45,y:253.4}},{t:this.NEXT,p:{x:274.45,y:293.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:366.4,y:627,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_266}]},1).to({state:[{t:this.instance_269},{t:this.back,p:{x:169.7,y:289.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:249.65}},{t:this.NEXT,p:{x:270.7,y:289.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:362.65,y:623.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_268}]},1).to({state:[{t:this.instance_271},{t:this.back,p:{x:169.7,y:295.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:255.9}},{t:this.NEXT,p:{x:270.7,y:295.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:370.15,y:624.5,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_270}]},1).to({state:[{t:this.instance_273},{t:this.back,p:{x:170.95,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:253.4}},{t:this.NEXT,p:{x:271.95,y:293.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.4,y:622,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_272}]},1).to({state:[{t:this.instance_275},{t:this.back,p:{x:169.7,y:294.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:254.65}},{t:this.NEXT,p:{x:270.7,y:294.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:370.15,y:623.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_274}]},1).to({state:[{t:this.instance_277},{t:this.back,p:{x:172.2,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.2,y:253.4}},{t:this.instance_276}]},1).to({state:[{t:this.instance_279},{t:this.okay,p:{x:271.55,y:292.6}},{t:this.RIGHT,p:{x:321.05,y:292.6}},{t:this.UP,p:{x:271.55,y:251.3}},{t:this.LEFT,p:{x:222.1,y:292.6}},{t:this.okay2,p:{x:368.65,y:628.9}},{t:this.instance_278}]},1).to({state:[{t:this.instance_281},{t:this.back,p:{x:172.2,y:290.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.2,y:250.9}},{t:this.NEXT,p:{x:323.2,y:339.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_280}]},1).to({state:[{t:this.instance_283},{t:this.back,p:{x:172.2,y:294.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.2,y:254.65}},{t:this.NEXT,p:{x:273.2,y:294.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.65,y:623.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_282}]},1).to({state:[{t:this.instance_285},{t:this.back,p:{x:170.95,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:252.15}},{t:this.NEXT,p:{x:271.95,y:292.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.4,y:620.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:271.95,y:331.45}},{t:this.instance_284,p:{x:626,y:97}}]},1).to({state:[{t:this.instance_286},{t:this.back,p:{x:172.2,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.2,y:252.15}},{t:this.NEXT,p:{x:273.2,y:292.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.65,y:620.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:273.2,y:331.45}},{t:this.UP,p:{x:270.7,y:250.9}},{t:this.instance_284,p:{x:619,y:97}}]},1).to({state:[{t:this.instance_287},{t:this.back,p:{x:170.95,y:293.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:254.05}},{t:this.NEXT,p:{x:271.95,y:293.95,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.4,y:622.65,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:271.95,y:333.35}},{t:this.UP,p:{x:269.45,y:252.8}},{t:this.instance_284,p:{x:626,y:114}}]},1).to({state:[{t:this.instance_288},{t:this.back,p:{x:169.7,y:293.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:254.05}},{t:this.NEXT,p:{x:270.7,y:293.95,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:370.15,y:622.65,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:270.7,y:333.35}},{t:this.UP,p:{x:268.2,y:252.8}},{t:this.instance_284,p:{x:622,y:97}}]},1).to({state:[{t:this.instance_289},{t:this.back,p:{x:170.95,y:293.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:254.05}},{t:this.NEXT,p:{x:271.95,y:293.95,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.4,y:622.65,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:271.95,y:333.35}},{t:this.UP,p:{x:269.45,y:252.8}},{t:this.instance_284,p:{x:624,y:97}}]},1).to({state:[{t:this.instance_290},{t:this.back,p:{x:170.95,y:292.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:252.8}},{t:this.NEXT,p:{x:271.95,y:292.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.4,y:621.4,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:271.95,y:332.1}},{t:this.UP,p:{x:269.45,y:251.55}},{t:this.instance_284,p:{x:621,y:97}}]},1).to({state:[{t:this.instance_292},{t:this.back,p:{x:169.7,y:291.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:251.55}},{t:this.COMPLEX},{t:this.instance_291}]},1).to({state:[{t:this.instance_294},{t:this.back,p:{x:174.1,y:289.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.1,y:249.65}},{t:this.NEXT1},{t:this.NEXT2,p:{x:368.65,y:622.65,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_293}]},1).to({state:[{t:this.instance_296},{t:this.back,p:{x:172.85,y:295.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.85,y:255.9}},{t:this.NEXT,p:{x:309.6,y:627,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_295}]},1).to({state:[{t:this.instance_298},{t:this.back,p:{x:172.85,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.85,y:252.15}},{t:this.NEXT,p:{x:309.6,y:623.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_297}]},1).to({state:[{t:this.instance_300},{t:this.back,p:{x:174.1,y:290.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.1,y:250.9}},{t:this.NEXT,p:{x:310.85,y:622,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_299}]},1).to({state:[{t:this.instance_302},{t:this.back,p:{x:172.85,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.85,y:253.4}},{t:this.NEXT,p:{x:309.6,y:624.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_301}]},1).to({state:[{t:this.instance_304},{t:this.back,p:{x:171.6,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.6,y:253.4}},{t:this.NEXT,p:{x:308.35,y:624.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_303}]},1).to({state:[{t:this.instance_306},{t:this.back,p:{x:171.6,y:294.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.6,y:254.65}},{t:this.NEXT,p:{x:308.35,y:625.75,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_305}]},1).to({state:[{t:this.instance_309},{t:this.okay,p:{x:272.8,y:292.65}},{t:this.UP,p:{x:272.8,y:251.35}},{t:this.LEFT,p:{x:223.35,y:292.65}},{t:this.okay2,p:{x:369.9,y:622.65}},{t:this.instance_308},{t:this.instance_307}]},1).to({state:[{t:this.instance_312},{t:this.back,p:{x:171.6,y:295.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.6,y:255.9}},{t:this.NEXT,p:{x:370.8,y:339.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_311},{t:this.instance_310}]},1).to({state:[{t:this.instance_314},{t:this.back,p:{x:172.85,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.85,y:253.4}},{t:this.NEXT2,p:{x:369.55,y:624.5,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:272.45,y:293.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_313}]},1).to({state:[{t:this.instance_316},{t:this.back,p:{x:171.55,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:253.4}},{t:this.NEXT2,p:{x:368.25,y:624.5,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:271.15,y:293.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_315}]},1).to({state:[{t:this.instance_318},{t:this.back,p:{x:172.8,y:290.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:250.9}},{t:this.NEXT,p:{x:186.15,y:571.95,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_317}]},1).to({state:[{t:this.instance_319},{t:this.back,p:{x:172.8,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:253.4}},{t:this.NEXT,p:{x:186.15,y:525.75,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_317}]},1).to({state:[{t:this.instance_321},{t:this.back,p:{x:172.8,y:290.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:250.9}},{t:this.NEXT2,p:{x:369.5,y:622,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:272.4,y:290.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_320}]},1).to({state:[{t:this.instance_323},{t:this.back,p:{x:171.55,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:252.15}},{t:this.NEXT,p:{x:370.75,y:338.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_322}]},1).to({state:[{t:this.instance_325},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT2,p:{x:369.5,y:623.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:272.4,y:292.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_324}]},1).to({state:[{t:this.instance_327},{t:this.back,p:{x:174.05,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.05,y:252.15}},{t:this.NEXT2,p:{x:370.75,y:623.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:273.65,y:292.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_326}]},1).to({state:[{t:this.instance_329},{t:this.back,p:{x:171.55,y:294.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:254.65}},{t:this.NEXT2,p:{x:368.25,y:625.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:271.15,y:294.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_328}]},1).to({state:[{t:this.instance_331},{t:this.back,p:{x:171.55,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:252.15}},{t:this.instance_330}]},1).to({state:[{t:this.instance_333},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.instance_332},{t:this.instance_150,p:{x:1104.7,y:248.85}}]},1).to({state:[{t:this.instance_336},{t:this.instance_335},{t:this.instance_334},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:172.8,y:426.3,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_337},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:182.4,y:575.35,scaleX:1.6623,scaleY:1.5948,regX:-0.6,regY:0.5}}]},1).to({state:[{t:this.instance_338},{t:this.back_1},{t:this.home_1},{t:this.NEXT,p:{x:371.15,y:424.5,scaleX:1.6623,scaleY:1.2235,regX:-0.5,regY:0.6}},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}}]},1).to({state:[{t:this.instance_339},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:304.2,y:577.25,scaleX:1.6623,scaleY:1.5948,regX:-0.6,regY:0.5}}]},1).to({state:[{t:this.instance_340},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:121.9,y:337.05,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}}]},1).to({state:[{t:this.instance_341},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:219.85,y:424.85,scaleX:1.1559,scaleY:1.1661,regX:0,regY:0}}]},1).to({state:[{t:this.instance_342},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:121.9,y:337.05,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}}]},1).to({state:[{t:this.instance_343},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:123.1,y:476.7,scaleX:1.4489,scaleY:1.4601,regX:-0.4,regY:0.7}}]},1).to({state:[{t:this.instance_344},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:367.75,y:526.2,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}}]},1).to({state:[{t:this.instance_345},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:121.95,y:475.25,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}}]},1).to({state:[{t:this.instance_346},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:371.15,y:426.55,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}}]},1).to({state:[{t:this.instance_347},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:272.6,y:292.65,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}},{t:this.NEXT2,p:{x:367.8,y:623.65,regX:-0.5,regY:0.5,scaleX:1.1462,scaleY:1.0058}}]},1).to({state:[{t:this.instance_348},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}}]},1).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.home,p:{regX:15.4,regY:15.4,x:194.55,y:301.8}}]}).to({state:[{t:this.instance},{t:this.okay,p:{x:270.9,y:292.6}},{t:this.RIGHT,p:{x:320.4,y:292.6}},{t:this.DOWN,p:{x:270.9,y:336.05}},{t:this.okay2,p:{x:371.15,y:623.9}}]},1).to({state:[{t:this.instance_1},{t:this.home,p:{regX:0,regY:0,x:169.8,y:254.15}},{t:this.Shift3},{t:this.settings},{t:this.Variable},{t:this.FUN},{t:this.cat},{t:this.trig,p:{regX:0,regY:0,x:152.4,y:406.1}},{t:this.xbutton},{t:this.FRACTION},{t:this.SURD},{t:this.INDEX,p:{x:270.65,y:382.55}},{t:this.INDEX2},{t:this.LOG},{t:this.ANS,p:{x:121.05,y:424.25}},{t:this.BRACKET},{t:this.TOOLS},{t:this.TIMESTEN},{t:this.FORMAT},{t:this.MINUS,p:{x:346.8,y:552.55}},{t:this.DIVIDE},{t:this.SUM},{t:this.MULTIPLY},{t:this.back,p:{x:171.1,y:291.45,regX:0,regY:0}}]},1).to({state:[{t:this.shape_1},{t:this.shape},{t:this.instance_2},{t:this.shift4},{t:this.home,p:{regX:0,regY:0,x:175.45,y:253.3}},{t:this.intrig},{t:this.ROOT2},{t:this.INDEX,p:{x:273.55,y:379.75}},{t:this.LOG_1},{t:this.MIXED},{t:this.ANS,p:{x:125.35,y:421.55}},{t:this.EQUALS},{t:this.COMMA},{t:this.MINUS_1},{t:this.NATURAL},{t:this.IMAGINARY},{t:this.PI},{t:this.DEGREE},{t:this.APPROX},{t:this.MINUS,p:{x:349.45,y:549.7}},{t:this.VARIABLE}]},1).to({state:[{t:this.instance_3},{t:this.down,p:{x:269.55,y:334}},{t:this.okay1},{t:this.back,p:{x:167.45,y:292.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:167.45,y:249.3}},{t:this.superup,p:{x:368.4,y:245.4}},{t:this.superdown,p:{x:368.4,y:291.65}},{t:this.okay,p:{x:368.4,y:619.7}}]},1).to({state:[{t:this.instance_4},{t:this.superup,p:{x:374.35,y:250.45}},{t:this.superdown,p:{x:374.35,y:294.15}},{t:this.up,p:{x:274.2,y:250.45}},{t:this.down,p:{x:274.2,y:333.95}},{t:this.home,p:{regX:0,regY:0,x:172.45,y:250.45}},{t:this.back,p:{x:172.45,y:294.15,regX:0,regY:0}}]},1).to({state:[{t:this.instance_5},{t:this.back,p:{x:168.2,y:292.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.2,y:248.75}},{t:this.superup,p:{x:370.6,y:244.85}},{t:this.superdown,p:{x:370.6,y:291.1}},{t:this.up,p:{x:272.75,y:248.75}},{t:this.down,p:{x:272.75,y:332.25}}]},1).to({state:[{t:this.instance_6},{t:this.back,p:{x:175.5,y:296.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.5,y:252.6}},{t:this.superup,p:{x:370.65,y:248.7}},{t:this.superdown,p:{x:370.65,y:294.95}},{t:this.up,p:{x:274.05,y:248.7}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_7},{t:this.back,p:{x:176.8,y:296.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:176.8,y:252.65}},{t:this.superup,p:{x:371.95,y:248.75}},{t:this.superdown,p:{x:371.95,y:295}},{t:this.down,p:{x:275.35,y:332.25}},{t:this.OK,p:{x:275.35,y:295}},{t:this.EXE,p:{x:371.95,y:626.85}}]},1).to({state:[{t:this.instance_10},{t:this.back,p:{x:173.85,y:294.85,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.85,y:251.2}},{t:this.superup,p:{x:369,y:247.3}},{t:this.superdown,p:{x:369,y:293.55}},{t:this.up,p:{x:272.4,y:247.3}},{t:this.down,p:{x:272.4,y:330.8}},{t:this.OK,p:{x:272.4,y:294.85}},{t:this.EXE,p:{x:369,y:623.45}},{t:this.instance_9,p:{x:1153.2,y:546.6,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_8}]},1).to({state:[{t:this.instance_13},{t:this.back,p:{x:172.7,y:293.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.7,y:250}},{t:this.superup,p:{x:367.85,y:246.1}},{t:this.superdown,p:{x:367.85,y:292.35}},{t:this.up,p:{x:271.25,y:246.1}},{t:this.DOWN,p:{x:271.25,y:329.6}},{t:this.OK,p:{x:271.25,y:292.35}},{t:this.EXE,p:{x:367.85,y:617.15}},{t:this.instance_12},{t:this.instance_9,p:{x:1141,y:538.5,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_11}]},1).to({state:[{t:this.instance_15},{t:this.back,p:{x:172.7,y:291.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.7,y:247.5}},{t:this.superup,p:{x:373.05,y:247.5}},{t:this.superdown,p:{x:367.85,y:289.85}},{t:this.UP,p:{x:271.25,y:243.6}},{t:this.DOWN,p:{x:271.25,y:327.1}},{t:this.OK,p:{x:271.25,y:289.85}},{t:this.EXE,p:{x:367.85,y:615.9}},{t:this.instance_9,p:{x:1135,y:530.25,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_14}]},1).to({state:[{t:this.instance_17},{t:this.back,p:{x:166.8,y:289.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:166.8,y:246.15}},{t:this.superup,p:{x:367.75,y:249.5}},{t:this.superdown,p:{x:367.75,y:295.75}},{t:this.up,p:{x:271.15,y:249.5}},{t:this.down,p:{x:271.15,y:333}},{t:this.OK,p:{x:271.15,y:295.75}},{t:this.EXE,p:{x:367.75,y:628.15}},{t:this.instance_9,p:{x:1147.6,y:518,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_16}]},1).to({state:[{t:this.instance_19},{t:this.back,p:{x:172.65,y:296.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.65,y:252.7}},{t:this.superup,p:{x:367.8,y:248.8}},{t:this.superdown,p:{x:367.8,y:295.05}},{t:this.up,p:{x:271.2,y:248.8}},{t:this.down,p:{x:271.2,y:332.3}},{t:this.instance_9,p:{x:1152.55,y:566,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_18}]},1).to({state:[{t:this.instance_21},{t:this.back,p:{x:172.65,y:296.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.65,y:252.6}},{t:this.superup,p:{x:367.8,y:248.7}},{t:this.superdown,p:{x:367.8,y:294.95}},{t:this.up,p:{x:271.2,y:248.7}},{t:this.down,p:{x:271.2,y:332.2}},{t:this.instance_9,p:{x:1143,y:534.05,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_20}]},1).to({state:[{t:this.instance_23},{t:this.back,p:{x:165.4,y:292.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:165.4,y:248.65}},{t:this.instance_9,p:{x:1079.75,y:600.45,scaleX:0.7442,scaleY:0.7441,regX:200,regY:200}},{t:this.instance_22}]},1).to({state:[{t:this.instance_25},{t:this.back,p:{x:170,y:292.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:248.85}},{t:this.instance_9,p:{x:1103.7,y:610.9,scaleX:0.5581,scaleY:0.5581,regX:200.1,regY:200}},{t:this.instance_24}]},1).to({state:[{t:this.instance_27},{t:this.back,p:{x:170.1,y:294.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.1,y:251.25}},{t:this.instance_9,p:{x:1158,y:599.1,scaleX:0.5581,scaleY:0.5581,regX:200.1,regY:200.1}},{t:this.instance_26}]},1).to({state:[{t:this.instance_29},{t:this.back,p:{x:171.2,y:294.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.2,y:250.9}},{t:this.instance_9,p:{x:1182.85,y:570.65,scaleX:0.7442,scaleY:0.7441,regX:200,regY:200}},{t:this.instance_28}]},1).to({state:[{t:this.instance_31},{t:this.back,p:{x:169.9,y:294.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.9,y:251.25}},{t:this.instance_9,p:{x:1155.3,y:559.65,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_30}]},1).to({state:[{t:this.instance_33},{t:this.back,p:{x:168.95,y:294.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.95,y:250.7}},{t:this.OK,p:{x:267.5,y:293.05}},{t:this.EXE,p:{x:364.1,y:625.45}},{t:this.instance_32}]},1).to({state:[{t:this.instance_34},{t:this.back,p:{x:168.25,y:294.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.25,y:250.7}}]},1).to({state:[{t:this.instance_35},{t:this.back,p:{x:167.05,y:295.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:167.05,y:252}},{t:this.NEXT,p:{x:265.6,y:334.15,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_36},{t:this.back,p:{x:170.9,y:296.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.9,y:253.25}},{t:this.NEXT,p:{x:269.45,y:335.4,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_37},{t:this.back,p:{x:172.3,y:295.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.3,y:251.45}},{t:this.NEXT,p:{x:270.85,y:295.1,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.25,y:619.9,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_38},{t:this.back,p:{x:167.85,y:293,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:167.85,y:249.35}},{t:this.NEXT,p:{x:118.75,y:382.9,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_39},{t:this.back,p:{x:173,y:291.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173,y:248.05}},{t:this.NEXT,p:{x:271.55,y:291.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:364.75,y:604.95,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_40},{t:this.home,p:{regX:0,regY:0,x:169.85,y:252.6}},{t:this.NEXT,p:{x:222.5,y:342.5,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_41},{t:this.back,p:{x:169.95,y:291.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.95,y:248.05}},{t:this.NEXT,p:{x:268.5,y:291.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:361.7,y:604.95,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_42},{t:this.back,p:{x:169.35,y:293.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.35,y:250}},{t:this.NEXT,p:{x:219.1,y:338.6,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_43},{t:this.back,p:{x:168.7,y:287.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.7,y:244.15}},{t:this.NEXT,p:{x:267.25,y:287.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:360.45,y:601.05,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_44},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:248.15}},{t:this.NEXT,p:{x:185.05,y:565.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_45},{t:this.back,p:{x:173.8,y:294.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.05,y:255.9}},{t:this.NEXT,p:{x:364.9,y:419,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_46},{t:this.back,p:{x:170.55,y:293.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.55,y:249.85}},{t:this.NEXT,p:{x:270.05,y:293.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.EXE,p:{x:368.75,y:622.4}}]},1).to({state:[{t:this.instance_48},{t:this.back,p:{x:171,y:289.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171,y:246.05}},{t:this.NEXT,p:{x:268.25,y:289.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:366.7,y:623.6,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_47}]},1).to({state:[{t:this.instance_49},{t:this.back,p:{x:170,y:292.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:249.3}}]},1).to({state:[{t:this.instance_50},{t:this.back,p:{x:172.3,y:298.6,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.3,y:254.95}},{t:this.superup,p:{x:367.45,y:251.05}},{t:this.superdown,p:{x:367.45,y:297.3}},{t:this.down,p:{x:270.85,y:334.55}},{t:this.OK,p:{x:270.85,y:297.3}},{t:this.EXE,p:{x:366.15,y:620.6}}]},1).to({state:[{t:this.instance_51},{t:this.back,p:{x:170.5,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.5,y:248.8}},{t:this.superup,p:{x:365.65,y:244.9}},{t:this.superdown,p:{x:365.65,y:291.15}},{t:this.up,p:{x:269.05,y:244.9}},{t:this.down,p:{x:269.05,y:328.4}},{t:this.OK,p:{x:269.05,y:291.15}},{t:this.EXE,p:{x:366.95,y:622.3}}]},1).to({state:[{t:this.instance_52},{t:this.back,p:{x:170.85,y:292.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.85,y:248.85}},{t:this.superup,p:{x:366,y:244.95}},{t:this.superdown,p:{x:366,y:291.2}},{t:this.up,p:{x:269.4,y:244.95}},{t:this.down,p:{x:269.4,y:328.45}},{t:this.OK,p:{x:269.4,y:291.2}},{t:this.EXE,p:{x:369.5,y:620.9}}]},1).to({state:[{t:this.instance_53},{t:this.back,p:{x:169.6,y:291.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.6,y:247.5}},{t:this.superup,p:{x:364.75,y:243.6}},{t:this.superdown,p:{x:364.75,y:289.85}},{t:this.up,p:{x:268.15,y:243.6}},{t:this.down,p:{x:268.15,y:327.1}},{t:this.OK,p:{x:268.15,y:289.85}},{t:this.EXE,p:{x:366.2,y:623.9}}]},1).to({state:[{t:this.instance_54},{t:this.back,p:{x:173.6,y:291.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.6,y:247.55}},{t:this.superup,p:{x:368.75,y:243.65}},{t:this.superdown,p:{x:368.75,y:289.9}},{t:this.up,p:{x:272.15,y:243.65}},{t:this.down,p:{x:272.15,y:327.15}},{t:this.OK,p:{x:272.15,y:289.9}},{t:this.EXE,p:{x:371.35,y:621.7}}]},1).to({state:[{t:this.instance_55},{t:this.back,p:{x:169.55,y:293.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.55,y:250.15}},{t:this.superup,p:{x:364.7,y:246.25}},{t:this.superdown,p:{x:364.7,y:292.5}},{t:this.up,p:{x:268.1,y:246.25}},{t:this.OK,p:{x:268.1,y:292.5}},{t:this.EXE,p:{x:364.7,y:622.9}}]},1).to({state:[{t:this.instance_56},{t:this.back,p:{x:172.15,y:291.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:247.55}},{t:this.superup,p:{x:367.3,y:243.65}},{t:this.superdown,p:{x:367.3,y:289.9}},{t:this.up,p:{x:270.7,y:243.65}},{t:this.down,p:{x:270.7,y:327.15}},{t:this.OK,p:{x:270.7,y:289.9}},{t:this.EXE,p:{x:367,y:623.15}}]},1).to({state:[{t:this.back,p:{x:172.6,y:293.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.6,y:249.5}},{t:this.superup,p:{x:367.75,y:245.6}},{t:this.superdown,p:{x:367.75,y:291.85}},{t:this.up,p:{x:271.15,y:245.6}},{t:this.down,p:{x:271.15,y:329.1}},{t:this.OK,p:{x:271.15,y:291.85}},{t:this.EXE,p:{x:365.25,y:622.9}},{t:this.instance_57}]},1).to({state:[{t:this.instance_58},{t:this.back,p:{x:172.45,y:292.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.45,y:249.1}},{t:this.superup,p:{x:367.6,y:245.2}},{t:this.superdown,p:{x:367.6,y:291.45}},{t:this.up,p:{x:271,y:245.2}},{t:this.down,p:{x:271,y:328.7}},{t:this.OK,p:{x:271,y:291.45}},{t:this.EXE,p:{x:367.3,y:623.25}}]},1).to({state:[{t:this.instance_59},{t:this.back,p:{x:172.4,y:294.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.4,y:250.55}},{t:this.superup,p:{x:367.55,y:246.65}},{t:this.superdown,p:{x:367.55,y:292.9}},{t:this.up,p:{x:270.95,y:246.65}},{t:this.down,p:{x:270.95,y:330.15}},{t:this.OK,p:{x:270.95,y:292.9}},{t:this.EXE,p:{x:365.8,y:620.35}}]},1).to({state:[{t:this.instance_60},{t:this.back,p:{x:172.8,y:298.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:254.5}},{t:this.superup,p:{x:367.95,y:250.6}},{t:this.superdown,p:{x:367.95,y:296.85}},{t:this.up,p:{x:271.35,y:250.6}},{t:this.OK,p:{x:271.35,y:296.85}},{t:this.EXE,p:{x:368.05,y:620.95}}]},1).to({state:[{t:this.instance_61},{t:this.back,p:{x:172.75,y:295.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.75,y:251.7}},{t:this.OK,p:{x:271.3,y:294.05}},{t:this.EXE,p:{x:368,y:622.05}}]},1).to({state:[{t:this.instance_62},{t:this.back,p:{x:171.05,y:292.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.05,y:248.85}}]},1).to({state:[{t:this.instance_63},{t:this.back,p:{x:169.5,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.5,y:248.8}},{t:this.OK,p:{x:268.05,y:291.15}},{t:this.EXE,p:{x:367.95,y:620.9}}]},1).to({state:[{t:this.instance_64},{t:this.back,p:{x:169.75,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.75,y:248.8}}]},1).to({state:[{t:this.instance_65},{t:this.back,p:{x:172.3,y:296.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.3,y:252.85}},{t:this.OK,p:{x:270.85,y:295.2}},{t:this.EXE,p:{x:366.7,y:622.9}}]},1).to({state:[{t:this.instance_66},{t:this.back,p:{x:169.55,y:291.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.55,y:247.5}}]},1).to({state:[{t:this.instance_67},{t:this.back,p:{x:172.6,y:292.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.6,y:248.85}},{t:this.superup,p:{x:367.75,y:244.95}},{t:this.superdown,p:{x:367.75,y:291.2}},{t:this.up,p:{x:271.15,y:244.95}},{t:this.down,p:{x:271.15,y:328.45}},{t:this.OK,p:{x:271.15,y:291.2}},{t:this.EXE,p:{x:365.25,y:622.55}}]},1).to({state:[{t:this.instance_68},{t:this.back,p:{x:171,y:295.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171,y:251.7}},{t:this.superup,p:{x:366.15,y:247.8}},{t:this.superdown,p:{x:366.15,y:294.05}},{t:this.up,p:{x:269.55,y:247.8}},{t:this.down,p:{x:269.55,y:331.3}},{t:this.OK,p:{x:269.55,y:294.05}},{t:this.EXE,p:{x:366.55,y:622.35}}]},1).to({state:[{t:this.instance_69},{t:this.back,p:{x:172,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172,y:250.1}},{t:this.superup,p:{x:367.15,y:246.2}},{t:this.superdown,p:{x:367.15,y:292.45}},{t:this.up,p:{x:270.55,y:246.2}},{t:this.down,p:{x:270.55,y:329.7}},{t:this.OK,p:{x:270.55,y:292.45}},{t:this.EXE,p:{x:366.1,y:621.55}}]},1).to({state:[{t:this.instance_70},{t:this.back,p:{x:172.05,y:292.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.05,y:248.9}},{t:this.superup,p:{x:367.2,y:245}},{t:this.superdown,p:{x:367.2,y:291.25}},{t:this.up,p:{x:270.6,y:245}},{t:this.down,p:{x:270.6,y:328.5}},{t:this.OK,p:{x:270.6,y:291.25}},{t:this.EXE,p:{x:364.8,y:620.3}}]},1).to({state:[{t:this.instance_71},{t:this.back,p:{x:174.85,y:292.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:248.75}},{t:this.superup,p:{x:370,y:244.85}},{t:this.superdown,p:{x:370,y:291.1}},{t:this.up,p:{x:273.4,y:244.85}},{t:this.down,p:{x:273.4,y:328.35}},{t:this.OK,p:{x:273.4,y:291.1}},{t:this.EXE,p:{x:366.25,y:621.55}}]},1).to({state:[{t:this.instance_72},{t:this.back,p:{x:172.05,y:295,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.05,y:251.35}},{t:this.superup,p:{x:367.2,y:247.45}},{t:this.superdown,p:{x:367.2,y:293.7}},{t:this.up,p:{x:270.6,y:247.45}},{t:this.down,p:{x:270.6,y:330.95}},{t:this.OK,p:{x:270.6,y:293.7}},{t:this.EXE,p:{x:367.65,y:621.6}}]},1).to({state:[{t:this.instance_73},{t:this.back,p:{x:173.45,y:297.85,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.45,y:254.2}},{t:this.OK,p:{x:272,y:296.55}},{t:this.EXE,p:{x:364.9,y:621.55}}]},1).to({state:[{t:this.instance_74},{t:this.back,p:{x:172.15,y:293.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:250.15}}]},1).to({state:[{t:this.instance_75},{t:this.back,p:{x:170.75,y:288.6,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.05,y:252.75}},{t:this.example1,p:{regX:351.2,regY:55.2,x:823.45,y:359.55}},{t:this.example2,p:{regX:346.7,regY:55.2,x:818.95,y:469.95}},{t:this.example3}]},1).to({state:[{t:this.instance_77},{t:this.back,p:{x:169.4,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.4,y:250.1}},{t:this.instance_76}]},1).to({state:[{t:this.instance_78},{t:this.back,p:{x:170.85,y:296.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.85,y:252.65}}]},1).to({state:[{t:this.instance_79},{t:this.back,p:{x:170.7,y:296.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.7,y:252.75}}]},1).to({state:[{t:this.instance_80},{t:this.back,p:{x:174.85,y:295.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:251.4}},{t:this.example1_1},{t:this.example2_1}]},1).to({state:[{t:this.instance_81},{t:this.back,p:{x:170.75,y:295.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.75,y:251.45}}]},1).to({state:[{t:this.instance_82},{t:this.back,p:{x:169.35,y:293.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.35,y:250.15}}]},1).to({state:[{t:this.instance_83},{t:this.back,p:{x:174.9,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.9,y:250.1}},{t:this.superup,p:{x:370.05,y:246.2}},{t:this.superdown,p:{x:370.05,y:292.45}},{t:this.up,p:{x:273.45,y:246.2}},{t:this.down,p:{x:273.45,y:329.7}},{t:this.OK,p:{x:273.45,y:292.45}},{t:this.EXE,p:{x:366.45,y:620.35}}]},1).to({state:[{t:this.instance_84},{t:this.back,p:{x:174.85,y:292.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:248.85}},{t:this.superup,p:{x:370,y:244.95}},{t:this.superdown,p:{x:370,y:291.2}},{t:this.up,p:{x:273.4,y:244.95}},{t:this.down,p:{x:273.4,y:328.45}},{t:this.OK,p:{x:273.4,y:291.2}},{t:this.EXE,p:{x:365.05,y:621.8}}]},1).to({state:[{t:this.instance_85},{t:this.back,p:{x:173.55,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.55,y:250.1}},{t:this.superup,p:{x:368.7,y:246.2}},{t:this.superdown,p:{x:368.7,y:292.45}},{t:this.up,p:{x:272.1,y:246.2}},{t:this.down,p:{x:272.1,y:329.7}},{t:this.OK,p:{x:272.1,y:292.45}},{t:this.EXE,p:{x:366.45,y:621.7}}]},1).to({state:[{t:this.instance_86},{t:this.back,p:{x:173.6,y:297.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.6,y:254}},{t:this.superup,p:{x:368.75,y:250.1}},{t:this.superdown,p:{x:368.75,y:296.35}},{t:this.up,p:{x:272.15,y:250.1}},{t:this.down,p:{x:272.15,y:333.6}},{t:this.OK,p:{x:272.15,y:296.35}},{t:this.EXE,p:{x:366.5,y:620.2}}]},1).to({state:[{t:this.instance_87},{t:this.back,p:{x:172.1,y:295.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.1,y:251.45}},{t:this.superup,p:{x:367.25,y:247.55}},{t:this.superdown,p:{x:367.25,y:293.8}},{t:this.up,p:{x:270.65,y:247.55}},{t:this.down,p:{x:270.65,y:331.05}},{t:this.OK,p:{x:270.65,y:293.8}},{t:this.EXE,p:{x:367.7,y:621.7}}]},1).to({state:[{t:this.instance_88},{t:this.back,p:{x:177.15,y:289.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:177.15,y:246.25}},{t:this.EXE,p:{x:368.7,y:621.9}},{t:this.OK,p:{x:274.7,y:289.9}}]},1).to({state:[{t:this.instance_89},{t:this.back,p:{x:174.85,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:250.1}}]},1).to({state:[{t:this.instance_90},{t:this.back,p:{x:175.85,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.85,y:248.8}},{t:this.OK,p:{x:274.4,y:291.15}},{t:this.EXE,p:{x:368.75,y:621.75}}]},1).to({state:[{t:this.instance_91},{t:this.back,p:{x:174.85,y:295.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:251.4}}]},1).to({state:[{t:this.instance_92},{t:this.back,p:{x:176.15,y:291.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:176.15,y:247.5}},{t:this.OK,p:{x:274.7,y:289.85}},{t:this.EXE,p:{x:366.35,y:620.45}}]},1).to({state:[{t:this.instance_93},{t:this.back,p:{x:174.9,y:295.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.9,y:251.4}}]},1).to({state:[{t:this.instance_94},{t:this.back,p:{x:169.4,y:293.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.4,y:250.15}},{t:this.NEXT,p:{x:220.7,y:295.6,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_95},{t:this.back,p:{x:174.85,y:301.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:257.5}},{t:this.NEXT,p:{x:128.6,y:476.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_96},{t:this.back,p:{x:174.9,y:295.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.9,y:252.3}},{t:this.NEXT,p:{x:192.8,y:613.6,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_97},{t:this.back,p:{x:171.85,y:293.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.85,y:249.55}},{t:this.NEXT,p:{x:314.3,y:293.2,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.back,p:{x:170.8,y:294.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.8,y:251.05}},{t:this.NEXT,p:{x:250.35,y:514.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_98},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_99},{t:this.back,p:{x:172,y:294.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172,y:251.1}},{t:this.NEXT,p:{x:127,y:617.55,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_100},{t:this.back,p:{x:170.8,y:297.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.8,y:253.7}},{t:this.NEXT,p:{x:245.2,y:522.6,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_101},{t:this.back,p:{x:169.3,y:294.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.3,y:251.05}},{t:this.NEXT,p:{x:269.7,y:294.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:367.9,y:622.4,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_102},{t:this.back,p:{x:168.85,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.85,y:251.9}}]},1).to({state:[{t:this.instance_103},{t:this.back,p:{x:172.15,y:290.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:246.7}}]},1).to({state:[{t:this.instance_104},{t:this.back,p:{x:169.35,y:293.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.7,y:254.1}},{t:this.superup,p:{x:371.25,y:247.5}},{t:this.superdown,p:{x:371.25,y:293.75}},{t:this.up,p:{x:274.65,y:247.5}},{t:this.down,p:{x:274.65,y:331}},{t:this.OK,p:{x:274.65,y:293.75}},{t:this.EXE,p:{x:366.3,y:620.3}}]},1).to({state:[{t:this.instance_105},{t:this.back,p:{x:169.45,y:296.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.45,y:252.7}},{t:this.superup,p:{x:368.65,y:247.45}},{t:this.superdown,p:{x:368.65,y:293.7}},{t:this.up,p:{x:268,y:248.8}},{t:this.down,p:{x:268,y:332.3}},{t:this.OK,p:{x:268,y:295.05}},{t:this.EXE,p:{x:374.5,y:618.9}}]},1).to({state:[{t:this.instance_106},{t:this.back,p:{x:173.5,y:296.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.5,y:252.55}},{t:this.superup,p:{x:368.65,y:248.65}},{t:this.superdown,p:{x:368.65,y:294.9}},{t:this.up,p:{x:272.05,y:248.65}},{t:this.down,p:{x:272.05,y:332.15}},{t:this.OK,p:{x:272.05,y:294.9}},{t:this.EXE,p:{x:369.1,y:620.1}}]},1).to({state:[{t:this.instance_107},{t:this.back,p:{x:173.55,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.55,y:248.8}},{t:this.superup,p:{x:368.7,y:244.9}},{t:this.superdown,p:{x:368.7,y:291.15}},{t:this.up,p:{x:272.1,y:244.9}},{t:this.down,p:{x:272.1,y:328.4}},{t:this.OK,p:{x:272.1,y:291.15}},{t:this.EXE,p:{x:369.15,y:620.4}}]},1).to({state:[{t:this.instance_108},{t:this.back,p:{x:174.9,y:293.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.9,y:250.1}},{t:this.superup,p:{x:370.05,y:246.2}},{t:this.superdown,p:{x:370.05,y:292.45}},{t:this.up,p:{x:273.45,y:246.2}},{t:this.down,p:{x:273.45,y:329.7}},{t:this.OK,p:{x:273.45,y:292.45}},{t:this.EXE,p:{x:367.8,y:619}}]},1).to({state:[{t:this.instance_109},{t:this.back,p:{x:174.85,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:248.8}},{t:this.superup,p:{x:370,y:244.9}},{t:this.superdown,p:{x:370,y:291.15}},{t:this.up,p:{x:273.4,y:244.9}},{t:this.down,p:{x:273.4,y:328.4}},{t:this.OK,p:{x:273.4,y:291.15}},{t:this.EXE,p:{x:366.4,y:619.05}}]},1).to({state:[{t:this.instance_111},{t:this.back,p:{x:171.95,y:295.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.95,y:251.85}},{t:this.instance_110}]},1).to({state:[{t:this.instance_113},{t:this.back,p:{x:170.65,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.65,y:250.65}},{t:this.instance_112}]},1).to({state:[{t:this.instance_114},{t:this.back,p:{x:173.35,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.35,y:251.9}}]},1).to({state:[{t:this.instance_115},{t:this.back,p:{x:170.85,y:298.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.85,y:254.45}}]},1).to({state:[{t:this.instance_116},{t:this.back,p:{x:170.9,y:299.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.9,y:255.75}}]},1).to({state:[{t:this.instance_117},{t:this.back,p:{x:172.15,y:296.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:253.05}},{t:this.example1,p:{regX:0,regY:0,x:453.55,y:409.15}},{t:this.example2,p:{regX:0,regY:0,x:468,y:519.55}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_118},{t:this.back,p:{x:173.55,y:299.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.55,y:255.75}},{t:this.NEXT,p:{x:305.8,y:620.95,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_119},{t:this.back,p:{x:170.35,y:297.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.35,y:253.85}},{t:this.NEXT,p:{x:267.95,y:297.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.2,y:619.65,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_120},{t:this.back,p:{x:172.15,y:299.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:255.75}}]},1).to({state:[{t:this.instance_121},{t:this.back,p:{x:173.6,y:300.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.6,y:257}}]},1).to({state:[{t:this.instance_122},{t:this.trig,p:{regX:70,regY:18.6,x:220.25,y:426.1}},{t:this.back,p:{x:174.2,y:294.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.2,y:250.75}},{t:this.OK,p:{x:272.75,y:293.1}},{t:this.EXE,p:{x:364.4,y:619.65}}]},1).to({state:[{t:this.shape_2},{t:this.back,p:{x:174.2,y:294.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.2,y:250.75}},{t:this.MOVE}]},1).to({state:[{t:this.instance_125},{t:this.back,p:{x:170,y:295.5,regX:-0.6,regY:0.4}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:254.55}},{t:this.instance_124},{t:this.instance_123}]},1).to({state:[{t:this.instance_126},{t:this.back,p:{x:174.2,y:294.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.2,y:250.7}},{t:this.NEXT,p:{x:736.55,y:531.95,scaleX:16.2342,scaleY:7.6624,regX:0,regY:0}}]},1).to({state:[{t:this.instance_127},{t:this.back,p:{x:172.9,y:298.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.9,y:254.65}}]},1).to({state:[{t:this.instance_129},{t:this.back,p:{x:175.5,y:293.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.5,y:249.45}},{t:this.instance_128},{t:this.instance_9,p:{x:1099.2,y:393.3,scaleX:1,scaleY:1,regX:134.3,regY:135.3}}]},1).to({state:[{t:this.instance_130},{t:this.back,p:{x:171.8,y:295.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.8,y:252}},{t:this.down,p:{x:268.65,y:334.05}}]},1).to({state:[{t:this.instance_131},{t:this.back,p:{x:172.85,y:295.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.85,y:252}},{t:this.OK,p:{x:271.4,y:294.35}},{t:this.EXE,p:{x:368.45,y:620.9}},{t:this.up,p:{x:271.4,y:252}}]},1).to({state:[{t:this.instance_132},{t:this.back,p:{x:173.2,y:295.6,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.2,y:251.95}},{t:this.OK,p:{x:271.75,y:294.3}},{t:this.EXE,p:{x:367.45,y:620.85}}]},1).to({state:[{t:this.instance_133},{t:this.back,p:{x:171.65,y:296.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.65,y:253.3}}]},1).to({state:[{t:this.instance_135},{t:this.back,p:{x:172.8,y:294.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:250.4}},{t:this.instance_134,p:{scaleX:0.7407,scaleY:0.7406,x:764.9,y:558.85}}]},1).to({state:[{t:this.instance_137},{t:this.back,p:{x:171.55,y:294.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:250.55}},{t:this.instance_136}]},1).to({state:[{t:this.instance_138},{t:this.back,p:{x:171.8,y:296.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.8,y:253.25}},{t:this.example1,p:{regX:0,regY:0,x:427.1,y:124.65}},{t:this.example2_2},{t:this.example3_1},{t:this.example4},{t:this.example5}]},1).to({state:[{t:this.instance_139},{t:this.back,p:{x:171.35,y:296.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.35,y:253.3}}]},1).to({state:[{t:this.instance_140},{t:this.back,p:{x:172.65,y:296.85,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.65,y:253.2}}]},1).to({state:[{t:this.instance_141},{t:this.back,p:{x:171.8,y:299.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.8,y:255.7}}]},1).to({state:[{t:this.instance_142},{t:this.back,p:{x:171.5,y:294.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.5,y:250.45}}]},1).to({state:[{t:this.instance_143},{t:this.back,p:{x:172.7,y:299.5,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.7,y:255.85}}]},1).to({state:[{t:this.instance_144},{t:this.back,p:{x:170.2,y:296.85,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.2,y:253.2}},{t:this.OK,p:{x:268.75,y:295.55}},{t:this.EXE,p:{x:365.8,y:620.75}}]},1).to({state:[{t:this.instance_145},{t:this.back,p:{x:172.9,y:296.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.9,y:253.15}}]},1).to({state:[{t:this.instance_147},{t:this.back,p:{x:173,y:298.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173,y:254.6}},{t:this.OK,p:{x:271.55,y:296.95}},{t:this.EXE,p:{x:368.6,y:622.15}},{t:this.instance_146}]},1).to({state:[{t:this.instance_149},{t:this.back,p:{x:173,y:295.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173,y:251.8}},{t:this.instance_148}]},1).to({state:[{t:this.instance_151},{t:this.back,p:{x:175.5,y:295.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.5,y:252.05}},{t:this.instance_150,p:{x:1157.55,y:468.55}}]},1).to({state:[{t:this.instance_153},{t:this.back,p:{x:171.5,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.5,y:251.9}},{t:this.instance_152},{t:this.ERROR,p:{regX:0.2,scaleX:7.1012,x:724.15,y:418.55}}]},1).to({state:[{t:this.instance_155},{t:this.back,p:{x:173.2,y:298.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.2,y:254.5}},{t:this.instance_154,p:{x:1072,y:490.35}}]},1).to({state:[{t:this.instance_156},{t:this.back,p:{x:170.2,y:298.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.2,y:254.5}},{t:this.instance_150,p:{x:1155.9,y:481.25}},{t:this.ERROR,p:{regX:-0.5,scaleX:1.0085,x:272.2,y:293.45}},{t:this.ERROR2}]},1).to({state:[{t:this.instance_158},{t:this.back,p:{x:173.05,y:295.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.05,y:251.8}},{t:this.NEXT,p:{x:307.45,y:622.65,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_157}]},1).to({state:[{t:this.instance_159},{t:this.back,p:{x:170.65,y:292.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.65,y:249.3}},{t:this.instance_154,p:{x:1123.55,y:510.55}}]},1).to({state:[{t:this.instance_160},{t:this.back,p:{x:171.65,y:298.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.65,y:254.55}}]},1).to({state:[{t:this.instance_161},{t:this.back,p:{x:170.15,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.15,y:249.4}},{t:this.instance_154,p:{x:1105.85,y:459}}]},1).to({state:[{t:this.instance_163},{t:this.back,p:{x:170.2,y:296.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.2,y:253.15}},{t:this.instance_162,p:{regX:900,regY:1050,x:993.05,y:421.4}}]},1).to({state:[{t:this.instance_165},{t:this.back,p:{x:170.25,y:295.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.25,y:252}},{t:this.instance_164}]},1).to({state:[{t:this.instance_166},{t:this.back,p:{x:171.55,y:294.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:250.4}},{t:this.instance_162,p:{regX:1002,regY:1140,x:1060.95,y:478}}]},1).to({state:[{t:this.instance_167},{t:this.back,p:{x:171.55,y:298.1,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:254.45}},{t:this.instance_162,p:{regX:1002,regY:1140,x:1139.35,y:473.7}}]},1).to({state:[{t:this.instance_168},{t:this.back,p:{x:172.4,y:293.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.4,y:249.75}},{t:this.superup,p:{x:367.55,y:245.85}},{t:this.superdown,p:{x:367.55,y:292.1}},{t:this.up,p:{x:270.95,y:245.85}},{t:this.down,p:{x:270.95,y:329.35}},{t:this.OK,p:{x:270.95,y:292.1}},{t:this.EXE,p:{x:366.65,y:621.35}},{t:this.prime}]},1).to({state:[{t:this.instance_169},{t:this.back,p:{x:172.55,y:294.9,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.55,y:251.25}},{t:this.superup,p:{x:367.7,y:247.35}},{t:this.superdown,p:{x:367.7,y:293.6}},{t:this.up,p:{x:271.1,y:247.35}},{t:this.down,p:{x:271.1,y:330.85}},{t:this.OK,p:{x:271.1,y:293.6}},{t:this.EXE,p:{x:368.15,y:620.15}},{t:this.prime}]},1).to({state:[{t:this.instance_170},{t:this.back,p:{x:171.2,y:294.85,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.2,y:251.2}},{t:this.superup,p:{x:366.35,y:247.3}},{t:this.superdown,p:{x:366.35,y:293.55}},{t:this.up,p:{x:269.75,y:247.3}},{t:this.down,p:{x:269.75,y:330.8}},{t:this.OK,p:{x:269.75,y:293.55}},{t:this.EXE,p:{x:361.4,y:620.1}},{t:this.prime}]},1).to({state:[{t:this.instance_171},{t:this.back,p:{x:175.15,y:296.15,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.15,y:252.5}},{t:this.superup,p:{x:370.3,y:248.6}},{t:this.superdown,p:{x:370.3,y:294.85}},{t:this.up,p:{x:273.7,y:248.6}},{t:this.down,p:{x:273.7,y:332.1}},{t:this.OK,p:{x:273.7,y:294.85}},{t:this.EXE,p:{x:366.7,y:620.05}},{t:this.prime}]},1).to({state:[{t:this.instance_172},{t:this.back,p:{x:173.7,y:296.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.7,y:252.55}},{t:this.superup,p:{x:368.85,y:248.65}},{t:this.superdown,p:{x:368.85,y:294.9}},{t:this.up,p:{x:272.25,y:248.65}},{t:this.down,p:{x:272.25,y:332.15}},{t:this.OK,p:{x:272.25,y:294.9}},{t:this.EXE,p:{x:363.9,y:620.1}},{t:this.prime}]},1).to({state:[{t:this.instance_173},{t:this.back,p:{x:175.3,y:296.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175.3,y:252.65}},{t:this.superup,p:{x:370.45,y:248.75}},{t:this.superdown,p:{x:370.45,y:295}},{t:this.up,p:{x:273.85,y:248.75}},{t:this.down,p:{x:273.85,y:332.25}},{t:this.OK,p:{x:273.85,y:295}},{t:this.EXE,p:{x:362.8,y:620.2}},{t:this.prime}]},1).to({state:[{t:this.instance_174},{t:this.back,p:{x:176.65,y:297.6,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:176.65,y:253.95}},{t:this.superup,p:{x:371.8,y:250.05}},{t:this.superdown,p:{x:371.8,y:296.3}},{t:this.up,p:{x:275.2,y:250.05}},{t:this.down,p:{x:275.2,y:333.55}},{t:this.OK,p:{x:275.2,y:296.3}},{t:this.EXE,p:{x:366.85,y:620.15}},{t:this.prime}]},1).to({state:[{t:this.instance_175},{t:this.back,p:{x:174.55,y:296.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.55,y:253.1}}]},1).to({state:[{t:this.instance_176},{t:this.back,p:{x:172.25,y:299.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.25,y:255.75}},{t:this.instance_162,p:{regX:1002,regY:1140,x:1090.35,y:510.85}}]},1).to({state:[{t:this.instance_177},{t:this.back,p:{x:172.1,y:295.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.1,y:251.55}}]},1).to({state:[{t:this.instance_178},{t:this.back,p:{x:172.65,y:299.4,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.65,y:255.75}}]},1).to({state:[{t:this.instance_179},{t:this.back,p:{x:172.15,y:292.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:249.1}},{t:this.instance_134,p:{scaleX:0.5305,scaleY:0.5304,x:1115.8,y:642.3}}]},1).to({state:[{t:this.instance_181},{t:this.back,p:{x:174.85,y:291.65,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.85,y:248}},{t:this.right,p:{x:318.2,y:296.35}},{t:this.instance_180}]},1).to({state:[{t:this.instance_183},{t:this.back,p:{x:173.1,y:297.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.1,y:254.3}},{t:this.left,p:{x:225.2,y:295.25}},{t:this.right,p:{x:313.5,y:295}},{t:this.instance_182}]},1).to({state:[{t:this.instance_185},{t:this.back,p:{x:173.5,y:296.75,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.5,y:253.1}},{t:this.left,p:{x:224.4,y:297.2}},{t:this.right,p:{x:312.7,y:296.95}},{t:this.instance_184}]},1).to({state:[{t:this.instance_187},{t:this.back,p:{x:170.9,y:294.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.9,y:250.4}},{t:this.left,p:{x:221.7,y:294.5}},{t:this.instance_186}]},1).to({state:[{t:this.instance_188},{t:this.back,p:{x:172.15,y:296.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.15,y:252.9}},{t:this.instance_150,p:{x:1123.8,y:523.3}}]},1).to({state:[{t:this.instance_189},{t:this.back,p:{x:172.05,y:294.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.05,y:250.6}}]},1).to({state:[{t:this.instance_190},{t:this.back,p:{x:172.45,y:294.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.45,y:250.55}}]},1).to({state:[{t:this.instance_191},{t:this.NEXT,p:{x:271.6,y:292.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.RIGHT,p:{x:321.1,y:292.55}},{t:this.DOWN,p:{x:271.6,y:336}},{t:this.LEFT,p:{x:222.15,y:292.55}},{t:this.NEXT2,p:{x:367.15,y:624.15,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_192},{t:this.back,p:{x:171.2,y:293.35,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.2,y:253.45}},{t:this.NEXT,p:{x:270.95,y:293.35,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.DOWN,p:{x:270.95,y:336.8}},{t:this.NEXT2,p:{x:366.5,y:624.95,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_194},{t:this.back,p:{x:172.3,y:295,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.3,y:255.1}},{t:this.NEXT,p:{x:372,y:338.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_193}]},1).to({state:[{t:this.instance_196},{t:this.back,p:{x:171.3,y:293.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.3,y:253.55}},{t:this.NEXT,p:{x:271.05,y:336.9,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_195}]},1).to({state:[{t:this.instance_198},{t:this.back,p:{x:169.05,y:293.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.05,y:253.55}},{t:this.NEXT,p:{x:275.05,y:293.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:368.9,y:620.15,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_197}]},1).to({state:[{t:this.instance_200},{t:this.back,p:{x:168.75,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.75,y:254.4}},{t:this.NEXT,p:{x:274.75,y:294.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:368.6,y:621,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_199}]},1).to({state:[{t:this.instance_203},{t:this.back,p:{x:171.25,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:253.15}},{t:this.NEXT,p:{x:247.25,y:575.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_202},{t:this.instance_201}]},1).to({state:[{t:this.instance_204},{t:this.back,p:{x:171.25,y:296.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:256.9}},{t:this.NEXT,p:{x:271,y:249.3,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_205},{t:this.back,p:{x:172.5,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:254.4}},{t:this.NEXT,p:{x:321,y:294.3,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_206},{t:this.back,p:{x:170,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:255.65}},{t:this.NEXT,p:{x:188.5,y:524.25,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_207},{t:this.back,p:{x:168.75,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.75,y:254.4}},{t:this.NEXT,p:{x:271,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:368.6,y:621,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_208},{t:this.back,p:{x:171.25,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:255.65}},{t:this.NEXT,p:{x:273.5,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:272.25,y:335.2}}]},1).to({state:[{t:this.instance_209},{t:this.back,p:{x:170,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:255.65}},{t:this.NEXT,p:{x:272.25,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.85,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.UP,p:{x:271,y:250.65}}]},1).to({state:[{t:this.instance_210},{t:this.back,p:{x:170.05,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.05,y:254.4}},{t:this.NEXT,p:{x:271.05,y:336.75,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_211},{t:this.back,p:{x:170,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:255.65}}]},1).to({state:[{t:this.instance_212},{t:this.back,p:{x:171.25,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:254.4}},{t:this.NEXT,p:{x:321,y:336.75,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_213},{t:this.back,p:{x:171.25,y:299.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:259.35}}]},1).to({state:[{t:this.instance_214},{t:this.back,p:{x:272.25,y:248.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:255.65}},{t:this.NEXT,p:{x:272.25,y:291.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_215},{t:this.back,p:{x:172.5,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:251.9}},{t:this.NEXT,p:{x:273.5,y:291.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:618.5,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_216},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}},{t:this.NEXT,p:{x:268.5,y:291.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:618.5,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_217},{t:this.back,p:{x:173.75,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.75,y:253.15}},{t:this.NEXT,p:{x:274.75,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:373.6,y:619.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:273.5,y:335.2}}]},1).to({state:[{t:this.instance_218},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}}]},1).to({state:[{t:this.instance_219},{t:this.back,p:{x:170.05,y:294.25,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.05,y:254.35}},{t:this.NEXT,p:{x:271.05,y:294.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.9,y:620.95,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.UP,p:{x:266.25,y:251.85}}]},1).to({state:[{t:this.instance_220},{t:this.back,p:{x:175,y:290.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:175,y:250.65}},{t:this.NEXT,p:{x:276,y:290.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.15,y:622.95,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_221},{t:this.back,p:{x:172.5,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:255.65}}]},1).to({state:[{t:this.instance_222},{t:this.okay,p:{x:271.55,y:292.55}},{t:this.DOWN,p:{x:271.55,y:336}},{t:this.LEFT,p:{x:222.1,y:292.55}},{t:this.okay2,p:{x:369.1,y:623.65}}]},1).to({state:[{t:this.instance_223},{t:this.back,p:{x:172.5,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:253.15}},{t:this.NEXT,p:{x:273.5,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:619.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:273.5,y:336.45}}]},1).to({state:[{t:this.instance_224},{t:this.back,p:{x:171.3,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.3,y:251.9}},{t:this.NEXT,p:{x:272.3,y:291.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.15,y:618.5,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_225},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}},{t:this.NEXT,p:{x:122.25,y:570.45,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_226},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}},{t:this.NEXT,p:{x:184.75,y:525.5,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_227},{t:this.back,p:{x:172.5,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:254.4}},{t:this.NEXT,p:{x:273.5,y:294.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:621,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_228},{t:this.back,p:{x:171.25,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:255.65}},{t:this.NEXT,p:{x:272.25,y:295.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_229},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}},{t:this.NEXT,p:{x:272.25,y:291.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:618.5,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_230},{t:this.back,p:{x:171.25,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:253.15}}]},1).to({state:[{t:this.instance_231},{t:this.back,p:{x:168.75,y:288.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:168.75,y:248.15}},{t:this.NEXT,p:{x:269.75,y:288.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:368.6,y:621,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:269.75,y:331.45}},{t:this.UP,p:{x:269.75,y:248.15}}]},1).to({state:[{t:this.instance_232},{t:this.back,p:{x:171.25,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:255.65}},{t:this.NEXT,p:{x:272.25,y:295.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_233},{t:this.back,p:{x:171.25,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:254.4}},{t:this.NEXT,p:{x:272.25,y:294.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.1,y:621,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_234},{t:this.back,p:{x:171.25,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:255.65}}]},1).to({state:[{t:this.instance_235},{t:this.back,p:{x:172.5,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:254.4}},{t:this.UP,p:{x:271,y:250.65}},{t:this.DOWN,p:{x:271,y:337.7}}]},1).to({state:[{t:this.instance_236},{t:this.back,p:{x:170.05,y:292.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.05,y:252.55}},{t:this.NEXT,p:{x:271.05,y:292.45,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.9,y:619.15,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.UP,p:{x:268.55,y:248.8}},{t:this.DOWN,p:{x:268.55,y:335.85}}]},1).to({state:[{t:this.instance_237},{t:this.back,p:{x:171.25,y:291.2,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.3}},{t:this.NEXT,p:{x:272.25,y:291.2,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:369.85,y:621.65,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_238},{t:this.back,p:{x:172.5,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:251.9}},{t:this.NEXT,p:{x:273.5,y:291.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:618.5,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_239},{t:this.back,p:{x:172.5,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:253.15}},{t:this.NEXT,p:{x:273.5,y:293.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:619.75,regX:0,regY:0,scaleX:1,scaleY:1}}]},1).to({state:[{t:this.instance_240},{t:this.back,p:{x:171.25,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:255.65}}]},1).to({state:[{t:this.instance_241},{t:this.back,p:{x:172.5,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:254.4}},{t:this.NEXT,p:{x:273.5,y:294.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:621,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.UP,p:{x:273.5,y:254.4}}]},1).to({state:[{t:this.instance_243},{t:this.back,p:{x:172.5,y:298.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:258.15}},{t:this.NEXT,p:{x:273.5,y:298.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:624.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_242}]},1).to({state:[{t:this.instance_245},{t:this.back,p:{x:172.5,y:295.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:255.65}},{t:this.NEXT,p:{x:273.5,y:295.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.35,y:622.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_244}]},1).to({state:[{t:this.instance_247},{t:this.back,p:{x:172.5,y:293.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.5,y:253.15}},{t:this.instance_246}]},1).to({state:[{t:this.instance_249},{t:this.okay,p:{x:270.35,y:292.6}},{t:this.RIGHT,p:{x:319.85,y:292.6}},{t:this.UP,p:{x:270.35,y:251.3}},{t:this.okay2,p:{x:369.9,y:622.65}},{t:this.instance_9,p:{x:641.3,y:467.1,scaleX:1,scaleY:1,regX:200,regY:200}},{t:this.instance_248}]},1).to({state:[{t:this.instance_251},{t:this.back,p:{x:171.25,y:291.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.25,y:251.9}},{t:this.NEXT,p:{x:219.75,y:340.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_250}]},1).to({state:[{t:this.instance_253},{t:this.back,p:{x:170,y:294.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170,y:254.4}},{t:this.NEXT,p:{x:271,y:339.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_252}]},1).to({state:[{t:this.instance_255},{t:this.back,p:{x:170.7,y:292.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.7,y:252.8}},{t:this.NEXT,p:{x:271.7,y:337.65,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_254}]},1).to({state:[{t:this.instance_257},{t:this.back,p:{x:171.95,y:292.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.95,y:252.8}},{t:this.NEXT,p:{x:272.95,y:292.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:364.9,y:626.4,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_256}]},1).to({state:[{t:this.instance_259},{t:this.back,p:{x:172.2,y:289.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.2,y:249.65}},{t:this.NEXT,p:{x:123.2,y:383.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_258}]},1).to({state:[{t:this.instance_261},{t:this.back,p:{x:170.95,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:252.15}},{t:this.NEXT,p:{x:271.95,y:292.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:363.9,y:625.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_260}]},1).to({state:[{t:this.instance_263},{t:this.back,p:{x:169.7,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:252.15}},{t:this.NEXT,p:{x:186.95,y:570.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_262}]},1).to({state:[{t:this.instance_265},{t:this.back,p:{x:173.45,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.45,y:253.4}},{t:this.NEXT,p:{x:370.15,y:337,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_264}]},1).to({state:[{t:this.instance_267},{t:this.back,p:{x:173.45,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:173.45,y:253.4}},{t:this.NEXT,p:{x:274.45,y:293.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:366.4,y:627,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_266}]},1).to({state:[{t:this.instance_269},{t:this.back,p:{x:169.7,y:289.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:249.65}},{t:this.NEXT,p:{x:270.7,y:289.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:362.65,y:623.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_268}]},1).to({state:[{t:this.instance_271},{t:this.back,p:{x:169.7,y:295.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:255.9}},{t:this.NEXT,p:{x:270.7,y:295.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:370.15,y:624.5,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_270}]},1).to({state:[{t:this.instance_273},{t:this.back,p:{x:170.95,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:253.4}},{t:this.NEXT,p:{x:271.95,y:293.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.4,y:622,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_272}]},1).to({state:[{t:this.instance_275},{t:this.back,p:{x:169.7,y:294.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:254.65}},{t:this.NEXT,p:{x:270.7,y:294.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:370.15,y:623.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_274}]},1).to({state:[{t:this.instance_277},{t:this.back,p:{x:172.2,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.2,y:253.4}},{t:this.instance_276}]},1).to({state:[{t:this.instance_279},{t:this.okay,p:{x:271.55,y:292.6}},{t:this.RIGHT,p:{x:321.05,y:292.6}},{t:this.UP,p:{x:271.55,y:251.3}},{t:this.LEFT,p:{x:222.1,y:292.6}},{t:this.okay2,p:{x:368.65,y:628.9}},{t:this.instance_278}]},1).to({state:[{t:this.instance_281},{t:this.back,p:{x:172.2,y:290.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.2,y:250.9}},{t:this.NEXT,p:{x:323.2,y:339.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_280}]},1).to({state:[{t:this.instance_283},{t:this.back,p:{x:172.2,y:294.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.2,y:254.65}},{t:this.NEXT,p:{x:273.2,y:294.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.65,y:623.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_282}]},1).to({state:[{t:this.instance_285},{t:this.back,p:{x:170.95,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:252.15}},{t:this.NEXT,p:{x:271.95,y:292.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.4,y:620.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:271.95,y:331.45}},{t:this.instance_284,p:{x:626,y:97}}]},1).to({state:[{t:this.instance_286},{t:this.back,p:{x:172.2,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.2,y:252.15}},{t:this.NEXT,p:{x:273.2,y:292.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:372.65,y:620.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:273.2,y:331.45}},{t:this.UP,p:{x:270.7,y:250.9}},{t:this.instance_284,p:{x:619,y:97}}]},1).to({state:[{t:this.instance_287},{t:this.back,p:{x:170.95,y:293.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:254.05}},{t:this.NEXT,p:{x:271.95,y:293.95,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.4,y:622.65,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:271.95,y:333.35}},{t:this.UP,p:{x:269.45,y:252.8}},{t:this.instance_284,p:{x:626,y:114}}]},1).to({state:[{t:this.instance_288},{t:this.back,p:{x:169.7,y:293.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:254.05}},{t:this.NEXT,p:{x:270.7,y:293.95,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:370.15,y:622.65,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:270.7,y:333.35}},{t:this.UP,p:{x:268.2,y:252.8}},{t:this.instance_284,p:{x:622,y:97}}]},1).to({state:[{t:this.instance_289},{t:this.back,p:{x:170.95,y:293.95,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:254.05}},{t:this.NEXT,p:{x:271.95,y:293.95,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.4,y:622.65,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:271.95,y:333.35}},{t:this.UP,p:{x:269.45,y:252.8}},{t:this.instance_284,p:{x:624,y:97}}]},1).to({state:[{t:this.instance_290},{t:this.back,p:{x:170.95,y:292.7,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:170.95,y:252.8}},{t:this.NEXT,p:{x:271.95,y:292.7,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.NEXT2,p:{x:371.4,y:621.4,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.DOWN,p:{x:271.95,y:332.1}},{t:this.UP,p:{x:269.45,y:251.55}},{t:this.instance_284,p:{x:621,y:97}}]},1).to({state:[{t:this.instance_292},{t:this.back,p:{x:169.7,y:291.45,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:169.7,y:251.55}},{t:this.COMPLEX},{t:this.instance_291}]},1).to({state:[{t:this.instance_294},{t:this.back,p:{x:174.1,y:289.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.1,y:249.65}},{t:this.NEXT1},{t:this.NEXT2,p:{x:368.65,y:622.65,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.instance_293}]},1).to({state:[{t:this.instance_296},{t:this.back,p:{x:172.85,y:295.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.85,y:255.9}},{t:this.NEXT,p:{x:309.6,y:627,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_295}]},1).to({state:[{t:this.instance_298},{t:this.back,p:{x:172.85,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.85,y:252.15}},{t:this.NEXT,p:{x:309.6,y:623.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_297}]},1).to({state:[{t:this.instance_300},{t:this.back,p:{x:174.1,y:290.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.1,y:250.9}},{t:this.NEXT,p:{x:310.85,y:622,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_299}]},1).to({state:[{t:this.instance_302},{t:this.back,p:{x:172.85,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.85,y:253.4}},{t:this.NEXT,p:{x:309.6,y:624.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_301}]},1).to({state:[{t:this.instance_304},{t:this.back,p:{x:171.6,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.6,y:253.4}},{t:this.NEXT,p:{x:308.35,y:624.5,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_303}]},1).to({state:[{t:this.instance_306},{t:this.back,p:{x:171.6,y:294.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.6,y:254.65}},{t:this.NEXT,p:{x:308.35,y:625.75,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_305}]},1).to({state:[{t:this.instance_309},{t:this.okay,p:{x:272.8,y:292.65}},{t:this.UP,p:{x:272.8,y:251.35}},{t:this.LEFT,p:{x:223.35,y:292.65}},{t:this.okay2,p:{x:369.9,y:622.65}},{t:this.instance_308},{t:this.instance_307}]},1).to({state:[{t:this.instance_312},{t:this.back,p:{x:171.6,y:295.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.6,y:255.9}},{t:this.NEXT,p:{x:370.8,y:339.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_311},{t:this.instance_310}]},1).to({state:[{t:this.instance_314},{t:this.back,p:{x:172.85,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.85,y:253.4}},{t:this.NEXT2,p:{x:369.55,y:624.5,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:272.45,y:293.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_313}]},1).to({state:[{t:this.instance_316},{t:this.back,p:{x:171.55,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:253.4}},{t:this.NEXT2,p:{x:368.25,y:624.5,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:271.15,y:293.3,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_315}]},1).to({state:[{t:this.instance_318},{t:this.back,p:{x:172.8,y:290.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:250.9}},{t:this.NEXT,p:{x:186.15,y:571.95,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_317}]},1).to({state:[{t:this.instance_319},{t:this.back,p:{x:172.8,y:293.3,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:253.4}},{t:this.NEXT,p:{x:186.15,y:525.75,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_317}]},1).to({state:[{t:this.instance_321},{t:this.back,p:{x:172.8,y:290.8,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:250.9}},{t:this.NEXT2,p:{x:369.5,y:622,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:272.4,y:290.8,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_320}]},1).to({state:[{t:this.instance_323},{t:this.back,p:{x:171.55,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:252.15}},{t:this.NEXT,p:{x:370.75,y:338.25,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_322}]},1).to({state:[{t:this.instance_325},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT2,p:{x:369.5,y:623.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:272.4,y:292.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_324}]},1).to({state:[{t:this.instance_327},{t:this.back,p:{x:174.05,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:174.05,y:252.15}},{t:this.NEXT2,p:{x:370.75,y:623.25,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:273.65,y:292.05,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_326}]},1).to({state:[{t:this.instance_329},{t:this.back,p:{x:171.55,y:294.55,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:254.65}},{t:this.NEXT2,p:{x:368.25,y:625.75,regX:0,regY:0,scaleX:1,scaleY:1}},{t:this.NEXT,p:{x:271.15,y:294.55,scaleX:1,scaleY:1,regX:0,regY:0}},{t:this.instance_328}]},1).to({state:[{t:this.instance_331},{t:this.back,p:{x:171.55,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:171.55,y:252.15}},{t:this.instance_330}]},1).to({state:[{t:this.instance_333},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.instance_332},{t:this.instance_150,p:{x:1104.7,y:248.85}}]},1).to({state:[{t:this.instance_336},{t:this.instance_335},{t:this.instance_334},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:172.8,y:426.3,scaleX:1,scaleY:1,regX:0,regY:0}}]},1).to({state:[{t:this.instance_337},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:182.4,y:575.35,scaleX:1.6623,scaleY:1.5948,regX:-0.6,regY:0.5}}]},1).to({state:[{t:this.instance_338},{t:this.back_1},{t:this.home_1},{t:this.NEXT,p:{x:371.15,y:424.5,scaleX:1.6623,scaleY:1.2235,regX:-0.5,regY:0.6}},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}}]},1).to({state:[{t:this.instance_339},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:304.2,y:577.25,scaleX:1.6623,scaleY:1.5948,regX:-0.6,regY:0.5}}]},1).to({state:[{t:this.instance_340},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:121.9,y:337.05,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}}]},1).to({state:[{t:this.instance_341},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:219.85,y:424.85,scaleX:1.1559,scaleY:1.1661,regX:0,regY:0}}]},1).to({state:[{t:this.instance_342},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:121.9,y:337.05,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}}]},1).to({state:[{t:this.instance_343},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:123.1,y:476.7,scaleX:1.4489,scaleY:1.4601,regX:-0.4,regY:0.7}}]},1).to({state:[{t:this.instance_344},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:367.75,y:526.2,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}}]},1).to({state:[{t:this.instance_345},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:121.95,y:475.25,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}}]},1).to({state:[{t:this.instance_346},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:371.15,y:426.55,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}}]},1).to({state:[{t:this.instance_347},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}},{t:this.NEXT,p:{x:272.6,y:292.65,scaleX:1.1462,scaleY:1.0058,regX:-0.5,regY:0.5}},{t:this.NEXT2,p:{x:367.8,y:623.65,regX:-0.5,regY:0.5,scaleX:1.1462,scaleY:1.0058}}]},1).to({state:[{t:this.instance_348},{t:this.back,p:{x:172.8,y:292.05,regX:0,regY:0}},{t:this.home,p:{regX:0,regY:0,x:172.8,y:252.15}}]},1).wait(1));
 
 	// Layer_4
 	this.instance_349 = new lib.Abbysmile("synched",0);
@@ -18817,8 +18824,10 @@ if (reversed == null) { reversed = false; }
 	this.shape_4.graphics.f("#00FFFF").s().p("EhkBA38MAAAhv3MDIDAAAMAAABv3g");
 	this.shape_4.setTransform(640.2,361.15);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_519}]}).to({state:[{t:this.shape_4},{t:this.instance_519}]},3).to({state:[{t:this.instance_519}]},1).to({state:[{t:this.instance_519}]},25).to({state:[{t:this.instance_519}]},5).to({state:[{t:this.instance_519}]},205).wait(25));
-	this.timeline.addTween(cjs.Tween.get(this.instance_519).wait(3).to({x:0},0).wait(261));
+	this.instance_520 = new lib.Bitmap514();
+	this.instance_520.setTransform(432,329,0.7399,0.7289);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_519,p:{x:1}}]}).to({state:[{t:this.shape_4},{t:this.instance_519,p:{x:0}}]},3).to({state:[{t:this.instance_519,p:{x:0}}]},1).to({state:[{t:this.instance_519,p:{x:0}}]},25).to({state:[{t:this.instance_519,p:{x:0}},{t:this.instance_520}]},5).to({state:[{t:this.instance_519,p:{x:0}}]},205).wait(25));
 
 	this._renderFirstFrame();
 
